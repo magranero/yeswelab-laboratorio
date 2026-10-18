@@ -22,3 +22,7 @@ Descarga el corpus y los `tokenizer.json` del Hugging Face Hub (todos sin acceso
 - `resultados/resumen.json`: totales, sobrecoste, intervalos, tokens por palabra, caracteres por token y velocidad.
 - `resultados/conteos_por_frase.csv`: tokens de cada frase en cada idioma y tokenizador.
 - `resultados/tiempos.csv`: cada repetición de la medida de velocidad.
+
+## Licencias de terceros
+
+El script descarga el corpus OPUS-100 (Helsinki-NLP) y los `tokenizer.json` de cada modelo desde Hugging Face; no se guardan en este repositorio. Cada uno tiene su propia licencia: consúltala en su ficha antes de reutilizarlos.
