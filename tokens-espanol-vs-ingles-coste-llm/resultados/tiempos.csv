@@ -1,0 +1,50 @@
+tokenizador,repeticion,ms,mcaracteres_por_s
+o200k_base (GPT-4o/GPT-5),0,8.627,18.3832
+o200k_base (GPT-4o/GPT-5),1,7.171,22.1144
+o200k_base (GPT-4o/GPT-5),2,7.158,22.1541
+o200k_base (GPT-4o/GPT-5),3,7.157,22.1577
+o200k_base (GPT-4o/GPT-5),4,7.142,22.2055
+o200k_base (GPT-4o/GPT-5),5,7.195,22.0427
+o200k_base (GPT-4o/GPT-5),6,7.158,22.155
+cl100k_base (GPT-4/3.5),0,12.975,12.2229
+cl100k_base (GPT-4/3.5),1,11.603,13.6678
+cl100k_base (GPT-4/3.5),2,11.601,13.6701
+cl100k_base (GPT-4/3.5),3,11.578,13.6972
+cl100k_base (GPT-4/3.5),4,11.604,13.6668
+cl100k_base (GPT-4/3.5),5,11.591,13.6824
+cl100k_base (GPT-4/3.5),6,11.591,13.6818
+Llama 3,0,66.156,2.3972
+Llama 3,1,62.614,2.5328
+Llama 3,2,61.883,2.5627
+Llama 3,3,60.688,2.6131
+Llama 3,4,62.235,2.5482
+Llama 3,5,62.099,2.5538
+Llama 3,6,62.135,2.5523
+Gemma 3,0,41.288,3.841
+Gemma 3,1,39.006,4.0658
+Gemma 3,2,38.955,4.071
+Gemma 3,3,38.94,4.0726
+Gemma 3,4,39.993,3.9654
+Gemma 3,5,39.09,4.0569
+Gemma 3,6,38.905,4.0763
+Qwen3,0,70.183,2.2596
+Qwen3,1,68.192,2.3256
+Qwen3,2,67.819,2.3384
+Qwen3,3,67.378,2.3537
+Qwen3,4,64.316,2.4658
+Qwen3,5,64.224,2.4693
+Qwen3,6,64.13,2.4729
+DeepSeek-V3,0,72.113,2.1991
+DeepSeek-V3,1,72.371,2.1913
+DeepSeek-V3,2,72.433,2.1894
+DeepSeek-V3,3,72.299,2.1935
+DeepSeek-V3,4,72.42,2.1898
+DeepSeek-V3,5,73.127,2.1687
+DeepSeek-V3,6,73.557,2.156
+Mistral Tekken (Nemo),0,61.398,2.5829
+Mistral Tekken (Nemo),1,57.872,2.7403
+Mistral Tekken (Nemo),2,58.54,2.709
+Mistral Tekken (Nemo),3,58.011,2.7338
+Mistral Tekken (Nemo),4,57.778,2.7447
+Mistral Tekken (Nemo),5,57.779,2.7447
+Mistral Tekken (Nemo),6,58.508,2.7105
