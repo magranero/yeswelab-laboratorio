@@ -1,0 +1,101 @@
+paso,descripcion,url,escala,captura_px,captura_bytes,tokens_captura_claude,tokens_captura_gpt4o,tokens_arbol_completo,tokens_arbol_filtrado,tokens_arbol_filtrado_pantalla,elementos_con_ref,ms_captura,ms_arbol_filtrado,clic_acierta,repeticion
+1,"Abrir la portada","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,62.61,78.84,None,1
+2,"Ir a Experimentos","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,58.47,80.67,True,1
+3,"Buscar «tokens»","/experimentos/",1,"1280x800",102705,1365,1105,6939,2650,304,143,54.27,40.39,True,1
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",1,"1280x800",99632,1365,1105,5976,2059,304,110,51.91,33.66,True,1
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",152290,1365,1105,5320,642,110,37,49.83,28.07,None,1
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",105621,1365,1105,5320,642,234,37,34.89,33.14,True,1
+7,"Abrir la guía de harness de agentes","/guias/",1,"1280x800",147738,1365,1105,4690,1943,172,115,40.92,28.56,True,1
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",1,"1280x800",151189,1365,1105,4419,679,111,37,43.55,28.84,True,1
+9,"Escribir la hipótesis","/#encargo",1,"1280x800",140348,1365,1105,8664,1958,264,105,73.44,105.67,True,1
+10,"Elegir el tipo de decisión","/#encargo",1,"1280x800",131982,1365,1105,8684,1958,264,105,35.56,73.91,True,1
+1,"Abrir la portada","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,59.0,73.95,None,2
+2,"Ir a Experimentos","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,51.36,79.86,True,2
+3,"Buscar «tokens»","/experimentos/",1,"1280x800",102705,1365,1105,6939,2650,304,143,54.67,40.96,True,2
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",1,"1280x800",99632,1365,1105,5976,2059,304,110,63.1,33.96,True,2
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",152290,1365,1105,5320,642,110,37,52.13,27.59,None,2
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",105621,1365,1105,5320,642,234,37,47.47,28.47,True,2
+7,"Abrir la guía de harness de agentes","/guias/",1,"1280x800",147738,1365,1105,4690,1943,172,115,52.52,26.58,True,2
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",1,"1280x800",151189,1365,1105,4419,679,111,37,51.11,26.34,True,2
+9,"Escribir la hipótesis","/#encargo",1,"1280x800",140348,1365,1105,8664,1958,264,105,60.69,70.39,True,2
+10,"Elegir el tipo de decisión","/#encargo",1,"1280x800",131982,1365,1105,8684,1958,264,105,44.14,71.94,True,2
+1,"Abrir la portada","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,61.85,77.0,None,3
+2,"Ir a Experimentos","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,75.2,70.38,True,3
+3,"Buscar «tokens»","/experimentos/",1,"1280x800",102705,1365,1105,6939,2650,304,143,47.23,36.65,True,3
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",1,"1280x800",99632,1365,1105,5976,2059,304,110,43.76,32.79,True,3
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",152290,1365,1105,5320,642,110,37,54.63,26.84,None,3
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",105621,1365,1105,5320,642,234,37,44.87,28.23,True,3
+7,"Abrir la guía de harness de agentes","/guias/",1,"1280x800",147738,1365,1105,4690,1943,172,115,55.06,26.77,True,3
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",1,"1280x800",151189,1365,1105,4419,679,111,37,53.45,26.48,True,3
+9,"Escribir la hipótesis","/#encargo",1,"1280x800",140348,1365,1105,8664,1958,264,105,55.34,68.65,True,3
+10,"Elegir el tipo de decisión","/#encargo",1,"1280x800",131982,1365,1105,8684,1958,264,105,60.04,68.43,True,3
+1,"Abrir la portada","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,83.42,70.26,None,4
+2,"Ir a Experimentos","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,53.44,97.94,True,4
+3,"Buscar «tokens»","/experimentos/",1,"1280x800",102662,1365,1105,6939,2650,304,143,56.66,38.04,True,4
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",1,"1280x800",99632,1365,1105,5976,2059,304,110,49.19,36.72,True,4
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",152290,1365,1105,5320,642,110,37,56.16,27.18,None,4
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",105621,1365,1105,5320,642,234,37,30.12,28.36,True,4
+7,"Abrir la guía de harness de agentes","/guias/",1,"1280x800",147738,1365,1105,4690,1943,172,115,56.79,28.16,True,4
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",1,"1280x800",151189,1365,1105,4419,679,111,37,48.09,27.06,True,4
+9,"Escribir la hipótesis","/#encargo",1,"1280x800",140348,1365,1105,8664,1958,264,105,59.27,70.72,True,4
+10,"Elegir el tipo de decisión","/#encargo",1,"1280x800",131982,1365,1105,8684,1958,264,105,61.26,70.56,True,4
+1,"Abrir la portada","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,58.47,73.69,None,5
+2,"Ir a Experimentos","/",1,"1280x800",147994,1365,1105,8664,1958,114,105,51.95,71.36,True,5
+3,"Buscar «tokens»","/experimentos/",1,"1280x800",102705,1365,1105,6939,2650,304,143,50.52,41.86,True,5
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",1,"1280x800",99632,1365,1105,5976,2059,304,110,73.43,31.17,True,5
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",152290,1365,1105,5320,642,110,37,52.51,25.81,None,5
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",1,"1280x800",105621,1365,1105,5320,642,234,37,41.25,27.76,True,5
+7,"Abrir la guía de harness de agentes","/guias/",1,"1280x800",147738,1365,1105,4690,1943,172,115,43.26,25.34,True,5
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",1,"1280x800",151189,1365,1105,4419,679,111,37,48.04,29.04,True,5
+9,"Escribir la hipótesis","/#encargo",1,"1280x800",140348,1365,1105,8664,1958,264,105,65.08,69.54,True,5
+10,"Elegir el tipo de decisión","/#encargo",1,"1280x800",131982,1365,1105,8684,1958,264,105,58.53,73.25,True,5
+1,"Abrir la portada","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,154.23,76.57,None,1
+2,"Ir a Experimentos","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,146.69,64.59,True,1
+3,"Buscar «tokens»","/experimentos/",2,"2560x1600",230819,1533,1105,6939,2650,304,143,153.35,36.2,True,1
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",2,"2560x1600",223681,1533,1105,5976,2059,304,110,152.32,29.95,True,1
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",330313,1533,1105,5320,642,110,37,162.15,24.93,None,1
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",231575,1533,1105,5320,642,234,37,151.78,24.08,True,1
+7,"Abrir la guía de harness de agentes","/guias/",2,"2560x1600",350864,1533,1105,4690,1943,172,115,160.54,26.12,True,1
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",2,"2560x1600",326461,1533,1105,4419,679,111,37,160.42,25.03,True,1
+9,"Escribir la hipótesis","/#encargo",2,"2560x1600",316669,1533,1105,8664,1958,264,105,167.37,68.31,True,1
+10,"Elegir el tipo de decisión","/#encargo",2,"2560x1600",296342,1533,1105,8684,1958,264,105,154.48,66.77,True,1
+1,"Abrir la portada","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,159.31,68.45,None,2
+2,"Ir a Experimentos","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,142.65,65.06,True,2
+3,"Buscar «tokens»","/experimentos/",2,"2560x1600",230819,1533,1105,6939,2650,304,143,155.24,35.83,True,2
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",2,"2560x1600",223681,1533,1105,5976,2059,304,110,158.55,29.55,True,2
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",330313,1533,1105,5320,642,110,37,161.88,24.23,None,2
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",231575,1533,1105,5320,642,234,37,135.39,24.64,True,2
+7,"Abrir la guía de harness de agentes","/guias/",2,"2560x1600",350864,1533,1105,4690,1943,172,115,184.85,26.07,True,2
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",2,"2560x1600",326461,1533,1105,4419,679,111,37,138.19,24.24,True,2
+9,"Escribir la hipótesis","/#encargo",2,"2560x1600",316669,1533,1105,8664,1958,264,105,170.17,68.6,True,2
+10,"Elegir el tipo de decisión","/#encargo",2,"2560x1600",296342,1533,1105,8684,1958,264,105,160.28,67.15,True,2
+1,"Abrir la portada","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,162.44,72.78,None,3
+2,"Ir a Experimentos","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,146.06,67.63,True,3
+3,"Buscar «tokens»","/experimentos/",2,"2560x1600",230819,1533,1105,6939,2650,304,143,156.7,36.61,True,3
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",2,"2560x1600",223681,1533,1105,5976,2059,304,110,156.24,29.61,True,3
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",330313,1533,1105,5320,642,110,37,152.74,25.47,None,3
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",231575,1533,1105,5320,642,234,37,145.6,25.77,True,3
+7,"Abrir la guía de harness de agentes","/guias/",2,"2560x1600",350864,1533,1105,4690,1943,172,115,178.5,25.48,True,3
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",2,"2560x1600",326461,1533,1105,4419,679,111,37,162.6,26.05,True,3
+9,"Escribir la hipótesis","/#encargo",2,"2560x1600",316669,1533,1105,8664,1958,264,105,169.77,75.14,True,3
+10,"Elegir el tipo de decisión","/#encargo",2,"2560x1600",296342,1533,1105,8684,1958,264,105,151.66,66.56,True,3
+1,"Abrir la portada","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,154.78,68.36,None,4
+2,"Ir a Experimentos","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,148.69,66.49,True,4
+3,"Buscar «tokens»","/experimentos/",2,"2560x1600",230819,1533,1105,6939,2650,304,143,152.33,34.69,True,4
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",2,"2560x1600",223681,1533,1105,5976,2059,304,110,155.96,35.8,True,4
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",330313,1533,1105,5320,642,110,37,163.41,24.69,None,4
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",231575,1533,1105,5320,642,234,37,137.77,25.22,True,4
+7,"Abrir la guía de harness de agentes","/guias/",2,"2560x1600",350864,1533,1105,4690,1943,172,115,177.92,25.63,True,4
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",2,"2560x1600",326461,1533,1105,4419,679,111,37,138.05,24.4,True,4
+9,"Escribir la hipótesis","/#encargo",2,"2560x1600",316669,1533,1105,8664,1958,264,105,172.62,67.39,True,4
+10,"Elegir el tipo de decisión","/#encargo",2,"2560x1600",296342,1533,1105,8684,1958,264,105,146.01,65.3,True,4
+1,"Abrir la portada","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,152.44,68.09,None,5
+2,"Ir a Experimentos","/",2,"2560x1600",314059,1533,1105,8664,1958,114,105,140.27,67.53,True,5
+3,"Buscar «tokens»","/experimentos/",2,"2560x1600",230819,1533,1105,6939,2650,304,143,151.43,336.65,True,5
+4,"Abrir el experimento de tokens","/experimentos/?q=tokens",2,"2560x1600",223681,1533,1105,5976,2059,304,110,149.34,30.5,True,5
+5,"Bajar hasta el final del artículo","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",330313,1533,1105,5320,642,110,37,149.06,25.12,None,5
+6,"Ir a Guías","/experimentos/tokens-espanol-vs-ingles-coste-llm/",2,"2560x1600",231575,1533,1105,5320,642,234,37,127.81,26.16,True,5
+7,"Abrir la guía de harness de agentes","/guias/",2,"2560x1600",350864,1533,1105,4690,1943,172,115,171.32,26.67,True,5
+8,"Ir al formulario de encargo","/guias/harness-agentes-ia-openclaw-hermes-claude-code/",2,"2560x1600",326461,1533,1105,4419,679,111,37,147.32,26.37,True,5
+9,"Escribir la hipótesis","/#encargo",2,"2560x1600",316669,1533,1105,8664,1958,264,105,177.09,73.17,True,5
+10,"Elegir el tipo de decisión","/#encargo",2,"2560x1600",296342,1533,1105,8684,1958,264,105,147.23,66.75,True,5

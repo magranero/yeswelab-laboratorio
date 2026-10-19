@@ -1,0 +1,120 @@
+{
+ "escala_1x": {
+  "captura_px": "1280x800",
+  "tokens_tarea_solo_ultima_observacion": {
+   "tokens_captura_claude": 13650,
+   "tokens_captura_gpt4o": 11050,
+   "tokens_arbol_completo": 67340,
+   "tokens_arbol_filtrado": 16447,
+   "tokens_arbol_filtrado_pantalla": 1991
+  },
+  "tokens_tarea_historial_completo": {
+   "tokens_captura_claude": 75075,
+   "tokens_captura_gpt4o": 60775,
+   "tokens_arbol_completo": 378509,
+   "tokens_arbol_filtrado": 95560,
+   "tokens_arbol_filtrado_pantalla": 10369
+  },
+  "reduccion_filtrado_vs_captura_claude_pct": -20.5,
+  "reduccion_filtrado_vs_captura_gpt4o_pct": -48.8,
+  "reduccion_filtrado_vs_completo_pct": 75.6,
+  "reduccion_pantalla_vs_captura_claude_pct": 85.4,
+  "reduccion_pantalla_vs_captura_gpt4o_pct": 82.0,
+  "reduccion_historial_capturas_claude_vs_pantalla_pct": 86.2,
+  "tokens_arbol_filtrado_por_paso": {
+   "mediana": 1958.0,
+   "min": 642,
+   "max": 2650,
+   "desviacion": 678.77
+  },
+  "tokens_arbol_completo_por_paso": {
+   "mediana": 6457.5,
+   "min": 4419,
+   "max": 8684,
+   "desviacion": 1706.74
+  },
+  "tokens_arbol_filtrado_pantalla_por_paso": {
+   "mediana": 203.0,
+   "min": 110,
+   "max": 304,
+   "desviacion": 79.1
+  },
+  "ms_captura_por_paso": {
+   "mediana": 53.45,
+   "min": 30.12,
+   "max": 83.42,
+   "desviacion": 10.04
+  },
+  "ms_arbol_filtrado_por_paso": {
+   "mediana": 36.69,
+   "min": 25.34,
+   "max": 105.67,
+   "desviacion": 23.21
+  },
+  "clics_por_ref": {
+   "intentos": 40,
+   "aciertos": 40,
+   "fallos": 0
+  },
+  "repeticiones": 5
+ },
+ "escala_2x": {
+  "captura_px": "2560x1600",
+  "tokens_tarea_solo_ultima_observacion": {
+   "tokens_captura_claude": 15330,
+   "tokens_captura_gpt4o": 11050,
+   "tokens_arbol_completo": 67340,
+   "tokens_arbol_filtrado": 16447,
+   "tokens_arbol_filtrado_pantalla": 1991
+  },
+  "tokens_tarea_historial_completo": {
+   "tokens_captura_claude": 84315,
+   "tokens_captura_gpt4o": 60775,
+   "tokens_arbol_completo": 378509,
+   "tokens_arbol_filtrado": 95560,
+   "tokens_arbol_filtrado_pantalla": 10369
+  },
+  "reduccion_filtrado_vs_captura_claude_pct": -7.3,
+  "reduccion_filtrado_vs_captura_gpt4o_pct": -48.8,
+  "reduccion_filtrado_vs_completo_pct": 75.6,
+  "reduccion_pantalla_vs_captura_claude_pct": 87.0,
+  "reduccion_pantalla_vs_captura_gpt4o_pct": 82.0,
+  "reduccion_historial_capturas_claude_vs_pantalla_pct": 87.7,
+  "tokens_arbol_filtrado_por_paso": {
+   "mediana": 1958.0,
+   "min": 642,
+   "max": 2650,
+   "desviacion": 678.77
+  },
+  "tokens_arbol_completo_por_paso": {
+   "mediana": 6457.5,
+   "min": 4419,
+   "max": 8684,
+   "desviacion": 1706.74
+  },
+  "tokens_arbol_filtrado_pantalla_por_paso": {
+   "mediana": 203.0,
+   "min": 110,
+   "max": 304,
+   "desviacion": 79.1
+  },
+  "ms_captura_por_paso": {
+   "mediana": 154.35,
+   "min": 127.81,
+   "max": 184.85,
+   "desviacion": 11.83
+  },
+  "ms_arbol_filtrado_por_paso": {
+   "mediana": 35.24,
+   "min": 24.08,
+   "max": 336.65,
+   "desviacion": 45.62
+  },
+  "clics_por_ref": {
+   "intentos": 40,
+   "aciertos": 40,
+   "fallos": 0
+  },
+  "repeticiones": 5
+ }
+}

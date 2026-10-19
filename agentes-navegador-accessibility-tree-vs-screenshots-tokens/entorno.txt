@@ -1,0 +1,7 @@
+Fecha de ejecución: 2026-10-19
+Equipo: Apple M1 Max, 64 GB, macOS 26.6.2 (portátil con otras apps abiertas)
+Python: 3.14.4
+playwright 1.64.0 · Chromium 156.0.8078.4 (headless)
+tiktoken 0.14.0 (o200k_base)
+Viewport: 1280x800 a 1x y 2x · 5 repeticiones de la tarea de 10 pasos por escala
+Sitio: yeswelab.com compilado con Astro y servido en local (127.0.0.1)
