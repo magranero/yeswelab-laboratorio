@@ -1,0 +1,224 @@
+{
+ "modelos": {
+  "gemma3:4b": {
+   "salidas": 150,
+   "validas_sin_reparar": 0,
+   "validas_sin_reparar_pct": 0.0,
+   "fallos": 150,
+   "fallos_pct": 100.0,
+   "fallos_por_tipo": {
+    "markdown": 150
+   },
+   "reparados_por_tipo": {
+    "markdown": 150
+   },
+   "devuelve_el_esquema": 0,
+   "validos_tras_reparar_local": 150,
+   "validos_tras_reparar_local_pct": 100.0,
+   "pedidos_correctos_tras_reparar_local": 145,
+   "pedidos_correctos_tras_reparar_local_pct": 96.7,
+   "reintentos_reales": 0,
+   "reintentos_que_arreglan": 0,
+   "reintentos_con_pedido_correcto": 0,
+   "tokens_llamada_mediana": 951.5,
+   "tokens_reintento_mediana": null,
+   "reintento_real_vs_estimado_mediana": null,
+   "ms_llamada_mediana": 10087.4,
+   "ms_reintento_mediana": null,
+   "tokens_extra_reintentar_siempre_por_1000": 1209440,
+   "tokens_extra_reparar_primero_por_1000": 0,
+   "tokens_totales_reintentar_siempre_por_1000": 2132127,
+   "tokens_totales_reparar_primero_por_1000": 922687,
+   "ahorro_tokens_totales_pct": 56.7,
+   "reintentos_evitados_pct": 100.0,
+   "restringida": {
+    "salidas": 150,
+    "json_valido": 150,
+    "valido_segun_esquema": 150,
+    "pedidos_correctos": 145,
+    "pedidos_correctos_pct": 96.7,
+    "tokens_mediana": 946.5,
+    "ms_mediana": 8415.0
+   }
+  },
+  "llama3.1": {
+   "salidas": 150,
+   "validas_sin_reparar": 58,
+   "validas_sin_reparar_pct": 38.7,
+   "fallos": 92,
+   "fallos_pct": 61.3,
+   "fallos_por_tipo": {
+    "texto_extra": 55,
+    "sin_json": 32,
+    "markdown": 1,
+    "no_cumple_esquema": 2,
+    "devuelve_esquema": 2
+   },
+   "reparados_por_tipo": {
+    "texto_extra": 53,
+    "sin_json": 0,
+    "markdown": 1,
+    "no_cumple_esquema": 0,
+    "devuelve_esquema": 0
+   },
+   "devuelve_el_esquema": 2,
+   "validos_tras_reparar_local": 112,
+   "validos_tras_reparar_local_pct": 74.7,
+   "pedidos_correctos_tras_reparar_local": 97,
+   "pedidos_correctos_tras_reparar_local_pct": 64.7,
+   "reintentos_reales": 38,
+   "reintentos_que_arreglan": 37,
+   "reintentos_con_pedido_correcto": 25,
+   "tokens_llamada_mediana": 769.5,
+   "tokens_reintento_mediana": 842.5,
+   "reintento_real_vs_estimado_mediana": 1.287,
+   "ms_llamada_mediana": 6977.5,
+   "ms_reintento_mediana": 7032.0,
+   "tokens_extra_reintentar_siempre_por_1000": 584360,
+   "tokens_extra_reparar_primero_por_1000": 215153,
+   "tokens_totales_reintentar_siempre_por_1000": 1319813,
+   "tokens_totales_reparar_primero_por_1000": 950607,
+   "ahorro_tokens_totales_pct": 28.0,
+   "reintentos_evitados_pct": 58.7,
+   "restringida": {
+    "salidas": 150,
+    "json_valido": 150,
+    "valido_segun_esquema": 150,
+    "pedidos_correctos": 127,
+    "pedidos_correctos_pct": 84.7,
+    "tokens_mediana": 787.0,
+    "ms_mediana": 7011.0
+   }
+  },
+  "llama3.2": {
+   "salidas": 150,
+   "validas_sin_reparar": 1,
+   "validas_sin_reparar_pct": 0.7,
+   "fallos": 149,
+   "fallos_pct": 99.3,
+   "fallos_por_tipo": {
+    "texto_extra": 3,
+    "devuelve_esquema": 145,
+    "no_cumple_esquema": 1
+   },
+   "reparados_por_tipo": {
+    "texto_extra": 2,
+    "devuelve_esquema": 0,
+    "no_cumple_esquema": 0
+   },
+   "devuelve_el_esquema": 145,
+   "validos_tras_reparar_local": 3,
+   "validos_tras_reparar_local_pct": 2.0,
+   "pedidos_correctos_tras_reparar_local": 0,
+   "pedidos_correctos_tras_reparar_local_pct": 0.0,
+   "reintentos_reales": 147,
+   "reintentos_que_arreglan": 51,
+   "reintentos_con_pedido_correcto": 42,
+   "tokens_llamada_mediana": 924.0,
+   "tokens_reintento_mediana": 1214,
+   "reintento_real_vs_estimado_mediana": 0.941,
+   "ms_llamada_mediana": 6416.8,
+   "ms_reintento_mediana": 4866.4,
+   "tokens_extra_reintentar_siempre_por_1000": 1250360,
+   "tokens_extra_reparar_primero_por_1000": 1232780,
+   "tokens_totales_reintentar_siempre_por_1000": 2190933,
+   "tokens_totales_reparar_primero_por_1000": 2173353,
+   "ahorro_tokens_totales_pct": 0.8,
+   "reintentos_evitados_pct": 1.3,
+   "restringida": {
+    "salidas": 150,
+    "json_valido": 150,
+    "valido_segun_esquema": 150,
+    "pedidos_correctos": 114,
+    "pedidos_correctos_pct": 76.0,
+    "tokens_mediana": 803.0,
+    "ms_mediana": 4456.3
+   }
+  },
+  "qwen2.5:3b": {
+   "salidas": 150,
+   "validas_sin_reparar": 83,
+   "validas_sin_reparar_pct": 55.3,
+   "fallos": 67,
+   "fallos_pct": 44.7,
+   "fallos_por_tipo": {
+    "cierre_equivocado": 67
+   },
+   "reparados_por_tipo": {
+    "cierre_equivocado": 67
+   },
+   "devuelve_el_esquema": 0,
+   "validos_tras_reparar_local": 150,
+   "validos_tras_reparar_local_pct": 100.0,
+   "pedidos_correctos_tras_reparar_local": 128,
+   "pedidos_correctos_tras_reparar_local_pct": 85.3,
+   "reintentos_reales": 0,
+   "reintentos_que_arreglan": 0,
+   "reintentos_con_pedido_correcto": 0,
+   "tokens_llamada_mediana": 829.5,
+   "tokens_reintento_mediana": null,
+   "reintento_real_vs_estimado_mediana": null,
+   "ms_llamada_mediana": 7018.9,
+   "ms_reintento_mediana": null,
+   "tokens_extra_reintentar_siempre_por_1000": 518873,
+   "tokens_extra_reparar_primero_por_1000": 0,
+   "tokens_totales_reintentar_siempre_por_1000": 1325753,
+   "tokens_totales_reparar_primero_por_1000": 806880,
+   "ahorro_tokens_totales_pct": 39.1,
+   "reintentos_evitados_pct": 100.0,
+   "restringida": {
+    "salidas": 150,
+    "json_valido": 150,
+    "valido_segun_esquema": 150,
+    "pedidos_correctos": 128,
+    "pedidos_correctos_pct": 85.3,
+    "tokens_mediana": 829.5,
+    "ms_mediana": 6100.1
+   }
+  }
+ },
+ "errores_globales": {
+  "fallos": 458,
+  "por_tipo": {
+   "markdown": 151,
+   "texto_extra": 58,
+   "sin_json": 32,
+   "no_cumple_esquema": 3,
+   "devuelve_esquema": 147,
+   "cierre_equivocado": 67
+  },
+  "reparados_por_tipo": {
+   "markdown": 151,
+   "texto_extra": 55,
+   "sin_json": 0,
+   "no_cumple_esquema": 0,
+   "devuelve_esquema": 0,
+   "cierre_equivocado": 67
+  },
+  "tasa_reparacion_por_tipo_pct": {
+   "sin_json": 0.0,
+   "cierre_equivocado": 100.0,
+   "markdown": 100.0,
+   "texto_extra": 94.8,
+   "devuelve_esquema": 0.0,
+   "no_cumple_esquema": 0.0
+  },
+  "mezcla_real_pct": {
+   "markdown": 33.0,
+   "texto_extra": 12.7,
+   "sin_json": 7.0,
+   "no_cumple_esquema": 0.7,
+   "devuelve_esquema": 32.1,
+   "cierre_equivocado": 14.6
+  }
+ },
+ "sensibilidad_ahorro_tokens_extra_pct": {
+  "mezcla_real": 59.6,
+  "todo_sin_json": 0.0,
+  "todo_cierre_equivocado": 100.0,
+  "todo_markdown": 100.0,
+  "todo_texto_extra": 94.8,
+  "todo_devuelve_esquema": 0.0,
+  "todo_no_cumple_esquema": 0.0
+ }
+}

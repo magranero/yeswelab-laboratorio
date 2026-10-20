@@ -1,0 +1,10 @@
+Fecha: 2026-10-20
+Equipo: Apple M1 Max, 64 GB, macOS 26.6.2 (portátil con otras apps abiertas)
+Ollama 0.40.5
+Modelo gemma3:4b (id 68ceab7e468a, 3.4 GB)
+Modelo qwen2.5:3b (id 357c53fb659c, 1.9 GB)
+Modelo llama3.2:latest (id a80c4f17acd5, 2.0 GB)
+Modelo llama3.1:latest (id 42182419e950, 4.7 GB)
+Python 3.12.4 · json-repair 0.64.1
+Opciones: temperature 0.7, num_predict 600, semillas 1-5 (reintento: semilla+100); salida restringida con el JSON Schema en el parámetro format de Ollama
+Corpus: 30 correos sintéticos en español (semilla 2026), 5 semillas por correo y modelo
