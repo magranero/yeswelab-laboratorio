@@ -1,0 +1,55 @@
+{
+ "casos": 1000,
+ "repeticiones": 5,
+ "json_loads_estricto_ok": 0,
+ "json_repair": {
+  "parseables": 1000,
+  "parseables_pct": 100.0,
+  "identicos_al_original": 833,
+  "identicos_pct": 83.3,
+  "ms_por_reparacion": {
+   "mediana": 0.122,
+   "p95": 0.425,
+   "max": 0.637
+  },
+  "por_fallo": {
+   "coma_final": {
+    "casos": 167,
+    "reparados_identicos": 167,
+    "parseables": 167
+   },
+   "bloque_markdown": {
+    "casos": 167,
+    "reparados_identicos": 167,
+    "parseables": 167
+   },
+   "comillas_simples": {
+    "casos": 167,
+    "reparados_identicos": 167,
+    "parseables": 167
+   },
+   "cortado": {
+    "casos": 167,
+    "reparados_identicos": 0,
+    "parseables": 167
+   },
+   "sin_comillas_claves": {
+    "casos": 166,
+    "reparados_identicos": 166,
+    "parseables": 166
+   },
+   "comentario": {
+    "casos": 166,
+    "reparados_identicos": 166,
+    "parseables": 166
+   }
+  }
+ },
+ "tokens_reintento": {
+  "entrada_mediana": 545.0,
+  "salida_mediana": 205.5,
+  "total_mediana": 745.0,
+  "llamada_original_mediana": 550.5,
+  "reintento_vs_llamada_original_pct": 137.3
+ }
+}
