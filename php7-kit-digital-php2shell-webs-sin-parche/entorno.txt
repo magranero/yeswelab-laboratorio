@@ -1,0 +1,4 @@
+Fecha: 2026-10-22
+Python 3.15.0 (solo biblioteca estándar)
+Fuentes consultadas ese día: php.net (releases JSON, eol.php, ChangeLog-8), NVD API 2.0 (NIST), BOE-A-2021-21873, W3Techs (pl-php y pl-php/7)
+Equipo: Apple M1 Max, macOS 26.6.2

@@ -1,0 +1,942 @@
+{
+ "cves": {
+  "CVE-2026-6103": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-91769": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-91767": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2025-1218": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-91765": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2025-14181": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-93682": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-17545": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-91766": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-92842": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-91768": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "CVE-2026-7260": {
+   "primera_version": "8.5.9",
+   "fecha": "2026-07-30"
+  },
+  "CVE-2026-17543": {
+   "primera_version": "8.5.9",
+   "fecha": "2026-07-30"
+  },
+  "CVE-2026-9672": {
+   "primera_version": "8.5.9",
+   "fecha": "2026-07-30"
+  },
+  "CVE-2026-17544": {
+   "primera_version": "8.5.9",
+   "fecha": "2026-07-30"
+  },
+  "CVE-2026-14355": {
+   "primera_version": "8.5.8",
+   "fecha": "2026-07-02"
+  },
+  "CVE-2026-44928": {
+   "primera_version": "8.5.7",
+   "fecha": "2026-06-04"
+  },
+  "CVE-2026-44927": {
+   "primera_version": "8.5.7",
+   "fecha": "2026-06-04"
+  },
+  "CVE-2026-42371": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-6735": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-7261": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-7259": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-7262": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-7568": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-7258": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-6104": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-12184": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-6722": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2025-14179": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2026-7263": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "CVE-2025-14180": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "CVE-2025-14178": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "CVE-2025-14177": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "CVE-2025-67899": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "CVE-2025-1220": {
+   "primera_version": "8.4.10",
+   "fecha": "2025-07-03"
+  },
+  "CVE-2025-1735": {
+   "primera_version": "8.4.10",
+   "fecha": "2025-07-03"
+  },
+  "CVE-2025-6491": {
+   "primera_version": "8.4.10",
+   "fecha": "2025-07-03"
+  },
+  "CVE-2024-11235": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "CVE-2025-1734": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "CVE-2025-1219": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "CVE-2025-1736": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "CVE-2025-1861": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "CVE-2025-1217": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "CVE-2024-8929": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "CVE-2024-11234": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "CVE-2024-11233": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "CVE-2024-8932": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "CVE-2024-11236": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "CVE-2024-4577": {
+   "primera_version": "8.3.8",
+   "fecha": "2024-06-06"
+  },
+  "CVE-2024-9026": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "CVE-2024-8926": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "CVE-2024-8925": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "CVE-2024-8927": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "CVE-2024-1874": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "CVE-2024-5458": {
+   "primera_version": "8.3.8",
+   "fecha": "2024-06-06"
+  },
+  "CVE-2024-5585": {
+   "primera_version": "8.3.8",
+   "fecha": "2024-06-06"
+  },
+  "CVE-2024-3096": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "CVE-2024-2756": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "CVE-2022-31629": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "CVE-2024-2757": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "CVE-2023-3824": {
+   "primera_version": "8.2.9",
+   "fecha": "2023-08-03"
+  },
+  "CVE-2023-3823": {
+   "primera_version": "8.2.9",
+   "fecha": "2023-08-03"
+  },
+  "CVE-2023-3247": {
+   "primera_version": "8.2.7",
+   "fecha": "2023-06-08"
+  },
+  "CVE-2023-0568": {
+   "primera_version": "8.2.3",
+   "fecha": "2023-02-14"
+  },
+  "CVE-2023-0567": {
+   "primera_version": "8.2.3",
+   "fecha": "2023-02-14"
+  },
+  "CVE-2023-0662": {
+   "primera_version": "8.2.3",
+   "fecha": "2023-02-14"
+  },
+  "CVE-2022-31631": {
+   "primera_version": "8.2.1",
+   "fecha": "2023-01-05"
+  },
+  "CVE-2022-37454": {
+   "primera_version": "8.2.0",
+   "fecha": "2022-12-08"
+  },
+  "CVE-2022-31630": {
+   "primera_version": "8.2.0",
+   "fecha": "2022-12-08"
+  }
+ },
+ "nvd": [
+  {
+   "cve": "CVE-2022-31629",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2022-31630",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2022-31631",
+   "en_nvd": true,
+   "cvss": 9.1,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2022-37454",
+   "en_nvd": true,
+   "cvss": 9.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2023-0567",
+   "en_nvd": true,
+   "cvss": 7.7,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2023-0568",
+   "en_nvd": true,
+   "cvss": 7.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2023-0662",
+   "en_nvd": true,
+   "cvss": 7.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2023-3247",
+   "en_nvd": true,
+   "cvss": 2.6,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2023-3823",
+   "en_nvd": true,
+   "cvss": 8.6,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2023-3824",
+   "en_nvd": true,
+   "cvss": 9.4,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-11233",
+   "en_nvd": true,
+   "cvss": 4.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-11234",
+   "en_nvd": true,
+   "cvss": 4.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-11235",
+   "en_nvd": true,
+   "cvss": 9.2,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-11236",
+   "en_nvd": true,
+   "cvss": 9.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-1874",
+   "en_nvd": true,
+   "cvss": 9.4,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-2756",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-2757",
+   "en_nvd": true,
+   "cvss": 7.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-3096",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-4577",
+   "en_nvd": true,
+   "cvss": 9.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-5458",
+   "en_nvd": true,
+   "cvss": 5.3,
+   "nvd_incluye_php7": true
+  },
+  {
+   "cve": "CVE-2024-5585",
+   "en_nvd": true,
+   "cvss": 7.7,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-8925",
+   "en_nvd": true,
+   "cvss": 3.1,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-8926",
+   "en_nvd": true,
+   "cvss": 8.1,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-8927",
+   "en_nvd": true,
+   "cvss": 7.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-8929",
+   "en_nvd": true,
+   "cvss": 5.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-8932",
+   "en_nvd": true,
+   "cvss": 9.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2024-9026",
+   "en_nvd": true,
+   "cvss": 3.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1217",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1218",
+   "en_nvd": true,
+   "cvss": 3.4,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1219",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1220",
+   "en_nvd": true,
+   "cvss": 3.7,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-14177",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-14178",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-14179",
+   "en_nvd": true,
+   "cvss": 7.4,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-14180",
+   "en_nvd": true,
+   "cvss": 8.2,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-14181",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1734",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1735",
+   "en_nvd": true,
+   "cvss": 5.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1736",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-1861",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-6491",
+   "en_nvd": true,
+   "cvss": 5.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2025-67899",
+   "en_nvd": true,
+   "cvss": 2.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-12184",
+   "en_nvd": false
+  },
+  {
+   "cve": "CVE-2026-14355",
+   "en_nvd": true,
+   "cvss": 5.6,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-17543",
+   "en_nvd": true,
+   "cvss": 8.1,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-17544",
+   "en_nvd": true,
+   "cvss": 8.1,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-17545",
+   "en_nvd": true,
+   "cvss": 6.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-42371",
+   "en_nvd": true,
+   "cvss": 5.1,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-44927",
+   "en_nvd": true,
+   "cvss": 2.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-44928",
+   "en_nvd": true,
+   "cvss": 2.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-6103",
+   "en_nvd": true,
+   "cvss": 4.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-6104",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-6722",
+   "en_nvd": true,
+   "cvss": 9.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-6735",
+   "en_nvd": true,
+   "cvss": 7.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-7258",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-7259",
+   "en_nvd": true,
+   "cvss": 2.1,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-7260",
+   "en_nvd": true,
+   "cvss": 5.4,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-7261",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-7262",
+   "en_nvd": true,
+   "cvss": 2.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-7263",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-7568",
+   "en_nvd": true,
+   "cvss": 6.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-91765",
+   "en_nvd": true,
+   "cvss": 7.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-91766",
+   "en_nvd": true,
+   "cvss": 5.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-91767",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-91768",
+   "en_nvd": true,
+   "cvss": 6.5,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-91769",
+   "en_nvd": true,
+   "cvss": 4.3,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-92842",
+   "en_nvd": true,
+   "cvss": 5.9,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-93682",
+   "en_nvd": true,
+   "cvss": 5.8,
+   "nvd_incluye_php7": false
+  },
+  {
+   "cve": "CVE-2026-9672",
+   "en_nvd": false
+  }
+ ],
+ "ghsa": {
+  "GHSA-6wmf-4rv5-p3rp": {
+   "primera_version": "8.5.12",
+   "fecha": "2026-10-22"
+  },
+  "GHSA-w8hw-w9fx-j79w": {
+   "primera_version": "8.5.12",
+   "fecha": "2026-10-22"
+  },
+  "GHSA-r6x9-5r99-36j7": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-cj93-vc83-wgqv": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-j3wh-g957-2m85": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-xr7j-rvgx-xq5p": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-fpwc-w8rq-cr92": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-7875-c8px-7q5f": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-rgrp-mwpx-f6rm": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-vvx9-73fr-5jjx": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-62xp-839h-2637": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-9f67-6fw4-hpfp": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-88hq-2827-7pg6": {
+   "primera_version": "8.5.11",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-x692-q9x7-8c3f": {
+   "primera_version": "8.5.9",
+   "fecha": "2026-07-30"
+  },
+  "GHSA-vc5h-9ppw-p5f3": {
+   "primera_version": "8.5.9",
+   "fecha": "2026-07-30"
+  },
+  "GHSA-7qpv-r5mr-78m4": {
+   "primera_version": "8.5.9",
+   "fecha": "2026-07-30"
+  },
+  "GHSA-85c2-q967-79q5": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-hmxp-6pc4-f3vv": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-96wq-48vp-hh57": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-m8rr-4c36-8gq4": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-74r9-qxhc-fx53": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-wm6j-2649-pv75": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-w476-322c-wpvm": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-m33r-qmcv-p97q": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-4jhr-8w89-j733": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-7qg2-v9fj-4mwv": {
+   "primera_version": "8.5.6",
+   "fecha": "2026-05-07"
+  },
+  "GHSA-www2-q4fc-65wf": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "GHSA-h96m-rvf9-jgm2": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "GHSA-3237-qqm7-mfv7": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "GHSA-8xr5-qppj-gvwj": {
+   "primera_version": "8.5.1",
+   "fecha": "2025-12-18"
+  },
+  "GHSA-453j-q27h-5p8x": {
+   "primera_version": "8.4.10",
+   "fecha": "2025-07-03"
+  },
+  "GHSA-3cr5-j632-f35r": {
+   "primera_version": "8.4.10",
+   "fecha": "2025-07-03"
+  },
+  "GHSA-hrwm-9436-5mv3": {
+   "primera_version": "8.4.10",
+   "fecha": "2025-07-03"
+  },
+  "GHSA-wg4p-4hqh-c3g9": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "GHSA-pcmh-g36c-qc44": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "GHSA-hgf5-96fm-v528": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "GHSA-v8xr-gpvj-cx9g": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "GHSA-52jp-hrpf-2jff": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "GHSA-p3x9-6h7p-cgfc": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "GHSA-rwp7-7vc6-8477": {
+   "primera_version": "8.4.5",
+   "fecha": "2025-03-13"
+  },
+  "GHSA-ch8v-r6jh-4vvr": {
+   "primera_version": "8.3.35",
+   "fecha": "2026-09-24"
+  },
+  "GHSA-c5f2-jwm7-mmq2": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "GHSA-4w77-75f9-2c8w": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "GHSA-h35g-vwh6-m678": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "GHSA-5hqh-c84r-qjcv": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "GHSA-g665-fm4p-vhff": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "GHSA-r977-prxv-hc43": {
+   "primera_version": "8.3.14",
+   "fecha": "2024-11-21"
+  },
+  "GHSA-94p6-54jq-9mwp": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "GHSA-9pqp-7h25-4f32": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "GHSA-865w-9rf3-2wh5": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "GHSA-p99j-rfp4-xqvq": {
+   "primera_version": "8.3.12",
+   "fecha": "2024-09-26"
+  },
+  "GHSA-3qgc-jrrr-25jv": {
+   "primera_version": "8.3.8",
+   "fecha": "2024-06-06"
+  },
+  "GHSA-w8qr-v226-r27w": {
+   "primera_version": "8.3.8",
+   "fecha": "2024-06-06"
+  },
+  "GHSA-9fcc-425m-g385": {
+   "primera_version": "8.3.8",
+   "fecha": "2024-06-06"
+  },
+  "GHSA-fjp9-9hwx-59fq": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "GHSA-h746-cjrr-wfmr": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "GHSA-wpj3-hf5j-x4v4": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "GHSA-pc52-254m-w9w7": {
+   "primera_version": "8.3.6",
+   "fecha": "2024-04-11"
+  },
+  "GHSA-3qrf-m4j2-pcrr": {
+   "primera_version": "8.2.9",
+   "fecha": "2023-08-03"
+  },
+  "GHSA-jqcx-ccgc-xwhv": {
+   "primera_version": "8.2.9",
+   "fecha": "2023-08-03"
+  },
+  "GHSA-76gg-c692-v2mw": {
+   "primera_version": "8.2.7",
+   "fecha": "2023-06-08"
+  },
+  "GHSA-54hq-v5wp-fqgv": {
+   "primera_version": "8.2.3",
+   "fecha": "2023-02-14"
+  }
+ }
+}

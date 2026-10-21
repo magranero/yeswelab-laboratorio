@@ -1,0 +1,96 @@
+{
+ "fecha": "2026-10-22",
+ "php": {
+  "lanzamiento_7_0": "2015-12-03",
+  "fin_de_soporte": {
+   "5.6": "2018-12-31",
+   "7.0": "2019-01-10",
+   "7.1": "2019-12-01",
+   "7.2": "2020-11-30",
+   "7.3": "2021-12-06",
+   "7.4": "2022-11-28",
+   "8.0": "2023-11-26",
+   "8.1": "2025-12-31"
+  },
+  "ultima_7_4": {
+   "version": "7.4.33",
+   "fecha": "2022-11-03"
+  },
+  "dias_desde_fin_7_4": 1424,
+  "ultimas_versiones_8": {
+   "8.2": {
+    "version": "8.2.35",
+    "fecha": "2026-10-21"
+   },
+   "8.3": {
+    "version": "8.3.36",
+    "fecha": "2026-10-21"
+   },
+   "8.4": {
+    "version": "8.4.27",
+    "fecha": "2026-10-21"
+   },
+   "8.5": {
+    "version": "8.5.12",
+    "fecha": "2026-10-21"
+   }
+  }
+ },
+ "desde_fin_7_4": {
+  "versiones_de_seguridad_php8": 58,
+  "cve_corregidos_en_php8": 69,
+  "cve_en_nvd": 67,
+  "cve_que_nvd_marca_en_php7": 1,
+  "avisos_ghsa_en_changelog": 62
+ },
+ "kit_digital": {
+  "calendario": {
+   "segmento_I": {
+    "apertura": "2022-03-15",
+    "dias_de_soporte_que_le_quedaban_a_php74": 258
+   },
+   "segmento_II": {
+    "apertura": "2022-09-02",
+    "dias_de_soporte_que_le_quedaban_a_php74": 87
+   },
+   "segmento_III": {
+    "apertura": "2022-10-20",
+    "dias_de_soporte_que_le_quedaban_a_php74": 39
+   }
+  },
+  "requisitos_web": {
+   "fuente": "BOE-A-2021-21873 (Orden ETD/1498/2021), anexo IV, Sitio web y presencia en internet",
+   "importe_euros": 2000,
+   "doce_meses_dominio": true,
+   "doce_meses_hosting": true,
+   "exige_wcag_aa": true,
+   "palabras_del_requisito": 304,
+   "menciones": {
+    "seguridad": 0,
+    "actualiz": 0,
+    "mantenimiento": 0,
+    "parche": 0,
+    "PHP": 0,
+    "versión": 0
+   }
+  }
+ },
+ "w3techs": {
+  "fecha_consulta": "2026-10-22",
+  "php_en_webs_pct": 69.3,
+  "por_version_principal_pct": {
+   "8": 65.2,
+   "7": 27.0,
+   "5": 7.7,
+   "4": 0.1
+  },
+  "dentro_de_php7_pct": {
+   "7.4": 73.4,
+   "7.3": 10.5,
+   "7.2": 8.4,
+   "7.0": 4.0,
+   "7.1": 3.7
+  }
+ },
+ "webs_con_php_5_o_7_sobre_el_total_pct": 24.0
+}
