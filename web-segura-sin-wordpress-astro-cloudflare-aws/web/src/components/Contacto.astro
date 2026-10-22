@@ -1,0 +1,58 @@
+---
+// Formulario que envía a la API. La clave de Turnstile es pública; el secreto vive solo en la API.
+const api = import.meta.env.PUBLIC_API_URL ?? 'http://localhost:8000';
+const sitekey = import.meta.env.PUBLIC_TURNSTILE_SITEKEY ?? '1x00000000000000000000AA';
+---
+<form id="contacto" data-api={api} novalidate>
+  <label for="nombre">Nombre</label>
+  <input id="nombre" name="nombre" required minlength="2" maxlength="200" autocomplete="name" />
+
+  <label for="email">Email</label>
+  <input id="email" name="email" type="email" required maxlength="320" autocomplete="email" />
+
+  <label for="mensaje">Mensaje</label>
+  <textarea id="mensaje" name="mensaje" required minlength="10" maxlength="4000" rows="6"></textarea>
+
+  <!-- Honeypot: invisible para personas, los bots lo rellenan -->
+  <div class="oculto" aria-hidden="true">
+    <label for="web">No rellenes este campo</label>
+    <input id="web" name="web" tabindex="-1" autocomplete="off" />
+  </div>
+
+  <div class="cf-turnstile" data-sitekey={sitekey}></div>
+  <button type="submit">Enviar</button>
+  <p id="estado" role="status"></p>
+</form>
+
+<script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script>
+  const form = document.getElementById('contacto') as HTMLFormElement;
+  const estado = document.getElementById('estado')!;
+  const abierto = Date.now();
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!form.reportValidity()) return;
+    const datos = new FormData(form);
+    estado.textContent = 'Enviando…';
+    try {
+      const r = await fetch(`${form.dataset.api}/v1/contacto`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          nombre: datos.get('nombre'),
+          email: datos.get('email'),
+          mensaje: datos.get('mensaje'),
+          web: datos.get('web'),
+          turnstile: datos.get('cf-turnstile-response') ?? '',
+          ms_en_formulario: Date.now() - abierto,
+        }),
+      });
+      const j = await r.json().catch(() => ({}));
+      estado.textContent = r.ok ? 'Recibido. Te contestamos pronto.' : (j.detail ?? 'No se pudo enviar. Prueba en un rato.');
+      if (r.ok) form.reset();
+    } catch {
+      estado.textContent = 'No se pudo conectar. Prueba en un rato.';
+    }
+  });
+</script>

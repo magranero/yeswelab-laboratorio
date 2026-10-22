@@ -1,0 +1,32 @@
+# Entorno local: PostgreSQL 18 con el esquema de permisos mínimos y la API.
+#   docker compose up -d --build
+#   curl http://localhost:8000/health
+services:
+  db:
+    image: postgres:18
+    environment:
+      POSTGRES_DB: web
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin-solo-en-local
+    volumes:
+      - ./sql/esquema.sql:/docker-entrypoint-initdb.d/01-esquema.sql:ro
+    ports:
+      - "127.0.0.1:55432:5432"   # solo accesible desde tu máquina (55432 para no chocar con otro PostgreSQL)
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d web"]
+      interval: 3s
+      retries: 20
+
+  api:
+    build: ./api
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql+psycopg://app_web:cambia-esto@db:5432/web
+      CORS_ORIGINS: '["http://localhost:4321", "http://localhost:8787"]'
+      IP_SALT: solo-en-local
+      # Claves de prueba públicas de Turnstile: siempre aprueban. En producción, las tuyas.
+      TURNSTILE_SECRET: 1x0000000000000000000000000000000AA
+    ports:
+      - "127.0.0.1:8000:8000"

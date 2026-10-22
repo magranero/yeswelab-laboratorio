@@ -1,0 +1,25 @@
+[project]
+name = "web-segura-api"
+version = "1.0.0"
+description = "API mínima y segura para los formularios de una web estática: valida, guarda en PostgreSQL y avisa"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "sqlalchemy>=2.0.30",
+    "psycopg[binary]>=3.2",
+    "pydantic-settings>=2.3",
+    "email-validator>=2.1",
+    "httpx>=0.27",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["."]
+
+[tool.uv]
+package = false

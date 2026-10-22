@@ -1,0 +1,26 @@
+---
+interface Props { title: string; description: string }
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+
+<style is:global>
+  :root { color-scheme: light dark; font-family: system-ui, sans-serif; line-height: 1.5; }
+  body { max-width: 42rem; margin: 0 auto; padding: 2rem 1rem; }
+  label { display: block; margin-top: 1rem; font-weight: 600; }
+  input, textarea { width: 100%; padding: .6rem; font: inherit; box-sizing: border-box; }
+  button { margin-top: 1rem; padding: .7rem 1.4rem; font: inherit; cursor: pointer; }
+  .oculto { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+</style>

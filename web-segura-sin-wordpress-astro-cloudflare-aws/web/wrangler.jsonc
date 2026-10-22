@@ -1,0 +1,9 @@
+// Cloudflare Workers con assets estáticos: sirve dist/ desde la red de Cloudflare, con su WAF delante.
+{
+  "name": "web-segura",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

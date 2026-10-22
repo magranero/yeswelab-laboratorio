@@ -1,0 +1,13 @@
+{
+  "image": "${CUENTA}.dkr.ecr.${AWS_REGION}.amazonaws.com/web-api:1",
+  "containerPort": 8000,
+  "awsLogsConfiguration": { "logGroup": "/ecs/web-api", "logStreamPrefix": "ecs" },
+  "environment": [
+    { "name": "CORS_ORIGINS", "value": "[\"https://tudominio.es\", \"https://www.tudominio.es\"]" }
+  ],
+  "secrets": [
+    { "name": "DATABASE_URL", "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${CUENTA}:secret:web/database-url" },
+    { "name": "TURNSTILE_SECRET", "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${CUENTA}:secret:web/turnstile-secret" },
+    { "name": "IP_SALT", "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${CUENTA}:secret:web/ip-salt" }
+  ]
+}

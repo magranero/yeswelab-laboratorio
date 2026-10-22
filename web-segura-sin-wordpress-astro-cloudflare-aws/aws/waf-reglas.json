@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "solo-rutas-de-la-api",
+    "Priority": 0,
+    "Statement": {
+      "NotStatement": {
+        "Statement": {
+          "OrStatement": {
+            "Statements": [
+              { "ByteMatchStatement": { "FieldToMatch": { "UriPath": {} }, "PositionalConstraint": "STARTS_WITH", "SearchString": "/v1/", "TextTransformations": [{ "Priority": 0, "Type": "LOWERCASE" }] } },
+              { "ByteMatchStatement": { "FieldToMatch": { "UriPath": {} }, "PositionalConstraint": "EXACTLY", "SearchString": "/health", "TextTransformations": [{ "Priority": 0, "Type": "NONE" }] } }
+            ]
+          }
+        }
+      }
+    },
+    "Action": { "Block": {} },
+    "VisibilityConfig": { "SampledRequestsEnabled": true, "CloudWatchMetricsEnabled": true, "MetricName": "solo-rutas-de-la-api" }
+  },
+  {
+    "Name": "limite-por-ip",
+    "Priority": 1,
+    "Statement": { "RateBasedStatement": { "Limit": 100, "EvaluationWindowSec": 300, "AggregateKeyType": "IP" } },
+    "Action": { "Block": {} },
+    "VisibilityConfig": { "SampledRequestsEnabled": true, "CloudWatchMetricsEnabled": true, "MetricName": "limite-por-ip" }
+  },
+  {
+    "Name": "ip-con-mala-reputacion",
+    "Priority": 2,
+    "Statement": { "ManagedRuleGroupStatement": { "VendorName": "AWS", "Name": "AWSManagedRulesAmazonIpReputationList" } },
+    "OverrideAction": { "None": {} },
+    "VisibilityConfig": { "SampledRequestsEnabled": true, "CloudWatchMetricsEnabled": true, "MetricName": "ip-reputacion" }
+  },
+  {
+    "Name": "ataques-comunes",
+    "Priority": 3,
+    "Statement": { "ManagedRuleGroupStatement": { "VendorName": "AWS", "Name": "AWSManagedRulesCommonRuleSet" } },
+    "OverrideAction": { "None": {} },
+    "VisibilityConfig": { "SampledRequestsEnabled": true, "CloudWatchMetricsEnabled": true, "MetricName": "ataques-comunes" }
+  },
+  {
+    "Name": "entradas-maliciosas-conocidas",
+    "Priority": 4,
+    "Statement": { "ManagedRuleGroupStatement": { "VendorName": "AWS", "Name": "AWSManagedRulesKnownBadInputsRuleSet" } },
+    "OverrideAction": { "None": {} },
+    "VisibilityConfig": { "SampledRequestsEnabled": true, "CloudWatchMetricsEnabled": true, "MetricName": "entradas-maliciosas" }
+  }
+]
