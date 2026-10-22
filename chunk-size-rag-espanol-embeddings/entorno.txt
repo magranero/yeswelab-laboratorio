@@ -1,0 +1,17 @@
+Fecha de ejecución: 2026-10-20
+Equipo: Apple M1 Max, 64 GB de memoria unificada, portátil con otras apps abiertas
+Sistema: macOS 26.6.2 (arm64)
+Dispositivo de cálculo: GPU de Apple Silicon (MPS), float32
+Python: 3.12.4
+sentence-transformers 6.1.0
+transformers 5.20.2
+torch 2.14.1
+tiktoken 0.14.0 (o200k_base, para medir el tamaño de los chunks)
+huggingface_hub 1.33.0
+pyarrow 26.0.0
+numpy 2.5.4
+Corpus: google/xquad, xquad.es (1190 preguntas, 240 párrafos, 48 artículos), revisión 51adfef1c1287aab1d2d91b5bead9bcfb9c68583
+Títulos de artículo: rajpurkar/squad, split validation, revisión 7b6d24c440a36b6815f21b70d25016731768db1f
+Modelo intfloat/multilingual-e5-small, revisión 614241f622f53c4eeff9890bdc4f31cfecc418b3 (max_seq_length 512)
+Modelo sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2, revisión e8f8c211226b894fcb81acc59f3b34ba3efd5f42 (max_seq_length 128)
+Modelo BAAI/bge-m3, revisión 5617a9f61b028005a4858fdac845db406aefb181 (max_seq_length 8192, solo vector denso)
