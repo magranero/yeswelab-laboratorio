@@ -1,0 +1,44 @@
+{
+ "fecha": "2026-10-22",
+ "kit_digital": {
+  "fuente": "https://www.kitdigital.red.es/",
+  "actualizacion": "13/10/2026",
+  "ayudas_concedidas": 938036,
+  "soluciones": {
+   "Sitio Web y Presencia en Internet": 343799,
+   "Presencia Avanzada en Internet": 112927,
+   "Comercio electrónico": 56936
+  }
+ },
+ "w3techs": {
+  "php_en_webs_con_lenguaje_conocido_pct": 69.3,
+  "por_version_principal_pct": {
+   "8": 65.2,
+   "7": 27.0,
+   "5": 7.7,
+   "4": 0.1
+  },
+  "dentro_de_php8_pct": {
+   "8.3": 34.8,
+   "8.2": 27.7,
+   "8.1": 15.2,
+   "8.4": 12.1,
+   "8.0": 5.8,
+   "8.5": 4.4
+  }
+ },
+ "sin_parche_php2shell_pct_de_webs_php": 48.5,
+ "php8_0_y_8_1_pct_de_webs_php": 13.7,
+ "php7_o_anterior_pct_de_webs_php": 34.8,
+ "webs_kit_digital": 343799,
+ "estimacion_webs_sin_parche": {
+  "central": 115500,
+  "bajo_solo_php7_o_anterior": 82900,
+  "alto_todas_en_php": 166700
+ },
+ "supuestos": [
+  "Todas las webs pagadas siguen en línea (no hay dato público de cuántas se han dado de baja).",
+  "Las webs del Kit Digital reparten lenguaje y versiones de PHP como la web mundial según W3Techs.",
+  "Una solución «Sitio Web y Presencia en Internet» es una web."
+ ]
+}

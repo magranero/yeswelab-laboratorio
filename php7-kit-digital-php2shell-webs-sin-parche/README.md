@@ -13,13 +13,15 @@ No sondea ninguna web ajena: no hay escaneo de versiones de PHP en webs del Kit 
 
 ```bash
 python3 medir.py
+python3 estimar.py
 ```
 
-Tarda unos 10 minutos por el límite de peticiones de NVD sin clave.
+`medir.py` tarda unos 10 minutos por el límite de peticiones de NVD sin clave. `estimar.py` estima cuántas webs del Kit Digital siguen en una versión de PHP sin parche de PHP2Shell (8.1 o anterior) con los contadores oficiales de [kitdigital.red.es](https://www.kitdigital.red.es/) y el reparto de versiones de W3Techs.
 
 ## Resultados
 
-- `resultados/resumen.json`: todas las cifras del artículo.
+- `resultados/resumen.json`: las cifras medidas del artículo.
+- `resultados/estimacion.json`: la estimación de webs del Kit Digital sin parche, con sus datos de partida y supuestos.
 - `resultados/versiones_seguridad_php8.json`: cada versión de seguridad de PHP 8 desde el fin de PHP 7.4.
 - `resultados/cve_desde_fin_php74.json`: cada CVE y aviso GHSA del ChangeLog, con lo que dice NVD.
 
@@ -27,4 +29,5 @@ Tarda unos 10 minutos por el límite de peticiones de NVD sin clave.
 
 - NVD no siempre lista las ramas sin soporte entre las afectadas: un CVE marcado como «no incluye PHP 7» puede afectarle igualmente. El recuento es un mínimo.
 - W3Techs mide las webs que anuncian su versión de PHP; la cuota real puede ser distinta.
+- La estimación supone que todas las webs siguen en línea y que reparten versiones como la web mundial: es un orden de magnitud, no un recuento.
 - Las fechas de apertura de las convocatorias del Kit Digital vienen de las notas de prensa del Gobierno y de Red.es.
