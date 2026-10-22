@@ -1,0 +1,6 @@
+# Una URL por línea. Las líneas que empiezan por # se ignoran.
+https://yeswelab.com
+https://wordpress.org
+https://www.python.org
+https://www.mozilla.org
+https://www.boe.es

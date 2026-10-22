@@ -1,0 +1,545 @@
+[
+ {
+  "url": "https://yeswelab.com",
+  "tecnologias": {
+   "Airtable": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Google Cloud DNS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns NS",
+     "dns SOA"
+    ]
+   },
+   "Google Workspace": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns MX"
+    ]
+   },
+   "HSTS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header strict-transport-security"
+    ]
+   },
+   "Let's Encrypt": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "certificado"
+    ]
+   },
+   "Netlify": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header server",
+     "header x-nf-request-id"
+    ]
+   },
+   "OpenAI": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Stripe": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Umami": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "js umami"
+    ]
+   },
+   "Astro": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom link[href*='/_astro/']",
+     "dom link[href*='/_astro/'][href$='.css']"
+    ]
+   },
+   "Open Graph": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom meta[property*='og:']"
+    ]
+   }
+  },
+  "whois": {
+   "fuente_whois": "RDAP",
+   "registrador": "Squarespace Domains II LLC",
+   "titular": "",
+   "titular_pais": "ES",
+   "emails": [],
+   "telefonos": [],
+   "email_abuso": "abuse-complaints@squarespace.com",
+   "alta": "2018-11-26",
+   "caducidad": "2026-11-26",
+   "dns": [
+    "ns-cloud-d1.googledomains.com",
+    "ns-cloud-d2.googledomains.com",
+    "ns-cloud-d3.googledomains.com",
+    "ns-cloud-d4.googledomains.com"
+   ]
+  }
+ },
+ {
+  "url": "https://wordpress.org",
+  "tecnologias": {
+   "Google Analytics": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "script",
+     "cookie _ga",
+     "cookie _ga_*",
+     "js gaGlobal"
+    ]
+   },
+   "Google Tag Manager": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "html",
+     "script",
+     "script",
+     "js google_tag_data",
+     "js google_tag_manager"
+    ]
+   },
+   "Gutenberg": {
+    "version": "24.2.0",
+    "confianza": 100,
+    "pruebas": [
+     "script",
+     "dom link[href*='/wp-content/plugins/gutenberg/']"
+    ]
+   },
+   "HSTS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header strict-transport-security"
+    ]
+   },
+   "Let's Encrypt": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "certificado"
+    ]
+   },
+   "Nginx": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header server"
+    ]
+   },
+   "PHP": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "script en línea"
+    ]
+   },
+   "WordPress": {
+    "version": "7.2",
+    "confianza": 100,
+    "pruebas": [
+     "html",
+     "script",
+     "header link",
+     "meta generator",
+     "dom div[class*='wp-block-group'] > div[class*='wp-block-']"
+    ]
+   },
+   "WordPress Block Editor": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "html"
+    ]
+   },
+   "WordPress Site Editor": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "html"
+    ]
+   },
+   "Google Font API": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom link[href*='fonts.g']"
+    ]
+   },
+   "Open Graph": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom meta[property*='og:']"
+    ]
+   },
+   "Priority Hints": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom iframe[fetchpriority], img[fetchpriority], script[fetchpriority], link[fetchpriority]"
+    ]
+   },
+   "RSS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom link[type*='application']"
+    ]
+   },
+   "MySQL": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "implícito por WordPress"
+    ]
+   }
+  },
+  "whois": {
+   "fuente_whois": "RDAP + WHOIS whois.publicinterestregistry.org",
+   "registrador": "Markmonitor Inc.",
+   "titular": "(servicio de privacidad: DNStination, Inc.)",
+   "titular_pais": "US",
+   "emails": [],
+   "telefonos": [],
+   "email_abuso": "abusecomplaints@markmonitor.com",
+   "alta": "2003-03-28",
+   "caducidad": "2035-03-28",
+   "dns": [
+    "ns1.wordpress.org",
+    "ns2.wordpress.org",
+    "ns3.wordpress.org",
+    "ns4.wordpress.org"
+   ]
+  }
+ },
+ {
+  "url": "https://www.python.org",
+  "tecnologias": {
+   "Amazon Route 53": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns NS",
+     "dns SOA"
+    ]
+   },
+   "Amazon Web Services": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns NS"
+    ]
+   },
+   "Anthropic": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Atlassian Statuspage": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "GlobalSign": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Google Hosted Libraries": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "script",
+     "dom link[href*='ajax.googleapis.com/ajax/libs']"
+    ]
+   },
+   "HSTS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header strict-transport-security"
+    ]
+   },
+   "jQuery": {
+    "version": "1.8.2",
+    "confianza": 100,
+    "pruebas": [
+     "script",
+     "script",
+     "script",
+     "js $.fn.jquery",
+     "js jQuery.fn.jquery"
+    ]
+   },
+   "jQuery UI": {
+    "version": "1.12.1",
+    "confianza": 100,
+    "pruebas": [
+     "script",
+     "script",
+     "script",
+     "js jQuery.ui.version"
+    ]
+   },
+   "Mailgun": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Masonry": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "js Masonry.Item"
+    ]
+   },
+   "Microsoft 365": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Modernizr": {
+    "version": "2.6.2",
+    "confianza": 100,
+    "pruebas": [
+     "script",
+     "script",
+     "js Modernizr._version"
+    ]
+   },
+   "Nginx": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header server"
+    ]
+   },
+   "OpenAI": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Plausible": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "js plausible"
+    ]
+   },
+   "Twilio": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Varnish": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header via"
+    ]
+   },
+   "Open Graph": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom meta[property*='og:']"
+    ]
+   },
+   "RSS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom link[type*='application']"
+    ]
+   }
+  },
+  "whois": {
+   "fuente_whois": "RDAP",
+   "registrador": "Gandi SAS",
+   "titular": "",
+   "titular_pais": "",
+   "emails": [],
+   "telefonos": [],
+   "email_abuso": "abuse@support.gandi.net",
+   "alta": "1995-03-27",
+   "caducidad": "2033-03-28",
+   "dns": [
+    "ns-1134.awsdns-13.org",
+    "ns-2046.awsdns-63.co.uk",
+    "ns-484.awsdns-60.com",
+    "ns-981.awsdns-58.net"
+   ]
+  }
+ },
+ {
+  "url": "https://www.mozilla.org",
+  "tecnologias": {
+   "Anthropic": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Google Tag Manager": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "html"
+    ]
+   },
+   "Google Workspace": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns MX",
+     "dns MX"
+    ]
+   },
+   "HSTS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header strict-transport-security"
+    ]
+   },
+   "Let's Encrypt": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "certificado"
+    ]
+   },
+   "Microsoft 365": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "OpenAI": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT"
+    ]
+   },
+   "Varnish": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header via"
+    ]
+   },
+   "X-Clacks-Overhead": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header x-clacks-overhead"
+    ]
+   },
+   "Zoom": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns TXT",
+     "dns TXT"
+    ]
+   },
+   "Open Graph": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dom meta[property*='og:']"
+    ]
+   }
+  },
+  "whois": {
+   "fuente_whois": "RDAP",
+   "registrador": "Markmonitor Inc.",
+   "titular": "Mozilla Corporation",
+   "titular_pais": "US",
+   "emails": [
+    "hostmaster@mozilla.com"
+   ],
+   "telefonos": [
+    "+1.6509030800"
+   ],
+   "email_abuso": "abusecomplaints@markmonitor.com",
+   "alta": "1998-01-24",
+   "caducidad": "2027-01-23",
+   "dns": [
+    "ns1-240.akam.net",
+    "ns4-64.akam.net",
+    "ns5-65.akam.net",
+    "ns7-66.akam.net"
+   ]
+  }
+ },
+ {
+  "url": "https://www.boe.es",
+  "tecnologias": {
+   "HSTS": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "header strict-transport-security"
+    ]
+   },
+   "Microsoft 365": {
+    "version": "",
+    "confianza": 100,
+    "pruebas": [
+     "dns MX",
+     "dns TXT"
+    ]
+   }
+  },
+  "whois": {
+   "fuente_whois": "",
+   "error": ".es no tiene RDAP ni WHOIS público: consulta https://www.dominios.es"
+  }
+ }
+]

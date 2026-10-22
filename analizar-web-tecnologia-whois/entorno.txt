@@ -1,0 +1,7 @@
+Fecha de ejecución: 2026-10-22
+Equipo: Apple M1 Max, macOS 26.6.2 (arm64)
+Python 3.14.4 (uv 0.11.8)
+dnspython 2.9.0
+tldextract 5.4.0
+playwright 1.64.0 · Chromium 156 (solo con --navegador)
+Reglas: enthec/webappanalyzer, commit d91f7e510e93457041bea874e8a9ffb011e3e4fe (19/10/2026), 7647 tecnologías
