@@ -1,0 +1,23 @@
+Fecha de ejecución: 2026-10-22
+Equipo: Apple M1 Max, 64 GB de memoria unificada, portátil con otras apps abiertas
+Sistema: macOS 26.6.2 (arm64)
+Python: 3.12.4
+docling 2.141.0
+docling-core 2.103.1
+docling-ibm-models 4.0.4
+docling-parse 7.22.4
+markitdown 0.1.9
+onnxruntime 1.31.0
+pdfminer-six 20260107
+pdfplumber 0.11.10
+pymupdf 2.0
+pymupdf-layout 2.0
+pymupdf4llm 2.0
+pypdf 6.21.2
+rapidfuzz 3.14.6
+reportlab 5.0.1
+torch 2.14.1
+Modelos de Docling (Hugging Face): docling-project/docling-layout-heron revisión 8f39ad3c0b4c58e9c2d2c84a38465abf757272d8; docling-project/docling-models v2.3.0 revisión fc0f2d45e2218ea24bce5045f58a389aed16dc23
+Docling con PdfPipelineOptions por defecto: OCR automático activado, estructura de tablas TableFormer en modo ACCURATE
+Entorno aislado de PyMuPDF (medir_aislado.py, solo se pidió pymupdf): onnxruntime 1.31.0; pymupdf 2.0; pymupdf-layout 2.0; pymupdf4llm 2.0
+Corpus: generado con generar.py (semilla 20261021), 36 PDF, 60 páginas

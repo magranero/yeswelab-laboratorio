@@ -1,0 +1,22 @@
+# **Factura F-2026-7299** 
+
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 12 de diciembre de 2026. Forma de pago: transferencia a 30 días. 
+
+|**Concepto**|**Cantidad**|**Precio unitario**|**IVA**|**Total**|
+|---|---|---|---|---|
+|Formación in situ|1|1.341,96 €|21 %|1.341,96 €|
+|Licencia anual|38|299,92 €|21 %|11.396,96 €|
+|Soporte técnico|30|1.620,99 €|21 %|48.629,70 €|
+|Consultoría|32|1.821,88 €|21 %|58.300,16 €|
+|Formación in situ|5|2.485,02 €|21 %|12.425,10 €|
+|Integración API|2|4.637,80 €|21 %|9.275,60 €|
+|Mantenimiento|38|2.002,20 €|21 %|76.083,60 €|
+|Alojamiento|19|2.085,99 €|21 %|39.633,81 €|
+|Formación in situ|6|1.019,17 €|21 %|6.115,02 €|
+
+
+
+Base imponible: 263.201,91 €. IVA (21 %): 55.272,40 €. Total a pagar: 318.474,31 €. 
+
+Página 1 
+

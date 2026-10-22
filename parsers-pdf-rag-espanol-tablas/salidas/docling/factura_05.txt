@@ -1,0 +1,19 @@
+## Factura F-2026-4642
+
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 23 de marzo de 2026. Forma de pago: transferencia a 30 días.
+
+| Concepto                                                                         |   Cantidad | Precio unitario   | IVA   | Total        |
+|----------------------------------------------------------------------------------|------------|-------------------|-------|--------------|
+| Soporte técnico prioritario de lunes a viernes, incluidas las guardias de cierre |         24 | 2.850,09 €        | 21 %  | 68.402,16 €  |
+| Auditoría de seguridad                                                           |         31 | 862,66 €          | 21 %  | 26.742,46 €  |
+| Migración de datos históricos del ERP antiguo con validación de saldos           |         16 | 2.598,52 €        | 21 %  | 41.576,32 €  |
+| Auditoría de seguridad                                                           |          4 | 3.591,56 €        | 21 %  | 14.366,24 €  |
+| Soporte técnico prioritario de lunes a viernes, incluidas las guardias de cierre |         23 | 4.265,33 €        | 21 %  | 98.102,59 €  |
+| Mantenimiento                                                                    |         15 | 3.265,88 €        | 21 %  | 48.988,20 €  |
+| Soporte técnico prioritario de lunes a viernes, incluidas las guardias de cierre |         10 | 81,00 €           | 21 %  | 810,00 €     |
+| Mantenimiento                                                                    |         21 | 4.485,85 €        | 21 %  | 94.202,85 €  |
+| Diseño de flujos de aprobación de pedidos para compras y logística               |         12 | 732,96 €          | 21 %  | 8.795,52 €   |
+| Formación in situ                                                                |         33 | 1.178,19 €        | 21 %  | 38.880,27 €  |
+| Soporte técnico prioritario de lunes a viernes, incluidas las guardias de cierre |         38 | 3.028,10 €        | 21 %  | 115.067,80 € |
+
+Base imponible: 555.934,41 €. IVA (21 %): 116.746,23 €. Total a pagar: 672.680,64 €.

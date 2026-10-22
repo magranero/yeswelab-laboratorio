@@ -1,0 +1,50 @@
+Página 1
+Factura F-2026-7453
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 13 de marzo de 2026. Forma de pago:
+transferencia a 30 días.
+Concepto
+Cantidad
+Precio unitario
+IVA
+Total
+Auditoría de seguridad
+20
+1.519,36 €
+21 %
+30.387,20 €
+Consultoría
+27
+3.499,41 €
+21 %
+94.484,07 €
+Mantenimiento
+13
+3.886,96 €
+21 %
+50.530,48 €
+Formación in situ
+39
+3.291,58 €
+21 %
+128.371,62 €
+Diseño de flujos
+34
+3.856,53 €
+21 %
+131.122,02 €
+Alojamiento
+12
+4.711,82 €
+21 %
+56.541,84 €
+Auditoría de seguridad
+20
+2.922,77 €
+21 %
+58.455,40 €
+Formación in situ
+39
+3.959,30 €
+21 %
+154.412,70 €
+Base imponible: 704.305,33 €. IVA (21 %): 147.904,12 €. Total a pagar: 852.209,45 €.

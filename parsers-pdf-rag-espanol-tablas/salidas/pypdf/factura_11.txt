@@ -1,0 +1,76 @@
+Página 1
+Factura F-2026-6494
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 14 de octubre de 2026. Forma de pago:
+transferencia a 30 días.
+Concepto
+Cantidad
+Precio unitario
+IVA
+Total
+Licencia anual del módulo de facturación
+electrónica con firma cualificada
+23
+4.481,95 €
+21 %
+103.084,85 €
+Migración de datos
+14
+3.720,46 €
+21 %
+52.086,44 €
+Licencia anual del módulo de facturación
+electrónica con firma cualificada
+13
+1.103,87 €
+21 %
+14.350,31 €
+Consultoría
+12
+4.783,60 €
+21 %
+57.403,20 €
+Diseño de flujos de aprobación de pedidos para
+compras y logística
+38
+539,71 €
+21 %
+20.508,98 €
+Integración API
+14
+1.843,79 €
+21 %
+25.813,06 €
+Soporte técnico prioritario de lunes a viernes,
+incluidas las guardias de cierre
+30
+895,38 €
+21 %
+26.861,40 €
+Migración de datos
+10
+1.770,21 €
+21 %
+17.702,10 €
+Soporte técnico prioritario de lunes a viernes,
+incluidas las guardias de cierre
+10
+4.209,10 €
+21 %
+42.091,00 €
+Formación in situ
+1
+3.831,45 €
+21 %
+3.831,45 €
+Soporte técnico prioritario de lunes a viernes,
+incluidas las guardias de cierre
+28
+3.109,34 €
+21 %
+87.061,52 €
+Licencia anual
+27
+4.639,00 €
+21 %
+125.253,00 €
+Base imponible: 576.047,31 €. IVA (21 %): 120.969,94 €. Total a pagar: 697.017,25 €.

@@ -1,0 +1,16 @@
+## Factura F-2026-9772
+
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 11 de septiembre de 2026. Forma de pago: transferencia a 30 días.
+
+| Concepto               |   Cantidad | Precio unitario   | IVA   | Total        |
+|------------------------|------------|-------------------|-------|--------------|
+| Migración de datos     |         12 | 51,99 €           | 21 %  | 623,88 €     |
+| Integración API        |          7 | 635,51 €          | 21 %  | 4.448,57 €   |
+| Diseño de flujos       |         32 | 4.589,56 €        | 21 %  | 146.865,92 € |
+| Formación in situ      |          8 | 3.399,90 €        | 21 %  | 27.199,20 €  |
+| Licencia anual         |         18 | 1.849,17 €        | 21 %  | 33.285,06 €  |
+| Auditoría de seguridad |          9 | 2.837,51 €        | 21 %  | 25.537,59 €  |
+| Consultoría            |         38 | 3.980,05 €        | 21 %  | 151.241,90 € |
+| Pruebas de carga       |         18 | 2.051,44 €        | 21 %  | 36.925,92 €  |
+
+Base imponible: 426.128,04 €. IVA (21 %): 89.486,89 €. Total a pagar: 515.614,93 €.

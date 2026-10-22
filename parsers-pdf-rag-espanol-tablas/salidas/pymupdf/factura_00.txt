@@ -1,0 +1,65 @@
+Página 1
+Factura F-2026-1917
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 23 de febrero de 2026. Forma de pago:
+transferencia a 30 días.
+Concepto
+Cantidad
+Precio unitario
+IVA
+Total
+Mantenimiento
+29
+4.528,80 €
+21 %
+131.335,20 €
+Diseño de flujos
+3
+825,17 €
+21 %
+2.475,51 €
+Diseño de flujos
+7
+580,34 €
+21 %
+4.062,38 €
+Diseño de flujos
+39
+585,63 €
+21 %
+22.839,57 €
+Formación in situ
+27
+4.122,07 €
+21 %
+111.295,89 €
+Licencia anual
+33
+2.864,82 €
+21 %
+94.539,06 €
+Migración de datos
+23
+623,03 €
+21 %
+14.329,69 €
+Auditoría de seguridad
+34
+890,82 €
+21 %
+30.287,88 €
+Integración API
+38
+2.396,31 €
+21 %
+91.059,78 €
+Informe de riesgos
+35
+567,97 €
+21 %
+19.878,95 €
+Pruebas de carga
+14
+3.286,27 €
+21 %
+46.007,78 €
+Base imponible: 568.111,69 €. IVA (21 %): 119.303,45 €. Total a pagar: 687.415,14 €.

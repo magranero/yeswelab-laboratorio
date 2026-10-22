@@ -1,0 +1,60 @@
+Página 1
+Factura F-2026-8958
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 22 de diciembre de 2026. Forma de pago:
+transferencia a 30 días.
+Concepto
+Cantidad
+Precio unitario
+IVA
+Total
+Auditoría de seguridad de la red de almacenes
+y revisión de contraseñas
+22
+325,04 €
+21 %
+7.150,88 €
+Pruebas de carga
+34
+4.363,97 €
+21 %
+148.374,98 €
+Soporte técnico prioritario de lunes a viernes,
+incluidas las guardias de cierre
+37
+488,35 €
+21 %
+18.068,95 €
+Mantenimiento
+8
+1.729,65 €
+21 %
+13.837,20 €
+Formación in situ para el equipo de atención al
+cliente en Guadalajara
+4
+4.020,69 €
+21 %
+16.082,76 €
+Licencia anual
+3
+329,43 €
+21 %
+988,29 €
+Licencia anual del módulo de facturación
+electrónica con firma cualificada
+26
+833,30 €
+21 %
+21.665,80 €
+Formación in situ
+22
+1.727,34 €
+21 %
+38.001,48 €
+Soporte técnico prioritario de lunes a viernes,
+incluidas las guardias de cierre
+21
+1.006,87 €
+21 %
+21.144,27 €
+Base imponible: 285.314,61 €. IVA (21 %): 59.916,07 €. Total a pagar: 345.230,68 €.

@@ -1,0 +1,23 @@
+# **Factura F-2026-8485** 
+
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 28 de julio de 2026. Forma de pago: transferencia a 30 días. 
+
+|**Concepto**|**Cantidad**|**Precio unitario**|**IVA**|**Total**|
+|---|---|---|---|---|
+|Licencia anual del módulo de facturación<br>electrónica con firma cualificada|14|1.278,20 €|21 %|17.894,80 €|
+|Formación in situ|5|4.568,28 €|21 %|22.841,40 €|
+|Licencia anual del módulo de facturación<br>electrónica con firma cualificada|22|2.069,35 €|21 %|45.525,70 €|
+|Mantenimiento|40|4.656,03 €|21 %|186.241,20 €|
+|Auditoría de seguridad de la red de almacenes<br>y revisión de contraseñas|22|1.152,68 €|21 %|25.358,96 €|
+|Soporte técnico|12|285,89 €|21 %|3.430,68 €|
+|Auditoría de seguridad de la red de almacenes<br>y revisión de contraseñas|5|380,93 €|21 %|1.904,65 €|
+|Alojamiento|32|1.291,72 €|21 %|41.335,04 €|
+|Formación in situ para el equipo de atención al<br>cliente en Guadalajara|39|2.499,14 €|21 %|97.466,46 €|
+|Formación in situ|37|208,39 €|21 %|7.710,43 €|
+
+
+
+Base imponible: 449.709,32 €. IVA (21 %): 94.438,96 €. Total a pagar: 544.148,28 €. 
+
+Página 1 
+

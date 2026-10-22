@@ -1,0 +1,492 @@
+{
+ "documentos": 36,
+ "paginas": 60,
+ "documentos_por_tipo": {
+  "columnas": 12,
+  "factura": 6,
+  "factura_larga": 6,
+  "texto": 12
+ },
+ "parsers": {
+  "docling": {
+   "calidad": {
+    "columnas": {
+     "pies_colados": 0.0,
+     "parrafos_integros": 97.13,
+     "similitud": 99.16,
+     "orden": 100.0,
+     "especiales": 100.0
+    },
+    "factura": {
+     "pies_colados": 0.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    },
+    "factura_larga": {
+     "pies_colados": 0.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    },
+    "texto": {
+     "pies_colados": 0.0,
+     "parrafos_integros": 100.0,
+     "similitud": 100.0,
+     "orden": 100.0,
+     "especiales": 100.0
+    },
+    "todos": {
+     "especiales": 100.0,
+     "pies_colados": 0.0,
+     "parrafos_integros": 99.04
+    },
+    "facturas_todas": {
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    }
+   },
+   "total_s": {
+    "mediana": 28.3001,
+    "min": 27.9763,
+    "max": 29.0853,
+    "q1": 28.1228,
+    "q3": 29.0281,
+    "desv": 0.4312,
+    "n": 5
+   },
+   "ms_por_pagina": {
+    "mediana": 471.6683,
+    "min": 466.2717,
+    "max": 484.755,
+    "q1": 468.7133,
+    "q3": 483.8017,
+    "desv": 7.1868,
+    "n": 5
+   },
+   "import_s": {
+    "mediana": 5.9708,
+    "min": 5.9053,
+    "max": 6.5323,
+    "q1": 5.9069,
+    "q3": 6.2877,
+    "desv": 0.2356,
+    "n": 5
+   },
+   "pico_mb": {
+    "mediana": 1298.7,
+    "min": 1285.5,
+    "max": 1325.9,
+    "q1": 1292.1,
+    "q3": 1313.65,
+    "desv": 13.1574,
+    "n": 5
+   }
+  },
+  "markitdown": {
+   "calidad": {
+    "columnas": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 12.46,
+     "similitud": 43.09,
+     "orden": 91.67,
+     "especiales": 100.0
+    },
+    "factura": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    },
+    "factura_larga": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 82.77,
+     "filas_completas": 48.32,
+     "importes_juntos": 100.0
+    },
+    "texto": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 96.34,
+     "similitud": 99.69,
+     "orden": 100.0,
+     "especiales": 100.0
+    },
+    "todos": {
+     "especiales": 100.0,
+     "pies_colados": 100.0,
+     "parrafos_integros": 69.6
+    },
+    "facturas_todas": {
+     "celdas": 91.39,
+     "filas_completas": 74.16,
+     "importes_juntos": 100.0
+    }
+   },
+   "total_s": {
+    "mediana": 3.1676,
+    "min": 3.1479,
+    "max": 3.3024,
+    "q1": 3.1483,
+    "q3": 3.2479,
+    "desv": 0.0576,
+    "n": 5
+   },
+   "ms_por_pagina": {
+    "mediana": 52.7933,
+    "min": 52.465,
+    "max": 55.04,
+    "q1": 52.4725,
+    "q3": 54.1325,
+    "desv": 0.9602,
+    "n": 5
+   },
+   "import_s": {
+    "mediana": 1.4578,
+    "min": 1.4396,
+    "max": 1.6037,
+    "q1": 1.4441,
+    "q3": 1.5732,
+    "desv": 0.0642,
+    "n": 5
+   },
+   "pico_mb": {
+    "mediana": 193.3,
+    "min": 187.5,
+    "max": 198.2,
+    "q1": 189.3,
+    "q3": 196.7,
+    "desv": 3.628,
+    "n": 5
+   }
+  },
+  "pdfplumber": {
+   "calidad": {
+    "columnas": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 20.75,
+     "similitud": 46.79,
+     "orden": 89.58,
+     "especiales": 100.0
+    },
+    "factura": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    },
+    "factura_larga": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 82.77,
+     "filas_completas": 48.32,
+     "importes_juntos": 100.0
+    },
+    "texto": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 96.34,
+     "similitud": 99.69,
+     "orden": 100.0,
+     "especiales": 100.0
+    },
+    "todos": {
+     "especiales": 100.0,
+     "pies_colados": 100.0,
+     "parrafos_integros": 72.36
+    },
+    "facturas_todas": {
+     "celdas": 91.39,
+     "filas_completas": 74.16,
+     "importes_juntos": 100.0
+    }
+   },
+   "total_s": {
+    "mediana": 2.3885,
+    "min": 2.3701,
+    "max": 2.4139,
+    "q1": 2.3721,
+    "q3": 2.4114,
+    "desv": 0.0177,
+    "n": 5
+   },
+   "ms_por_pagina": {
+    "mediana": 39.8083,
+    "min": 39.5017,
+    "max": 40.2317,
+    "q1": 39.5358,
+    "q3": 40.1908,
+    "desv": 0.2957,
+    "n": 5
+   },
+   "import_s": {
+    "mediana": 0.1461,
+    "min": 0.145,
+    "max": 0.1512,
+    "q1": 0.1453,
+    "q3": 0.1501,
+    "desv": 0.0023,
+    "n": 5
+   },
+   "pico_mb": {
+    "mediana": 95.6,
+    "min": 91.9,
+    "max": 98.0,
+    "q1": 92.5,
+    "q3": 96.9,
+    "desv": 2.1517,
+    "n": 5
+   }
+  },
+  "pymupdf": {
+   "calidad": {
+    "columnas": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 95.29,
+     "similitud": 99.7,
+     "orden": 99.36,
+     "especiales": 100.0
+    },
+    "factura": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 0.0,
+     "importes_juntos": 0.0
+    },
+    "factura_larga": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 0.0,
+     "importes_juntos": 0.0
+    },
+    "texto": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 96.34,
+     "similitud": 99.69,
+     "orden": 100.0,
+     "especiales": 100.0
+    },
+    "todos": {
+     "especiales": 100.0,
+     "pies_colados": 100.0,
+     "parrafos_integros": 97.21
+    },
+    "facturas_todas": {
+     "celdas": 100.0,
+     "filas_completas": 0.0,
+     "importes_juntos": 0.0
+    }
+   },
+   "total_s": {
+    "mediana": 0.1262,
+    "min": 0.1246,
+    "max": 0.1303,
+    "q1": 0.125,
+    "q3": 0.1285,
+    "desv": 0.002,
+    "n": 5
+   },
+   "ms_por_pagina": {
+    "mediana": 2.1033,
+    "min": 2.0767,
+    "max": 2.1717,
+    "q1": 2.0825,
+    "q3": 2.1417,
+    "desv": 0.033,
+    "n": 5
+   },
+   "import_s": {
+    "mediana": 0.9713,
+    "min": 0.966,
+    "max": 0.975,
+    "q1": 0.9665,
+    "q3": 0.9734,
+    "desv": 0.0033,
+    "n": 5
+   },
+   "pico_mb": {
+    "mediana": 313.0,
+    "min": 296.5,
+    "max": 322.9,
+    "q1": 303.5,
+    "q3": 320.6,
+    "desv": 8.9634,
+    "n": 5
+   }
+  },
+  "pymupdf4llm": {
+   "calidad": {
+    "columnas": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 93.13,
+     "similitud": 96.81,
+     "orden": 98.8,
+     "especiales": 100.0
+    },
+    "factura": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    },
+    "factura_larga": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    },
+    "texto": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 96.34,
+     "similitud": 99.69,
+     "orden": 100.0,
+     "especiales": 100.0
+    },
+    "todos": {
+     "especiales": 100.0,
+     "pies_colados": 100.0,
+     "parrafos_integros": 96.49
+    },
+    "facturas_todas": {
+     "celdas": 100.0,
+     "filas_completas": 100.0,
+     "importes_juntos": 100.0
+    }
+   },
+   "total_s": {
+    "mediana": 13.8285,
+    "min": 13.7763,
+    "max": 14.4597,
+    "q1": 13.7836,
+    "q3": 14.3056,
+    "desv": 0.2674,
+    "n": 5
+   },
+   "ms_por_pagina": {
+    "mediana": 230.475,
+    "min": 229.605,
+    "max": 240.995,
+    "q1": 229.7267,
+    "q3": 238.4267,
+    "desv": 4.4562,
+    "n": 5
+   },
+   "import_s": {
+    "mediana": 0.9717,
+    "min": 0.9645,
+    "max": 0.9757,
+    "q1": 0.9663,
+    "q3": 0.9745,
+    "desv": 0.0039,
+    "n": 5
+   },
+   "pico_mb": {
+    "mediana": 712.4,
+    "min": 700.5,
+    "max": 724.8,
+    "q1": 700.8,
+    "q3": 721.7,
+    "desv": 9.5631,
+    "n": 5
+   }
+  },
+  "pypdf": {
+   "calidad": {
+    "columnas": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 95.29,
+     "similitud": 99.7,
+     "orden": 99.36,
+     "especiales": 100.0
+    },
+    "factura": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 0.0,
+     "importes_juntos": 0.0
+    },
+    "factura_larga": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 100.0,
+     "especiales": 100.0,
+     "celdas": 100.0,
+     "filas_completas": 0.0,
+     "importes_juntos": 0.0
+    },
+    "texto": {
+     "pies_colados": 100.0,
+     "parrafos_integros": 96.34,
+     "similitud": 99.69,
+     "orden": 100.0,
+     "especiales": 100.0
+    },
+    "todos": {
+     "especiales": 100.0,
+     "pies_colados": 100.0,
+     "parrafos_integros": 97.21
+    },
+    "facturas_todas": {
+     "celdas": 100.0,
+     "filas_completas": 0.0,
+     "importes_juntos": 0.0
+    }
+   },
+   "total_s": {
+    "mediana": 0.2511,
+    "min": 0.2471,
+    "max": 0.3066,
+    "q1": 0.248,
+    "q3": 0.2813,
+    "desv": 0.0225,
+    "n": 5
+   },
+   "ms_por_pagina": {
+    "mediana": 4.185,
+    "min": 4.1183,
+    "max": 5.11,
+    "q1": 4.1342,
+    "q3": 4.6883,
+    "desv": 0.3753,
+    "n": 5
+   },
+   "import_s": {
+    "mediana": 0.2126,
+    "min": 0.2068,
+    "max": 0.2138,
+    "q1": 0.2089,
+    "q3": 0.2132,
+    "desv": 0.0025,
+    "n": 5
+   },
+   "pico_mb": {
+    "mediana": 89.7,
+    "min": 87.6,
+    "max": 90.5,
+    "q1": 88.5,
+    "q3": 90.1,
+    "desv": 0.9621,
+    "n": 5
+   }
+  }
+ }
+}

@@ -1,0 +1,27 @@
+# **Factura F-2026-8382** 
+
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 18 de mayo de 2026. Forma de pago: transferencia a 30 días. 
+
+|**Concepto**|**Cantidad**|**Precio unitario**|**IVA**|**Total**|
+|---|---|---|---|---|
+|Migración de datos históricos del ERP antiguo<br>con validación de saldos|11|4.279,92 €|21 %|47.079,12 €|
+|Soporte técnico|3|957,30 €|21 %|2.871,90 €|
+|Soporte técnico prioritario de lunes a viernes,<br>incluidas las guardias de cierre|18|4.520,29 €|21 %|81.365,22 €|
+|Auditoría de seguridad|22|4.049,20 €|21 %|89.082,40 €|
+|Auditoría de seguridad de la red de almacenes<br>y revisión de contraseñas|40|3.501,69 €|21 %|140.067,60 €|
+|Soporte técnico|32|4.250,95 €|21 %|136.030,40 €|
+|Migración de datos históricos del ERP antiguo<br>con validación de saldos|16|3.533,93 €|21 %|56.542,88 €|
+|Mantenimiento|1|4.467,38 €|21 %|4.467,38 €|
+|Auditoría de seguridad de la red de almacenes<br>y revisión de contraseñas|14|58,94 €|21 %|825,16 €|
+|Integración API|15|3.625,13 €|21 %|54.376,95 €|
+|Licencia anual del módulo de facturación<br>electrónica con firma cualificada|6|3.319,96 €|21 %|19.919,76 €|
+|Auditoría de seguridad|21|3.484,59 €|21 %|73.176,39 €|
+|Diseño de flujos de aprobación de pedidos para<br>compras y logística|16|1.779,38 €|21 %|28.470,08 €|
+|Mantenimiento|22|2.665,23 €|21 %|58.635,06 €|
+
+
+
+Base imponible: 792.910,30 €. IVA (21 %): 166.511,16 €. Total a pagar: 959.421,46 €. 
+
+Página 1 
+

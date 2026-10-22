@@ -1,0 +1,8 @@
+{
+ "pypdf": true,
+ "pdfplumber": true,
+ "pymupdf": true,
+ "pymupdf4llm": true,
+ "markitdown": true,
+ "docling": true
+}

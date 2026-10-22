@@ -1,0 +1,19 @@
+Factura F-2026-1169
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 1 de marzo de 2026. Forma de pago:
+transferencia a 30 días.
+| Concepto           | Cantidad | Precio unitario |            | IVA Total |              |
+| ------------------ | -------- | --------------- | ---------- | --------- | ------------ |
+| Soporte técnico    |          | 40              | 4.272,27 € | 21 %      | 170.890,80 € |
+| Integración API    |          | 20              | 3.973,21 € | 21 %      | 79.464,20 €  |
+| Soporte técnico    |          | 3               | 4.678,94 € | 21 %      | 14.036,82 €  |
+| Alojamiento        |          | 22              | 4.723,51 € | 21 %      | 103.917,22 € |
+| Consultoría        |          | 38              | 158,07 €   | 21 %      | 6.006,66 €   |
+| Migración de datos |          | 9               | 3.553,18 € | 21 %      | 31.978,62 €  |
+| Diseño de flujos   |          | 18              | 2.895,87 € | 21 %      | 52.125,66 €  |
+| Consultoría        |          | 12              | 2.131,09 € | 21 %      | 25.573,08 €  |
+| Formación in situ  |          | 8               | 3.189,74 € | 21 %      | 25.517,92 €  |
+| Diseño de flujos   |          | 5               | 990,57 €   | 21 %      | 4.952,85 €   |
+| Integración API    |          | 16              | 2.894,50 € | 21 %      | 46.312,00 €  |
+| Licencia anual     |          | 30              | 3.383,52 € | 21 %      | 101.505,60 € |
+Base imponible: 662.281,43 €. IVA (21 %): 139.079,10 €. Total a pagar: 801.360,53 €.
+Página 1

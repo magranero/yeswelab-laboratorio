@@ -1,0 +1,60 @@
+Página 1
+Factura F-2026-2655
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 20 de mayo de 2026. Forma de pago:
+transferencia a 30 días.
+Concepto
+Cantidad
+Precio unitario
+IVA
+Total
+Migración de datos
+25
+4.230,83 €
+21 %
+105.770,75 €
+Diseño de flujos
+2
+2.155,61 €
+21 %
+4.311,22 €
+Migración de datos
+23
+1.325,86 €
+21 %
+30.494,78 €
+Auditoría de seguridad
+12
+2.439,88 €
+21 %
+29.278,56 €
+Informe de riesgos
+26
+1.061,96 €
+21 %
+27.610,96 €
+Formación in situ
+24
+781,61 €
+21 %
+18.758,64 €
+Soporte técnico
+22
+1.925,67 €
+21 %
+42.364,74 €
+Migración de datos
+9
+1.265,13 €
+21 %
+11.386,17 €
+Soporte técnico
+10
+2.611,95 €
+21 %
+26.119,50 €
+Alojamiento
+31
+1.593,09 €
+21 %
+49.385,79 €
+Base imponible: 345.481,11 €. IVA (21 %): 72.551,03 €. Total a pagar: 418.032,14 €.

@@ -1,0 +1,87 @@
+Página 1
+Factura F-2026-8933
+Cliente: Distribuciones Peña y Núñez, S. L. Fecha de emisión: 3 de octubre de 2026. Forma de pago:
+transferencia a 30 días.
+Concepto
+Cantidad
+Precio unitario
+IVA
+Total
+Diseño de flujos de aprobación de pedidos para
+compras y logística
+28
+1.391,17 €
+21 %
+38.952,76 €
+Consultoría
+34
+258,43 €
+21 %
+8.786,62 €
+Soporte técnico prioritario de lunes a viernes,
+incluidas las guardias de cierre
+8
+147,73 €
+21 %
+1.181,84 €
+Licencia anual
+39
+1.759,48 €
+21 %
+68.619,72 €
+Formación in situ para el equipo de atención al
+cliente en Guadalajara
+6
+1.896,16 €
+21 %
+11.376,96 €
+Informe de riesgos
+18
+572,06 €
+21 %
+10.297,08 €
+Formación in situ para el equipo de atención al
+cliente en Guadalajara
+17
+3.751,96 €
+21 %
+63.783,32 €
+Informe de riesgos
+21
+235,19 €
+21 %
+4.938,99 €
+Migración de datos históricos del ERP antiguo
+con validación de saldos
+9
+2.020,89 €
+21 %
+18.188,01 €
+Diseño de flujos
+22
+94,84 €
+21 %
+2.086,48 €
+Formación in situ para el equipo de atención al
+cliente en Guadalajara
+18
+4.383,83 €
+21 %
+78.908,94 €
+Alojamiento
+34
+1.514,19 €
+21 %
+51.482,46 €
+Licencia anual del módulo de facturación
+electrónica con firma cualificada
+10
+4.124,16 €
+21 %
+41.241,60 €
+Diseño de flujos
+35
+1.965,20 €
+21 %
+68.782,00 €
+Base imponible: 468.626,78 €. IVA (21 %): 98.411,62 €. Total a pagar: 567.038,40 €.
