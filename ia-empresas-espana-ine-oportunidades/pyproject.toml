@@ -1,0 +1,15 @@
+[project]
+name = "ia-empresas-espana-ine-oportunidades"
+version = "1.0.0"
+description = "Oportunidades de negocio en IA para empresas españolas, con los datos del INE (Encuesta TIC-E 2025-2026)"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2",
+    "matplotlib>=3.9",
+    "jupyter>=1.1",
+    "nbconvert>=7.16",
+    "ipykernel>=6.29",
+]
+
+[tool.uv]
+package = false

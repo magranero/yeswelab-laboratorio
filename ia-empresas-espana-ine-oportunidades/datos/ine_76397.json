@@ -1,0 +1,151 @@
+[{"Nombre":"E.1 % de empresas que emplean tecnologías de Inteligencia Artificial (IA) (1)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1 % de empresas que emplean tecnologías de Inteligencia Artificial (IA) (1)", "Codigo":"e1deempresasqueempleantecnologiasdeinteligenciaartificialia1"}
+]
+, "Data":[{"Valor":13.39}
+]
+}
+,{"Nombre":"E.1.A % de empresas con tecnología IA de análisis del lenguaje escrito (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.A % de empresas con tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"e1adeempresascontecnologiaiadeanalisisdellenguajeescrito2"}
+]
+, "Data":[{"Valor":46.62}
+]
+}
+,{"Nombre":"E.1.B % de empresas con tecnología IA que convierte el lenguaje hablado en formato legible por una máquina (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.B % de empresas con tecnología IA que convierte el lenguaje hablado en formato legible por una máquina (2)", "Codigo":"e1bdeempresascontecnologiaiaqueconvierteellenguajehabladoenformatolegibleporunamaquina2"}
+]
+, "Data":[{"Valor":40.1}
+]
+}
+,{"Nombre":"E.1.C % de empresas con tecnología IA que genera lenguaje escrito o hablado, o códigos de programación (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.C % de empresas con tecnología IA que genera lenguaje escrito o hablado, o códigos de programación (2)", "Codigo":"e1cdeempresascontecnologiaiaquegeneralenguajeescritoohabladoocodigosdeprogramacion2"}
+]
+, "Data":[{"Valor":41.44}
+]
+}
+,{"Nombre":"E.1.D % de empresas con tecnología IA que genera imágenes, vídeos, sonidos o audio (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.D % de empresas con tecnología IA que genera imágenes, vídeos, sonidos o audio (2)", "Codigo":"e1ddeempresascontecnologiaiaquegeneraimagenesvideossonidosoaudio2"}
+]
+, "Data":[{"Valor":61.21}
+]
+}
+,{"Nombre":"E.1.E % de empresas con tecnología IA de identificación de objetos o personas en función de imágenes o vídeos (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.E % de empresas con tecnología IA de identificación de objetos o personas en función de imágenes o vídeos (2)", "Codigo":"e1edeempresascontecnologiaiadeidentificaciondeobjetosopersonasenfunciondeimagenesovideos2"}
+]
+, "Data":[{"Valor":26.09}
+]
+}
+,{"Nombre":"E.1.F % de empresas con tecnología IA de aprendizaje automático o machine learning para el análisis de datos (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.F % de empresas con tecnología IA de aprendizaje automático o machine learning para el análisis de datos (2)", "Codigo":"e1fdeempresascontecnologiaiadeaprendizajeautomaticoomachinelearningparaelanalisisdedatos2"}
+]
+, "Data":[{"Valor":11.62}
+]
+}
+,{"Nombre":"E.1.G % de empresas con tecnología IA de automatización de flujos de trabajo o ayuda en la toma de decisiones (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.G % de empresas con tecnología IA de automatización de flujos de trabajo o ayuda en la toma de decisiones (2)", "Codigo":"e1gdeempresascontecnologiaiadeautomatizaciondeflujosdetrabajooayudaenlatomadedecisiones2"}
+]
+, "Data":[{"Valor":13.98}
+]
+}
+,{"Nombre":"E.1.H % de empresas con tecnología IA que permite el movimiento físico de máquinas a través de decisiones autónomas basadas en la observación del entorno (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.1.H % de empresas con tecnología IA que permite el movimiento físico de máquinas a través de decisiones autónomas basadas en la observación del entorno (2)", "Codigo":"e1hdeempresascontecnologiaiaquepermiteelmovimientofisicodemaquinasatravesdedecisionesautonomasbasadasenlaobservaciondelentorno2"}
+]
+, "Data":[{"Valor":4.23}
+]
+}
+,{"Nombre":"E.2.A % de empresas que emplean tecnologías de IA para marketing o ventas (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.2.A % de empresas que emplean tecnologías de IA para marketing o ventas (2)", "Codigo":"e2adeempresasqueempleantecnologiasdeiaparamarketingoventas2"}
+]
+, "Data":[{"Valor":20.33}
+]
+}
+,{"Nombre":"E.2.B % de empresas que emplean tecnologías de IA para procesos de producción o servicios (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.2.B % de empresas que emplean tecnologías de IA para procesos de producción o servicios (2)", "Codigo":"e2bdeempresasqueempleantecnologiasdeiaparaprocesosdeproduccionoservicios2"}
+]
+, "Data":[{"Valor":14.65}
+]
+}
+,{"Nombre":"E.2.C % de empresas que emplean tecnologías de IA para organización de procesos de administración o gestión empresarial (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.2.C % de empresas que emplean tecnologías de IA para organización de procesos de administración o gestión empresarial (2)", "Codigo":"e2cdeempresasqueempleantecnologiasdeiaparaorganizaciondeprocesosdeadministracionogestionempresarial2"}
+]
+, "Data":[{"Valor":18.84}
+]
+}
+,{"Nombre":"E.2.D % de empresas que emplean tecnologías de IA para logística (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.2.D % de empresas que emplean tecnologías de IA para logística (2)", "Codigo":"e2ddeempresasqueempleantecnologiasdeiaparalogistica2"}
+]
+, "Data":[{"Valor":3.64}
+]
+}
+,{"Nombre":"E.2.E % de empresas que emplean tecnologías de IA para seguridad de las TIC (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.2.E % de empresas que emplean tecnologías de IA para seguridad de las TIC (2)", "Codigo":"e2edeempresasqueempleantecnologiasdeiaparaseguridaddelastic2"}
+]
+, "Data":[{"Valor":7.45}
+]
+}
+,{"Nombre":"E.2.F % de empresas que emplean tecnologías de IA para gestión contable, de control o financiera (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.2.F % de empresas que emplean tecnologías de IA para gestión contable, de control o financiera (2)", "Codigo":"e2fdeempresasqueempleantecnologiasdeiaparagestioncontabledecontrolofinanciera2"}
+]
+, "Data":[{"Valor":15.19}
+]
+}
+,{"Nombre":"E.2.G % de empresas que emplean tecnologías de IA para actividades de I+D o innovación (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.2.G % de empresas que emplean tecnologías de IA para actividades de I+D o innovación (2)", "Codigo":"e2gdeempresasqueempleantecnologiasdeiaparaactividadesdeidoinnovacion2"}
+]
+, "Data":[{"Valor":16.75}
+]
+}
+,{"Nombre":"E.3.A % de empresas que adquieren software o sistemas de IA que son desarrollados por empleados propios (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.3.A % de empresas que adquieren software o sistemas de IA que son desarrollados por empleados propios (2)", "Codigo":"e3adeempresasqueadquierensoftwareosistemasdeiaquesondesarrolladosporempleadospropios2"}
+]
+, "Data":[{"Valor":7.31}
+]
+}
+,{"Nombre":"E.3.B % de empresas que adquieren software o sistemas de IA comerciales que son modificados por empleados propios (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.3.B % de empresas que adquieren software o sistemas de IA comerciales que son modificados por empleados propios (2)", "Codigo":"e3bdeempresasqueadquierensoftwareosistemasdeiacomercialesquesonmodificadosporempleadospropios2"}
+]
+, "Data":[{"Valor":7.59}
+]
+}
+,{"Nombre":"E.3.C % de empresas que adquieren software o sistemas de IA de código abierto que son modificados por empleados propios (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.3.C % de empresas que adquieren software o sistemas de IA de código abierto que son modificados por empleados propios (2)", "Codigo":"e3cdeempresasqueadquierensoftwareosistemasdeiadecodigoabiertoquesonmodificadosporempleadospropios2"}
+]
+, "Data":[{"Valor":11.17}
+]
+}
+,{"Nombre":"E.3.D % de empresas que adquieren software o sistemas de IA comerciales listos para usar (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.3.D % de empresas que adquieren software o sistemas de IA comerciales listos para usar (2)", "Codigo":"e3ddeempresasqueadquierensoftwareosistemasdeiacomercialeslistosparausar2"}
+]
+, "Data":[{"Valor":43.29}
+]
+}
+,{"Nombre":"E.3.E % de empresas que adquieren software o sistemas de IA mediante la contratación a proveedores externos para desarrollarlos o modificarlos (2)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.3.E % de empresas que adquieren software o sistemas de IA mediante la contratación a proveedores externos para desarrollarlos o modificarlos (2)", "Codigo":"e3edeempresasqueadquierensoftwareosistemasdeiamediantelacontratacionaproveedoresexternosparadesarrollarlosomodificarlos2"}
+]
+, "Data":[{"Valor":9.62}
+]
+}
+,{"Nombre":"E.4 % de empresas que alguna vez han considerado utilizar alguna de las tecnologías de IA enumeradas en E.1 (1)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.4 % de empresas que alguna vez han considerado utilizar alguna de las tecnologías de IA enumeradas en E.1 (1)", "Codigo":"e4deempresasquealgunavezhanconsideradoutilizaralgunadelastecnologiasdeiaenumeradasene11"}
+]
+, "Data":[{"Valor":6.31}
+]
+}
+,{"Nombre":"E.5.A % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: los costes parecen demasiado altos (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.A % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: los costes parecen demasiado altos (3)", "Codigo":"e5adeempresasquenoutilizanningunadelastecnologiasdeiadee1porqueloscostesparecendemasiadoaltos3"}
+]
+, "Data":[{"Valor":48.74}
+]
+}
+,{"Nombre":"E.5.B % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: faltan conocimientos especializados relevantes en la empresa (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.B % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: faltan conocimientos especializados relevantes en la empresa (3)", "Codigo":"e5bdeempresasquenoutilizanningunadelastecnologiasdeiadee1porquefaltanconocimientosespecializadosrelevantesenlaempresa3"}
+]
+, "Data":[{"Valor":78.77}
+]
+}
+,{"Nombre":"E.5.C % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: incompatibilidad con equipos, software o sistemas existentes (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.C % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: incompatibilidad con equipos, software o sistemas existentes (3)", "Codigo":"e5cdeempresasquenoutilizanningunadelastecnologiasdeiadee1porqueincompatibilidadconequipossoftwareosistemasexistentes3"}
+]
+, "Data":[{"Valor":32.24}
+]
+}
+,{"Nombre":"E.5.D % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: dificultades con la disponibilidad o calidad de los datos necesarios (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.D % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: dificultades con la disponibilidad o calidad de los datos necesarios (3)", "Codigo":"e5ddeempresasquenoutilizanningunadelastecnologiasdeiadee1porquedificultadesconladisponibilidadocalidaddelosdatosnecesarios3"}
+]
+, "Data":[{"Valor":54.12}
+]
+}
+,{"Nombre":"E.5.E % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: preocupaciones con respecto a la violación de la protección de datos y la privacidad (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.E % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: preocupaciones con respecto a la violación de la protección de datos y la privacidad (3)", "Codigo":"e5edeempresasquenoutilizanningunadelastecnologiasdeiadee1porquepreocupacionesconrespectoalaviolaciondelaprotecciondedatosylaprivacidad3"}
+]
+, "Data":[{"Valor":51.17}
+]
+}
+,{"Nombre":"E.5.F % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: falta de claridad sobre las consecuencias legales (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.F % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: falta de claridad sobre las consecuencias legales (3)", "Codigo":"e5fdeempresasquenoutilizanningunadelastecnologiasdeiadee1porquefaltadeclaridadsobrelasconsecuenciaslegales3"}
+]
+, "Data":[{"Valor":55.68}
+]
+}
+,{"Nombre":"E.5.G % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: consideraciones éticas (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.G % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: consideraciones éticas (3)", "Codigo":"e5gdeempresasquenoutilizanningunadelastecnologiasdeiadee1porqueconsideracioneseticas3"}
+]
+, "Data":[{"Valor":27.93}
+]
+}
+,{"Nombre":"E.5.H % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: las tecnologías de IA no son útiles para la empresa (3)", "MetaData":[{"T3_Variable":"Principales variables", "Nombre":"E.5.H % de empresas que no utilizan ninguna de las tecnologías de IA de E.1 porque: las tecnologías de IA no son útiles para la empresa (3)", "Codigo":"e5hdeempresasquenoutilizanningunadelastecnologiasdeiadee1porquelastecnologiasdeianosonutilesparalaempresa3"}
+]
+, "Data":[{"Valor":18.59}
+]
+}
+]

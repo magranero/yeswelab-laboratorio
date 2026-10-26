@@ -1,0 +1,8 @@
+Fecha de ejecución: 2026-10-26
+Equipo: Apple M1 Max, macOS 26.6.2 (arm64)
+Python 3.14.4 (uv 0.11.8)
+pandas 3.1.0 · matplotlib 3.11.2 · jupyter 1.1.1 · nbconvert 7.17.2 · ipykernel 7.4.0
+Datos: INE, API JSON de INEbase (Tempus3), descargados el 2026-10-26
+  ETICCE 2025-2026 (uso de IA en el primer trimestre de 2026): tablas 82382, 82394, 82404, 82415
+  ETICCE 2024-2025 (uso de IA en el primer trimestre de 2025): tablas 76387, 76397
+  DIRCE a 1 de enero de 2025: tabla 39372 (no se guarda en el repo: 70 MB, se descarga sola)

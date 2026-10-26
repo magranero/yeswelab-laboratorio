@@ -1,0 +1,121 @@
+[{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), Total España", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"Total España", "Codigo":"totalespana"}
+]
+, "Data":[{"Valor":0.45}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), De 10 a 49 remunerados", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"De 10 a 49 remunerados", "Codigo":"de10a49remunerados"}
+]
+, "Data":[{"Valor":0.52}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), De 50 a 249 remunerados", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"De 50 a 249 remunerados", "Codigo":"de50a249remunerados"}
+]
+, "Data":[{"Valor":0.98}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), De 250 y más remunerados", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"De 250 y más remunerados", "Codigo":"de250ymasremunerados"}
+]
+, "Data":[{"Valor":0.44}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 1.1. Alimentación, bebidas tabaco, industria textil, confección de prendas de vestir, cuero y calzado, industria de madera y corcho, industria del papel, y artes gráficas y reproducción de soportes grabados (CNAE 10-18)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"1.1. Alimentación, bebidas tabaco, industria textil, confección de prendas de vestir, cuero y calzado, industria de madera y corcho, industria del papel, y artes gráficas y reproducción de soportes grabados (CNAE 10-18)", "Codigo":"11alimentacionbebidastabacoindustriatextilconfecciondeprendasdevestircueroycalzadoindustriademaderaycorchoindustriadelpapelyartesgraficasyreproducciondesoportesgrabadoscnae1018"}
+]
+, "Data":[{"Valor":1.24}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 1.2. Coquerias y refino de petróleo, industria química, fabricación de productos farmacéuticos, fabricación de productos de caucho y plásticos, y fabricación de productos minerales no metálicos (CNAE 19-23)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"1.2. Coquerias y refino de petróleo, industria química, fabricación de productos farmacéuticos, fabricación de productos de caucho y plásticos, y fabricación de productos minerales no metálicos (CNAE 19-23)", "Codigo":"12coqueriasyrefinodepetroleoindustriaquimicafabricaciondeproductosfarmaceuticosfabricaciondeproductosdecauchoyplasticosyfabricaciondeproductosmineralesnometalicoscnae1923"}
+]
+, "Data":[{"Valor":1.64}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 1.3. Metalurgia y fabricación de productos metálicos ( CNAE 24-25)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"1.3. Metalurgia y fabricación de productos metálicos ( CNAE 24-25)", "Codigo":"13metalurgiayfabricaciondeproductosmetalicoscnae2425"}
+]
+, "Data":[{"Valor":1.17}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 1.4. Productos informáticos, electrónicos y ópticos, fabricación de material y equipo eléctrico, fabricación de maquinaria y equipo mecánico, fabricación de vehículos de motor y otro material de transporte, fabricación de muebles, otras industrias manufactureras, y reparación, mantenimiento e instalación de maquinaria y equipos (CNAE 26-33)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"1.4. Productos informáticos, electrónicos y ópticos, fabricación de material y equipo eléctrico, fabricación de maquinaria y equipo mecánico, fabricación de vehículos de motor y otro material de transporte, fabricación de muebles, otras industrias manufactureras, y reparación, mantenimiento e instalación de maquinaria y equipos (CNAE 26-33)", "Codigo":"14productosinformaticoselectronicosyopticosfabricaciondematerialyequipoelectricofabricaciondemaquinariayequipomecanicofabricaciondevehiculosdemotoryotromaterialdetransportefabricaciondemueblesotrasindustriasmanufacturerasyreparacionmantenimientoeinstalaciondemaquinariayequiposcnae2633"}
+]
+, "Data":[{"Valor":1.5}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 1.5. Energía, gas, vapor y agua (CNAE 35-39)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"1.5. Energía, gas, vapor y agua (CNAE 35-39)", "Codigo":"15energiagasvaporyaguacnae3539"}
+]
+, "Data":[{"Valor":2.26}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 2. Total Construcción (CNAE 41-43)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"2. Total Construcción (CNAE 41-43)", "Codigo":"2totalconstruccioncnae4143"}
+]
+, "Data":[{"Valor":1.38}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.1. Comercio al por mayor  (CNAE 46)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.1. Comercio al por mayor  (CNAE 46)", "Codigo":"31comercioalpormayorcnae46"}
+]
+, "Data":[{"Valor":1.2}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.2. Comercio al por menor (CNAE 47)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.2. Comercio al por menor (CNAE 47)", "Codigo":"32comercioalpormenorcnae47"}
+]
+, "Data":[{"Valor":1.22}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.3. Transporte y almacenamiento (CNAE 49-53)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.3. Transporte y almacenamiento (CNAE 49-53)", "Codigo":"33transporteyalmacenamientocnae4953"}
+]
+, "Data":[{"Valor":1.21}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.4. Hostelería: servicios de alojamiento y servicios de comidas y bebidas (CNAE 55-56)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.4. Hostelería: servicios de alojamiento y servicios de comidas y bebidas (CNAE 55-56)", "Codigo":"34hosteleriaserviciosdealojamientoyserviciosdecomidasybebidascnae5556"}
+]
+, "Data":[{"Valor":2.64}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.5. Edición, radiodifusión y producción y distribución de contenidos (CNAE 58-60)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.5. Edición, radiodifusión y producción y distribución de contenidos (CNAE 58-60)", "Codigo":"35edicionradiodifusionyproduccionydistribuciondecontenidoscnae5860"}
+]
+, "Data":[{"Valor":3.97}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.6. Información y telecomunicaciones, informática, y reparación y mantenimiento de ordenadores y equipos de comunicación (CNAE 61-63 y 95.1)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.6. Información y telecomunicaciones, informática, y reparación y mantenimiento de ordenadores y equipos de comunicación (CNAE 61-63 y 95.1)", "Codigo":"36informacionytelecomunicacionesinformaticayreparacionymantenimientodeordenadoresyequiposdecomunicacioncnae6163y951"}
+]
+, "Data":[{"Valor":2.84}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.7. Actividades inmobiliarias (CNAE 68)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.7. Actividades inmobiliarias (CNAE 68)", "Codigo":"37actividadesinmobiliariascnae68"}
+]
+, "Data":[{"Valor":4.47}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.8. Actividades profesionales, científicas y técnicas (CNAE 69-75)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.8. Actividades profesionales, científicas y técnicas (CNAE 69-75)", "Codigo":"38actividadesprofesionalescientificasytecnicascnae6975"}
+]
+, "Data":[{"Valor":1.91}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 3.9. Actividades administrativas y servicios auxiliares (incl. agencias viajes) (CNAE 77-82)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"3.9. Actividades administrativas y servicios auxiliares (incl. agencias viajes) (CNAE 77-82)", "Codigo":"39actividadesadministrativasyserviciosauxiliaresinclagenciasviajescnae7782"}
+]
+, "Data":[{"Valor":1.54}
+]
+}
+,{"Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2), 4. Sector TIC (CNAE 261-264, 465, 582, 61, 62, 631, 951)", "MetaData":[{"T3_Variable":"Pregunta", "Nombre":"D.1.A % de empresas que emplean tecnología IA de análisis del lenguaje escrito (2)", "Codigo":"d1adeempresasqueempleantecnologiaiadeanalisisdellenguajeescrito2"}
+,{"T3_Variable":"Estratos", "Nombre":"4. Sector TIC (CNAE 261-264, 465, 582, 61, 62, 631, 951)", "Codigo":"4sectorticcnae2612644655826162631951"}
+]
+, "Data":[{"Valor":2.44}
+]
+}
+]

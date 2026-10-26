@@ -1,0 +1,9 @@
+,freno,servicio,pct_Total,pct_De 10 a 49,pct_De 50 a 249,pct_Menos de 10,pct_2025,empresas_10_o_mas
+D.7.B,que faltan conocimientos especializados relevantes en la empresa,"Formación práctica e implantación acompañada (hacerlo con ellos, no solo explicarlo)",79.6,79.4,80.9,77.0,81.3,8600
+D.7.F,falta de claridad sobre las consecuencias legales,"Diagnóstico legal: RGPD y Reglamento europeo de IA, con política de uso interna",53.9,54.9,50.3,53.2,52.9,5900
+D.7.E,preocupaciones con respecto a la violación de la protección de datos y la privacidad,"IA privada: modelos en local o en nube europea, sin que los datos salgan de la empresa",52.2,51.5,54.3,53.4,53.6,5600
+D.7.D,dificultades con la disponibilidad o calidad de los datos necesarios,Auditoría y preparación de datos antes de automatizar,47.1,46.5,49.1,45.4,47.9,5100
+D.7.A,que los costes parecen demasiado altos,"Pilotos de precio cerrado y retorno medido, con herramientas de código abierto",46.9,45.8,50.7,61.3,48.3,5000
+D.7.C,"incompatibilidad con equipos, software o sistemas existentes","Integraciones con su ERP, CRM o correo (n8n, API) en vez de cambiar de sistema",35.7,35.3,36.9,29.6,34.1,3800
+D.7.G,consideraciones éticas,"Gobierno de la IA: criterios, supervisión humana y registro de decisiones",28.0,27.8,29.4,26.1,24.1,3000
+D.7.H,que las tecnologías de IA no son útiles para la empresa,Experimento con sus datos para demostrar (o descartar) la utilidad antes de invertir,13.2,14.2,9.3,14.4,14.2,1400
