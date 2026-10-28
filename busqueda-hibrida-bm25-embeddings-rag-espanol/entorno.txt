@@ -1,0 +1,22 @@
+Fecha de la medición: 2026-10-28
+Equipo: portátil Apple M1 Max, 64 GB de memoria unificada, macOS 26.6.2, con otras apps abiertas, en batería y con la tapa abierta
+Aceleración: PyTorch con MPS (GPU de Apple) para los embeddings y el reranker; BM25 en CPU con un hilo
+Python 3.12.13
+
+Paquetes medidos:
+bm25s 0.3.15
+PyStemmer 3.1.0 (Snowball, español)
+sentence-transformers 6.2.0
+transformers 5.20.2
+torch 2.14.1
+numpy 2.5.4
+pandas 3.1.0
+
+Modelos (Hugging Face, revisión fijada):
+intfloat/multilingual-e5-small 614241f622f53c4eeff9890bdc4f31cfecc418b3 (fp32)
+BAAI/bge-m3 5617a9f61b028005a4858fdac845db406aefb181 (denso, fp16)
+BAAI/bge-reranker-v2-m3 953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e (fp16, máx. 512 tokens)
+
+Datos (Hugging Face, revisión fijada):
+mteb/MIRACLRetrievalHardNegatives 332a9acb49f5e83d5397683f79d23e588f685916 (es, dev)
+mteb/MLQARetrieval cf59ddd8f4aaf39ce1869361e09252698c340945 (spa-spa, test)

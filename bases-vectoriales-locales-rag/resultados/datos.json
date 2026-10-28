@@ -1,0 +1,25 @@
+{
+  "corpus": {
+    "repo": "wikimedia/wikipedia",
+    "fichero": "20231101.es/train-00002-of-00013.parquet",
+    "revision": "b04c8d1ceb2f5cd4588862100d08de323dccfbaa",
+    "parrafos_candidatos": 479809,
+    "parrafos_indexados": 100000,
+    "consultas": 1000,
+    "caracteres_medios_parrafo": 548.96897,
+    "caracteres_medios_consulta": 175.819
+  },
+  "modelo": {
+    "nombre": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "dimensiones": 384,
+    "dispositivo": "mps",
+    "segundos_embeddings_corpus": 352.76040637500046
+  },
+  "tamanos": [
+    10000,
+    100000
+  ],
+  "k": 10,
+  "semilla": 20261024
+}

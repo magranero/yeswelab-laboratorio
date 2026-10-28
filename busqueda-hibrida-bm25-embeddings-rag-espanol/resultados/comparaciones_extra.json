@@ -1,0 +1,52 @@
+{
+  "miracl": {
+    "rrf bm25+e5-small +rerank vs e5-small": {
+      "diferencia": 0.10782320313908708,
+      "ic95_bajo": 0.07935692189017432,
+      "ic95_alto": 0.13481264097692985,
+      "consultas": 300
+    },
+    "bm25 +rerank vs e5-small": {
+      "diferencia": -0.08877141568336436,
+      "ic95_bajo": -0.12590240281501508,
+      "ic95_alto": -0.053418880418246675,
+      "consultas": 300
+    },
+    "rerank_sobre_rrf_consultas": {
+      "mejora": 211,
+      "igual": 42,
+      "empeora": 47
+    }
+  },
+  "mlqa": {
+    "rrf bm25+e5-small +rerank vs e5-small": {
+      "diferencia": 0.0991435792055037,
+      "ic95_bajo": 0.06925123059556608,
+      "ic95_alto": 0.13262631694749077,
+      "consultas": 300
+    },
+    "rrf bm25+e5-small +rerank vs bge-m3": {
+      "diferencia": 0.09341565804960777,
+      "ic95_bajo": 0.05956593369549492,
+      "ic95_alto": 0.12808383776628407,
+      "consultas": 300
+    },
+    "rrf bm25+e5-small +rerank vs rrf bm25+bge-m3": {
+      "diferencia": 0.05853916775512348,
+      "ic95_bajo": 0.035214487268798535,
+      "ic95_alto": 0.08259683024030778,
+      "consultas": 300
+    },
+    "bm25 +rerank vs e5-small": {
+      "diferencia": 0.08449378038890974,
+      "ic95_bajo": 0.04956569643529071,
+      "ic95_alto": 0.12331676193106927,
+      "consultas": 300
+    },
+    "rerank_sobre_rrf_consultas": {
+      "mejora": 55,
+      "igual": 233,
+      "empeora": 12
+    }
+  }
+}

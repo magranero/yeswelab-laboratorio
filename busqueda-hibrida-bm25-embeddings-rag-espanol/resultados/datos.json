@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-10-28",
+  "conjuntos": {
+    "miracl": {
+      "repo": "mteb/MIRACLRetrievalHardNegatives",
+      "revision": "332a9acb49f5e83d5397683f79d23e588f685916",
+      "licencia": "CC BY-SA 4.0",
+      "pasajes": 146750,
+      "consultas": 648,
+      "relevantes_por_consulta_media": 4.609567901234568
+    },
+    "mlqa": {
+      "repo": "mteb/MLQARetrieval",
+      "revision": "cf59ddd8f4aaf39ce1869361e09252698c340945",
+      "licencia": "CC BY-SA 3.0",
+      "consultas_muestra": 1000,
+      "pasajes": 4761,
+      "consultas": 1000,
+      "relevantes_por_consulta_media": 1.001
+    }
+  },
+  "modelos": {
+    "e5-small": {
+      "repo": "intfloat/multilingual-e5-small",
+      "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3"
+    },
+    "bge-m3": {
+      "repo": "BAAI/bge-m3",
+      "revision": "5617a9f61b028005a4858fdac845db406aefb181"
+    },
+    "reranker": {
+      "repo": "BAAI/bge-reranker-v2-m3",
+      "revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e"
+    }
+  },
+  "python": "3.12.13"
+}

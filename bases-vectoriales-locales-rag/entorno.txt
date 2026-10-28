@@ -1,0 +1,20 @@
+Fecha del experimento: 2026-10-24
+Equipo: portátil Apple M1 Max, 64 GB de memoria, 8 núcleos de rendimiento + 2 de eficiencia
+Sistema: macOS 26.6.2 (25G83), arm64
+Con otras aplicaciones abiertas; sin aislar la máquina.
+Python 3.12.13 (CPython gestionado por uv; con carga de extensiones de SQLite)
+SQLite (del intérprete) 3.50.4
+numpy 2.5.4
+faiss-cpu 1.15.1
+sqlite-vec 0.1.9
+duckdb 2.0.0
+chromadb 1.5.9
+lancedb 0.40.0
+pyarrow 26.0.0
+psutil 7.2.2
+sentence-transformers 6.2.0
+torch 2.14.1
+transformers 5.20.2
+huggingface-hub 2.3.0
+Modelo de embeddings: intfloat/multilingual-e5-small, revisión 614241f622f53c4eeff9890bdc4f31cfecc418b3 (384 dimensiones, MPS)
+Corpus: wikimedia/wikipedia 20231101.es/train-00002-of-00013.parquet, revisión b04c8d1ceb2f5cd4588862100d08de323dccfbaa

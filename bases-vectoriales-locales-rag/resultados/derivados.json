@@ -1,0 +1,132 @@
+{
+  "chroma_10000": {
+    "lat_p50_vs_numpy": 1.1090378333503779,
+    "disco_vs_numpy": 1.9047039191340072,
+    "indexado_vs_numpy": 328.3970767532677,
+    "recall_perdido_puntos": 2.0000000000000018
+  },
+  "duckdb_10000": {
+    "lat_p50_vs_numpy": 23.762964043578435,
+    "disco_vs_numpy": 0.8882592645061292,
+    "indexado_vs_numpy": 437.61018818971445,
+    "recall_perdido_puntos": 0.0
+  },
+  "faiss_flat_10000": {
+    "lat_p50_vs_numpy": 0.9365844708203742,
+    "disco_vs_numpy": 0.9999945963991966,
+    "indexado_vs_numpy": 1.8566276549689236,
+    "recall_perdido_puntos": 0.0
+  },
+  "faiss_hnsw_10000": {
+    "lat_p50_vs_numpy": 0.11279620282862796,
+    "disco_vs_numpy": 1.1769340724243964,
+    "indexado_vs_numpy": 78.00335676705846,
+    "recall_perdido_puntos": 13.870000000000005
+  },
+  "faiss_hnsw_ef64_10000": {
+    "lat_p50_vs_numpy": 0.32685933260742706,
+    "disco_vs_numpy": 1.1769340724243964,
+    "indexado_vs_numpy": 78.1539574596431,
+    "recall_perdido_puntos": 1.649999999999996
+  },
+  "lancedb_10000": {
+    "lat_p50_vs_numpy": 12.154228504051638,
+    "disco_vs_numpy": 1.0011233630344747,
+    "indexado_vs_numpy": 7.5296468047453216,
+    "recall_perdido_puntos": 0.0
+  },
+  "lancedb_ivfpq_10000": {
+    "lat_p50_vs_numpy": 3.5010076460786017,
+    "disco_vs_numpy": 1.043717344022133,
+    "indexado_vs_numpy": 582.9969308909857,
+    "recall_perdido_puntos": 65.66000000000001
+  },
+  "lancedb_ivfpq_refine_10000": {
+    "lat_p50_vs_numpy": 6.867157656004669,
+    "disco_vs_numpy": 1.0437172789185092,
+    "indexado_vs_numpy": 591.5310439919194,
+    "recall_perdido_puntos": 19.789999999999996
+  },
+  "numpy_10000": {
+    "lat_p50_vs_numpy": 1.0,
+    "disco_vs_numpy": 1.0,
+    "indexado_vs_numpy": 1.0,
+    "recall_perdido_puntos": 0.0
+  },
+  "sqlite_vec_10000": {
+    "lat_p50_vs_numpy": 16.47751896480157,
+    "disco_vs_numpy": 1.0418579845167957,
+    "indexado_vs_numpy": 46.100347332375065,
+    "recall_perdido_puntos": 0.0
+  },
+  "chroma_100000": {
+    "lat_p50_vs_numpy": 0.14142652436305259,
+    "disco_vs_numpy": 1.2767508631242805,
+    "indexado_vs_numpy": 588.8267637299749,
+    "recall_perdido_puntos": 7.979999999999999,
+    "lat_p50_100k_vs_10k": 1.6127794721304227
+  },
+  "duckdb_100000": {
+    "lat_p50_vs_numpy": 10.60884347593424,
+    "disco_vs_numpy": 1.0189591508673743,
+    "indexado_vs_numpy": 159.09289066501367,
+    "recall_perdido_puntos": 0.0,
+    "lat_p50_100k_vs_10k": 5.6462214979074865
+  },
+  "faiss_flat_100000": {
+    "lat_p50_vs_numpy": 0.39173636174450754,
+    "disco_vs_numpy": 0.9999994596358669,
+    "indexado_vs_numpy": 1.9958254293504758,
+    "recall_perdido_puntos": 0.0,
+    "lat_p50_100k_vs_10k": 5.289777599357687
+  },
+  "faiss_hnsw_100000": {
+    "lat_p50_vs_numpy": 0.01983922466331718,
+    "disco_vs_numpy": 1.1772179903391746,
+    "indexado_vs_numpy": 182.87397518793387,
+    "recall_perdido_puntos": 25.360000000000007,
+    "lat_p50_100k_vs_10k": 2.2244400000000004
+  },
+  "faiss_hnsw_ef64_100000": {
+    "lat_p50_vs_numpy": 0.05759027261646402,
+    "disco_vs_numpy": 1.1772179903391746,
+    "indexado_vs_numpy": 182.58757330604146,
+    "recall_perdido_puntos": 7.430000000000003,
+    "lat_p50_100k_vs_10k": 2.2283259867301024
+  },
+  "lancedb_100000": {
+    "lat_p50_vs_numpy": 3.7616314177839882,
+    "disco_vs_numpy": 1.0013024077688266,
+    "indexado_vs_numpy": 5.568339018847885,
+    "recall_perdido_puntos": 0.0,
+    "lat_p50_100k_vs_10k": 3.9141667412192804
+  },
+  "lancedb_ivfpq_100000": {
+    "lat_p50_vs_numpy": 0.5692194904420728,
+    "disco_vs_numpy": 1.021050555374537,
+    "indexado_vs_numpy": 617.5088745238704,
+    "recall_perdido_puntos": 71.28999999999999,
+    "lat_p50_100k_vs_10k": 2.056256003326638
+  },
+  "lancedb_ivfpq_refine_100000": {
+    "lat_p50_vs_numpy": 0.8367324077652585,
+    "disco_vs_numpy": 1.0210613886988427,
+    "indexado_vs_numpy": 620.173353781144,
+    "recall_perdido_puntos": 31.55,
+    "lat_p50_100k_vs_10k": 1.5409908229876677
+  },
+  "numpy_100000": {
+    "lat_p50_vs_numpy": 1.0,
+    "disco_vs_numpy": 1.0,
+    "indexado_vs_numpy": 1.0,
+    "recall_perdido_puntos": 0.0,
+    "lat_p50_100k_vs_10k": 12.64708624848853
+  },
+  "sqlite_vec_100000": {
+    "lat_p50_vs_numpy": 13.156707316348069,
+    "disco_vs_numpy": 1.0195724836895967,
+    "indexado_vs_numpy": 48.18140742105079,
+    "recall_perdido_puntos": 0.0,
+    "lat_p50_100k_vs_10k": 10.098244312837174
+  }
+}
