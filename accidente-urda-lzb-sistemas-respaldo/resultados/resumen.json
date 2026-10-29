@@ -1,0 +1,230 @@
+{
+ "identificadores": {
+  "pk_impacto": 118,
+  "trenes": {
+   "AVE": 2080,
+   "Iryo": 6076,
+   "mencionado_en_la_sala": 2061
+  }
+ },
+ "ventanas": [
+  {
+   "hipotesis_impacto": "08:48",
+   "fuente": "Iryo (Hosteltur)",
+   "min_desde_caida_lzb": 18,
+   "min_desde_orden_marcha_normal": 12,
+   "min_desde_primer_aviso_iryo": 7,
+   "min_desde_segundo_aviso_iryo": 0,
+   "velocidad_media_implicita_kmh": 125.0
+  },
+  {
+   "hipotesis_impacto": "08:53",
+   "fuente": "Ministro de Transportes",
+   "min_desde_caida_lzb": 23,
+   "min_desde_orden_marcha_normal": 17,
+   "min_desde_primer_aviso_iryo": 12,
+   "min_desde_segundo_aviso_iryo": 5,
+   "velocidad_media_implicita_kmh": 88.2
+  },
+  {
+   "hipotesis_impacto": "08:54",
+   "fuente": "112 Castilla-La Mancha",
+   "min_desde_caida_lzb": 24,
+   "min_desde_orden_marcha_normal": 18,
+   "min_desde_primer_aviso_iryo": 13,
+   "min_desde_segundo_aviso_iryo": 6,
+   "velocidad_media_implicita_kmh": 83.3
+  }
+ ],
+ "recorridos_25_km": [
+  {
+   "velocidad_kmh": 40,
+   "minutos_para_25_km": 37.5
+  },
+  {
+   "velocidad_kmh": 130,
+   "minutos_para_25_km": 11.5
+  },
+  {
+   "velocidad_kmh": 200,
+   "minutos_para_25_km": 7.5
+  },
+  {
+   "velocidad_kmh": 300,
+   "minutos_para_25_km": 5.0
+  }
+ ],
+ "frenado_ilustrativo": [
+  {
+   "velocidad_kmh": 40,
+   "deceleracion_supuesta_ms2": 0.5,
+   "distancia_m": 123
+  },
+  {
+   "velocidad_kmh": 40,
+   "deceleracion_supuesta_ms2": 0.7,
+   "distancia_m": 88
+  },
+  {
+   "velocidad_kmh": 40,
+   "deceleracion_supuesta_ms2": 1.0,
+   "distancia_m": 62
+  },
+  {
+   "velocidad_kmh": 80,
+   "deceleracion_supuesta_ms2": 0.5,
+   "distancia_m": 494
+  },
+  {
+   "velocidad_kmh": 80,
+   "deceleracion_supuesta_ms2": 0.7,
+   "distancia_m": 353
+  },
+  {
+   "velocidad_kmh": 80,
+   "deceleracion_supuesta_ms2": 1.0,
+   "distancia_m": 247
+  },
+  {
+   "velocidad_kmh": 130,
+   "deceleracion_supuesta_ms2": 0.5,
+   "distancia_m": 1304
+  },
+  {
+   "velocidad_kmh": 130,
+   "deceleracion_supuesta_ms2": 0.7,
+   "distancia_m": 931
+  },
+  {
+   "velocidad_kmh": 130,
+   "deceleracion_supuesta_ms2": 1.0,
+   "distancia_m": 652
+  },
+  {
+   "velocidad_kmh": 200,
+   "deceleracion_supuesta_ms2": 0.5,
+   "distancia_m": 3086
+  },
+  {
+   "velocidad_kmh": 200,
+   "deceleracion_supuesta_ms2": 0.7,
+   "distancia_m": 2205
+  },
+  {
+   "velocidad_kmh": 200,
+   "deceleracion_supuesta_ms2": 1.0,
+   "distancia_m": 1543
+  }
+ ],
+ "telefonemas": {
+  "similitud_5ET3.2_vs_5ET3.3": 47.6,
+  "similitud_5ET3.3_vs_5ET3.3_bis": 63.6,
+  "orden_dada_vs_5ET3.2": 29.2,
+  "orden_dada_vs_5ET3.3": 57.9,
+  "palabras_iniciales_identicas_5ET3.3_vs_5ET3.3_bis": 4,
+  "codigos_5ET3.3_distintos_en_la_misma_pagina": 2,
+  "paginas_boe": [
+   214,
+   215
+  ],
+  "velocidad_5ET3.2": "fijada: Marcha a la Vista",
+  "velocidad_5ET3.3": "en blanco",
+  "palabras_5ET3.2": 21,
+  "palabras_5ET3.3": 15
+ },
+ "capas": [
+  {
+   "capa": "LZB (control continuo en cabina)",
+   "funcion": "Supervisa velocidad y distancia al tren de delante y frena solo",
+   "estado": "caído",
+   "detalle": "La central de Urda pierde la comunicación hacia las 8:30; el AVE informa de meta 0 (vía ocupada)"
+  },
+  {
+   "capa": "BSL + señales laterales",
+   "funcion": "Bloqueo con señales al lado de la vía cuando no hay LZB",
+   "estado": "activo",
+   "detalle": "La señal de entrada de Urda protegía al Iryo detenido; no se sabe si el AVE rebasó alguna en rojo"
+  },
+  {
+   "capa": "ASFA",
+   "funcion": "Frena en puntos concretos (balizas) si se ignora una señal",
+   "estado": "sin datos",
+   "detalle": "Su actuación solo se sabrá con las cajas negras"
+  },
+  {
+   "capa": "Procedimiento (telefonema)",
+   "funcion": "Fija cómo se reanuda la marcha con el sistema degradado",
+   "estado": "fallo",
+   "detalle": "Con meta 000 tocaba el 5ET3.2 (marcha a la vista); se usó el 5ET3.3 con «marcha normal»"
+  },
+  {
+   "capa": "Supervisión de la sala",
+   "funcion": "Segunda persona que detecta y corrige la orden",
+   "estado": "fallo",
+   "detalle": "La orden no se rectificó entre las 8:36 y el impacto"
+  },
+  {
+   "capa": "Comunicación tren a tren",
+   "funcion": "Avisar al AVE de que el Iryo seguía parado",
+   "estado": "fallo",
+   "detalle": "El Iryo comunica a las 8:41 y a las 8:48 que sigue detenido; no consta aviso al AVE"
+  }
+ ],
+ "fuentes_discrepantes": {
+  "trenes_detenidos": {
+   "valores": [
+    {
+     "valor": 6,
+     "fuente": "Ministro de Transportes (CMM, 28/10 14:51) y fuentes del Ministerio (Europa Press)",
+     "estado": "oficial"
+    },
+    {
+     "valor": 8,
+     "fuente": "Programa de televisión citado por Libertad Digital",
+     "estado": "prensa"
+    }
+   ],
+   "estado": "discrepante"
+  },
+  "km_sin_lzb": {
+   "valores": [
+    {
+     "valor": 69,
+     "fuente": "Ministro de Transportes (CMM, 28/10 14:51)",
+     "estado": "oficial"
+    },
+    {
+     "valor": 90,
+     "fuente": "Fuentes del Ministerio citadas por Europa Press",
+     "estado": "prensa"
+    },
+    {
+     "valor": 63,
+     "fuente": "Documento de trabajo del autor",
+     "estado": "sin_confirmar"
+    }
+   ],
+   "estado": "discrepante"
+  },
+  "hora_impacto": {
+   "valores": [
+    {
+     "valor": "08:48",
+     "fuente": "Iryo (Hosteltur)",
+     "estado": "prensa"
+    },
+    {
+     "valor": "08:53",
+     "fuente": "Ministro de Transportes",
+     "estado": "oficial"
+    },
+    {
+     "valor": "08:54",
+     "fuente": "112 Castilla-La Mancha",
+     "estado": "oficial"
+    }
+   ],
+   "estado": "discrepante"
+  }
+ }
+}

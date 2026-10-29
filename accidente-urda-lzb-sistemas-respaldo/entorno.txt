@@ -1,0 +1,6 @@
+Fecha del análisis: 2026-10-29 (datos publicados hasta esa fecha)
+Equipo: Apple M1 Max, macOS 26.6.2
+Python 3.14.4
+matplotlib 3.11.2
+Reglamento: BOE-A-2015-8042, texto consolidado (última modificación 12/07/2023), páginas 214 y 215 para los telefonemas
+No hay mediciones sobre trenes ni sistemas reales: solo cálculos sobre datos publicados.

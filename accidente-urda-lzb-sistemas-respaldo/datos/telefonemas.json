@@ -1,0 +1,15 @@
+{
+ "_fuente": "BOE, Reglamento de Circulación Ferroviaria, texto consolidado, páginas 214 y 215 (transcripción literal de los recuadros)",
+ "5ET3.2": {"articulo": "5ET3.4.3.4 Fallo de transmisión (V Meta = 000: trayecto ocupado)", "pagina_boe": 214,
+            "texto": "Autorizo a maquinista de tren ___ a continuar la marcha al amparo del BSL con «Marcha a la Vista» hasta la señal ___ (siguiente señal de entrada o salida)",
+            "velocidad": "fijada: Marcha a la Vista", "prohibe_rebase": true},
+ "5ET3.3": {"articulo": "5ET3.4.3.5 Desconexión y averías del equipo embarcado (por avería o por necesidades de la explotación)", "pagina_boe": 215,
+            "texto": "Maquinista de tren ___ desconecte (y vuelva a conectar) el LZB, y reanude la marcha al amparo del BSL con ___ (condiciones de circulación) ___",
+            "velocidad": "en blanco", "prohibe_rebase": false},
+ "5ET3.3_bis": {"articulo": "5ET3.4.3.6 Disolución artificial de itinerarios", "pagina_boe": 215,
+            "texto": "Maquinista de tren ___ desconecte y vuelva a conectar el LZB, y reanude la marcha al amparo del BSL desde la señal ___ por vía (I, II) ___",
+            "velocidad": "no se indica", "prohibe_rebase": false},
+ "orden_dada": {"hora": "08:36", "a": "AVE 2080",
+            "texto": "desconecte y vuelva a conectar el LZB y reanude marcha al amparo del BSL con marcha normal",
+            "fuente": "Audios publicados (Cadena SER, recogido por Infobae y El Español)"}
+}

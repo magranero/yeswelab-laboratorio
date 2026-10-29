@@ -1,0 +1,10 @@
+hora,actor,hecho,fuente,estado
+08:30,Central LZB de Urda,Fallo de comunicación entre ordenadores; cae el LZB en el tramo y se detienen los trenes; se circula en BSL,Ministro de Transportes; Iryo,oficial
+08:31,AVE 2080 → Atocha,"El maquinista informa de un fallo de transmisión por bloqueo; Atocha valora «desconectar o no»",Audios (SER/Infobae),prensa
+08:36,Atocha → AVE 2080,"Orden: desconecte y vuelva a conectar el LZB y reanude al amparo del BSL con marcha normal; el maquinista duda («¿Con marcha normal?») y acepta",Audios (SER/Infobae/El Español),prensa
+08:41,Iryo 6076 → Atocha,"Pérdida de transmisión; detenida ante la señal de entrada de Urda; Atocha: «no le autorizamos el rebase»",Audios (El Español/Infobae),prensa
+08:48,Iryo 6076 → Atocha,"No puede reiniciar el LZB y sigue detenida; Atocha: «cuando pueda, y si tiene problemas nos llama»",Audios (Infobae/El Español),prensa
+08:48,Sala de Atocha,"Conversación interna sobre el 6076 y el 2061; «¿No estamos haciendo eso?»; el audio publicado se corta",Audios (El Español),prensa
+08:48,Impacto (hipótesis Iryo),El AVE alcanza al Iryo en el PK 118,Iryo,prensa
+08:53,Impacto (hipótesis Ministerio),El AVE alcanza al Iryo en el PK 118,Ministro de Transportes,oficial
+08:54,Impacto (hipótesis 112),El AVE alcanza al Iryo en el PK 118,112 Castilla-La Mancha,oficial

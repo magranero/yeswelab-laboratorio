@@ -1,0 +1,50 @@
+{
+ "_nota": "Cada dato con su fuente. estado: oficial (BOE, Gobierno, 112), prensa (un medio), discrepante (fuentes que no coinciden) o sin_confirmar.",
+ "accidente": {
+  "fecha": "2026-10-28",
+  "lugar": "PK 118 de la LAV Madrid-Sevilla, junto a Urda (Toledo)",
+  "trenes": {"alcanzado": "Iryo 6076, detenido ante la señal de entrada de Urda", "alcanzante": "AVE de Renfe 2080"},
+  "fallecidos": 68, "hospitalizados": 107, "criticos": 18,
+  "fuente_victimas": "Presidente de Castilla-La Mancha y servicios de emergencia, recogido por Castilla-La Mancha Media (28/10/2026, 15:35, 19:27 y 22:10). Primer dato oficial: 64.",
+  "estado": "oficial"
+ },
+ "trenes_detenidos": {
+  "valores": [{"valor": 6, "fuente": "Ministro de Transportes (CMM, 28/10 14:51) y fuentes del Ministerio (Europa Press)", "estado": "oficial"},
+              {"valor": 8, "fuente": "Programa de televisión citado por Libertad Digital", "estado": "prensa"}],
+  "estado": "discrepante"
+ },
+ "km_sin_lzb": {
+  "valores": [{"valor": 69, "fuente": "Ministro de Transportes (CMM, 28/10 14:51)", "estado": "oficial"},
+              {"valor": 90, "fuente": "Fuentes del Ministerio citadas por Europa Press", "estado": "prensa"},
+              {"valor": 63, "fuente": "Documento de trabajo del autor", "estado": "sin_confirmar"}],
+  "estado": "discrepante"
+ },
+ "hora_impacto": {
+  "valores": [{"valor": "08:48", "fuente": "Iryo (Hosteltur)", "estado": "prensa"},
+              {"valor": "08:53", "fuente": "Ministro de Transportes", "estado": "oficial"},
+              {"valor": "08:54", "fuente": "112 Castilla-La Mancha", "estado": "oficial"}],
+  "estado": "discrepante"
+ },
+ "distancia_entre_trenes_km": {"valor": 25, "fuente": "Prensa a partir de los audios (Moncloa.com, El Español)", "estado": "prensa"},
+ "contrato_mantenimiento": {
+  "importe_eur": 11508626.53, "fecha": "2026-10-27", "adjudicataria": "UTE GTS Sistem Mantenimiento Madrid-Sevilla",
+  "alcance": "Instalaciones de control de tráfico de Madrid-Sevilla, Córdoba-Málaga y La Sagra-Toledo",
+  "fuente": "Referencia del Consejo de Ministros de 27/10/2026 (La Moncloa)", "estado": "oficial",
+  "motivo_segun_prensa": "Mantener a la vez LZB y ERTMS por el retraso de la renovación (El Debate, Vozpópuli)"
+ },
+ "renovacion_senalizacion": {
+  "texto": "Thales: contrato de unos 80 millones y 52 meses para sustituir los enclavamientos de Madrid-Sevilla por otros que gestionan el LZB existente y ERTMS nivel 2",
+  "fuente": "Nota de prensa de Thales", "estado": "oficial",
+  "oferta_temeraria": {"fuente": "Vozpópuli", "estado": "prensa"}
+ },
+ "sin_confirmar": [
+  "Iryo avisó a Adif semanas antes de que sus trenes se paraban en esa vía (The Objective; no encontrado en otra fuente)",
+  "Dos fallos previos del LZB en el mismo punto (ESdiario; sin confirmación oficial)",
+  "Orden de marcha normal también al Iryo a las 8:41 (la recogen El Español e Infobae a partir de los audios; el ministro habla de dos órdenes)"
+ ],
+ "reglamento": {
+  "norma": "Reglamento de Circulación Ferroviaria (RD 664/2015), texto consolidado del BOE, última modificación 12/07/2023",
+  "articulos_verificados": ["1.5.1.4 marcha a la vista", "5ET3.3.1.4 rebase autorizado (40 km/h)", "5ET3.4.3.4 fallo de transmisión", "5ET3.4.3.5 desconexión y averías", "5ET3.4.3.6 disolución artificial", "5AN1.1.5.1 ERTMS detenido ante EOA"],
+  "rd_606_2023": "«se está trabajando en una revisión profunda del Reglamento de Circulación Ferroviaria, atendiendo al análisis de posibles causas de sucesos ocurridos en los últimos meses» (BOE-A-2023-16156)"
+ }
+}
