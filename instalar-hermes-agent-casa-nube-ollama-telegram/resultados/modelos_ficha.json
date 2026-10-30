@@ -1,0 +1,53 @@
+{
+ "qwen3:4b": {
+  "contexto_nativo": 262144,
+  "parametros": "4.0B",
+  "cuantizacion": "Q4_K_M",
+  "capacidades": [
+   "completion",
+   "tools",
+   "thinking"
+  ]
+ },
+ "qwen3:8b": {
+  "contexto_nativo": 40960,
+  "parametros": "8.2B",
+  "cuantizacion": "Q4_K_M",
+  "capacidades": [
+   "completion",
+   "tools",
+   "thinking"
+  ]
+ },
+ "gpt-oss:20b": {
+  "contexto_nativo": 131072,
+  "parametros": "20.9B",
+  "cuantizacion": "MXFP4",
+  "capacidades": [
+   "completion",
+   "tools",
+   "thinking"
+  ]
+ },
+ "qwen3:30b-a3b": {
+  "contexto_nativo": 262144,
+  "parametros": "30.5B",
+  "cuantizacion": "Q4_K_M",
+  "capacidades": [
+   "completion",
+   "tools",
+   "thinking"
+  ]
+ },
+ "gemma4:31b": {
+  "contexto_nativo": 262144,
+  "parametros": "31.7B",
+  "cuantizacion": "nvfp4",
+  "capacidades": [
+   "completion",
+   "vision",
+   "tools",
+   "thinking"
+  ]
+ }
+}

@@ -1,0 +1,688 @@
+{
+ "qwen3:4b": {
+  "modelo": "qwen3:4b",
+  "variante": "qwen3-4b-64k",
+  "contexto": 65536,
+  "solo_cpu_hilos": null,
+  "sin_modelfile": {
+   "memoria_gb": 43.498560552,
+   "contexto": 262144
+  },
+  "contexto_en_herramientas": 65536,
+  "memoria_gb": 12.896132136,
+  "memoria_gpu_gb": 12.896132136,
+  "en_gpu_pct": 100.0,
+  "contexto_cargado": 65536,
+  "carga_s": 1.836222667,
+  "lectura_tok_s_mediana": 308.26146102644367,
+  "escritura_tok_s_mediana": 28.483759628400872,
+  "segundos_hasta_respuesta_mediana": 33.413194,
+  "tokens_prompt": 10300,
+  "aciertos_herramientas": 5,
+  "pruebas_herramientas": 5,
+  "repeticiones": [
+   {
+    "rep": 1,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 299.3178024203186,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 28.483759628400872,
+    "segundos_hasta_respuesta": 34.411585,
+    "segundos_total": 41.597551083
+   },
+   {
+    "rep": 2,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 309.27631983519353,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 28.95904120089669,
+    "segundos_hasta_respuesta": 33.303552,
+    "segundos_total": 40.370488708
+   },
+   {
+    "rep": 3,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 308.26146102644367,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 28.37306437181539,
+    "segundos_hasta_respuesta": 33.413194,
+    "segundos_total": 40.616965459
+   }
+  ],
+  "herramientas": [
+   {
+    "peticion": "¿Cuánto suma la factura F-2026-0042 y cuándo vence?",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 8.822438125003828
+   },
+   {
+    "peticion": "Recuérdame el 2026-11-15 que tengo que pagar el alquiler de la oficina.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 13.021880874992348
+   },
+   {
+    "peticion": "Dime el importe de la factura número F-2026-0107.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 6.508826375007629
+   },
+   {
+    "peticion": "Pon un recordatorio para el 2026-12-01: renovar el seguro de la furgoneta.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 10.9543534169934
+   },
+   {
+    "peticion": "Necesito saber el vencimiento de la factura F-2026-0300.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 8.527339375010342
+   }
+  ]
+ },
+ "qwen3:8b": {
+  "modelo": "qwen3:8b",
+  "variante": "qwen3-8b-64k",
+  "contexto": 65536,
+  "solo_cpu_hilos": null,
+  "api": "openai",
+  "sin_modelfile": {
+   "memoria_gb": 11.002666024,
+   "contexto": 40960
+  },
+  "contexto_en_herramientas": 40960,
+  "memoria_gb": 11.002666024,
+  "memoria_gpu_gb": 11.002666024,
+  "en_gpu_pct": 100.0,
+  "contexto_cargado": 40960,
+  "carga_s": 1.326309334,
+  "lectura_tok_s_mediana": 211.93176233208015,
+  "escritura_tok_s_mediana": 22.005118271563383,
+  "segundos_hasta_respuesta_mediana": 48.62886,
+  "tokens_prompt": 10306,
+  "aciertos_herramientas": 5,
+  "pruebas_herramientas": 5,
+  "repeticiones": [
+   {
+    "rep": 1,
+    "tokens_prompt": 10306,
+    "lectura_tok_s": 217.07475112072262,
+    "tokens_respuesta": 111,
+    "escritura_tok_s": 22.005118271563383,
+    "segundos_hasta_respuesta": 47.476733,
+    "segundos_total": 52.710196458
+   },
+   {
+    "rep": 2,
+    "tokens_prompt": 10306,
+    "lectura_tok_s": 211.93176233208015,
+    "tokens_respuesta": 92,
+    "escritura_tok_s": 20.123241731753687,
+    "segundos_hasta_respuesta": 48.62886,
+    "segundos_total": 53.393851917
+   },
+   {
+    "rep": 3,
+    "tokens_prompt": 10306,
+    "lectura_tok_s": 208.97791933140044,
+    "tokens_respuesta": 111,
+    "escritura_tok_s": 23.214807449903592,
+    "segundos_hasta_respuesta": 49.316215,
+    "segundos_total": 54.271592375
+   }
+  ],
+  "herramientas": [
+   {
+    "peticion": "¿Cuánto suma la factura F-2026-0042 y cuándo vence?",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 6.697622542007593
+   },
+   {
+    "peticion": "Recuérdame el 2026-11-15 que tengo que pagar el alquiler de la oficina.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 7.4221981250011595
+   },
+   {
+    "peticion": "Dime el importe de la factura número F-2026-0107.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 9.161617416990339
+   },
+   {
+    "peticion": "Pon un recordatorio para el 2026-12-01: renovar el seguro de la furgoneta.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 7.54439654199814
+   },
+   {
+    "peticion": "Necesito saber el vencimiento de la factura F-2026-0300.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 5.2096276660013245
+   }
+  ]
+ },
+ "gpt-oss:20b": {
+  "modelo": "gpt-oss:20b",
+  "variante": "gpt-oss-20b-64k",
+  "contexto": 65536,
+  "solo_cpu_hilos": null,
+  "api": "openai",
+  "sin_modelfile": {
+   "memoria_gb": 13.706995956,
+   "contexto": 131072
+  },
+  "contexto_en_herramientas": 65536,
+  "memoria_gb": 13.333472214,
+  "memoria_gpu_gb": 13.333472214,
+  "en_gpu_pct": 100.0,
+  "contexto_cargado": 65536,
+  "carga_s": 2.123502125,
+  "lectura_tok_s_mediana": 471.90843691411294,
+  "escritura_tok_s_mediana": 36.66724419908802,
+  "segundos_hasta_respuesta_mediana": 18.522661,
+  "tokens_prompt": 8741,
+  "aciertos_herramientas": 5,
+  "pruebas_herramientas": 5,
+  "repeticiones": [
+   {
+    "rep": 1,
+    "tokens_prompt": 8741,
+    "lectura_tok_s": 471.90843691411294,
+    "tokens_respuesta": 131,
+    "escritura_tok_s": 36.66724419908802,
+    "segundos_hasta_respuesta": 18.522661,
+    "segundos_total": 22.208844625
+   },
+   {
+    "rep": 2,
+    "tokens_prompt": 8741,
+    "lectura_tok_s": 470.56890547858274,
+    "tokens_respuesta": 121,
+    "escritura_tok_s": 39.517249442676146,
+    "segundos_hasta_respuesta": 18.575388,
+    "segundos_total": 21.733382541
+   },
+   {
+    "rep": 3,
+    "tokens_prompt": 8741,
+    "lectura_tok_s": 485.9025986811422,
+    "tokens_respuesta": 145,
+    "escritura_tok_s": 36.5031493406776,
+    "segundos_hasta_respuesta": 17.989202,
+    "segundos_total": 22.041038375
+   }
+  ],
+  "herramientas": [
+   {
+    "peticion": "¿Cuánto suma la factura F-2026-0042 y cuándo vence?",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 2.013757042004727
+   },
+   {
+    "peticion": "Recuérdame el 2026-11-15 que tengo que pagar el alquiler de la oficina.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 1.7881087079877034
+   },
+   {
+    "peticion": "Dime el importe de la factura número F-2026-0107.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 1.570401374992798
+   },
+   {
+    "peticion": "Pon un recordatorio para el 2026-12-01: renovar el seguro de la furgoneta.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 2.2788454170076875
+   },
+   {
+    "peticion": "Necesito saber el vencimiento de la factura F-2026-0300.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 1.6283712910080794
+   }
+  ]
+ },
+ "qwen3:30b-a3b": {
+  "modelo": "qwen3:30b-a3b",
+  "variante": "qwen3-30b-a3b-64k",
+  "contexto": 65536,
+  "solo_cpu_hilos": null,
+  "api": "openai",
+  "sin_modelfile": {
+   "memoria_gb": 45.363306167,
+   "contexto": 262144
+  },
+  "contexto_en_herramientas": 65536,
+  "memoria_gb": 25.490588957,
+  "memoria_gpu_gb": 25.490588957,
+  "en_gpu_pct": 100.0,
+  "contexto_cargado": 65536,
+  "carga_s": 2.586396333,
+  "lectura_tok_s_mediana": 324.1314104263634,
+  "escritura_tok_s_mediana": 30.787528033968496,
+  "segundos_hasta_respuesta_mediana": 31.777235,
+  "tokens_prompt": 10300,
+  "aciertos_herramientas": 5,
+  "pruebas_herramientas": 5,
+  "repeticiones": [
+   {
+    "rep": 1,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 324.1314104263634,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 30.787528033968496,
+    "segundos_hasta_respuesta": 31.777235,
+    "segundos_total": 38.405530875
+   },
+   {
+    "rep": 2,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 325.7288713200504,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 32.05211931016788,
+    "segundos_hasta_respuesta": 31.621391,
+    "segundos_total": 37.993685583
+   },
+   {
+    "rep": 3,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 275.88936418644266,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 24.666536180690272,
+    "segundos_hasta_respuesta": 37.333806,
+    "segundos_total": 45.579640375
+   }
+  ],
+  "herramientas": [
+   {
+    "peticion": "¿Cuánto suma la factura F-2026-0042 y cuándo vence?",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 4.254184958990663
+   },
+   {
+    "peticion": "Recuérdame el 2026-11-15 que tengo que pagar el alquiler de la oficina.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 17.76902350000455
+   },
+   {
+    "peticion": "Dime el importe de la factura número F-2026-0107.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 3.8409794159961166
+   },
+   {
+    "peticion": "Pon un recordatorio para el 2026-12-01: renovar el seguro de la furgoneta.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 6.182069833012065
+   },
+   {
+    "peticion": "Necesito saber el vencimiento de la factura F-2026-0300.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 3.940250333005679
+   }
+  ]
+ },
+ "gemma4:31b": {
+  "modelo": "gemma4:31b",
+  "variante": "gemma4-31b-64k",
+  "contexto": 65536,
+  "solo_cpu_hilos": null,
+  "api": "openai",
+  "sin_modelfile": {
+   "memoria_gb": 19.61596506,
+   "contexto": 262144
+  },
+  "contexto_en_herramientas": 65536,
+  "memoria_gb": 22.61128794,
+  "memoria_gpu_gb": 22.61128794,
+  "en_gpu_pct": 100.0,
+  "contexto_cargado": 65536,
+  "carga_s": 2.141391542,
+  "lectura_tok_s_mediana": 60.86214966319083,
+  "escritura_tok_s_mediana": 8.545965680938268,
+  "segundos_hasta_respuesta_mediana": 142.97884725,
+  "tokens_prompt": 8702,
+  "aciertos_herramientas": 5,
+  "pruebas_herramientas": 5,
+  "repeticiones": [
+   {
+    "rep": 1,
+    "tokens_prompt": 8702,
+    "lectura_tok_s": 60.86214966319083,
+    "tokens_respuesta": 104,
+    "escritura_tok_s": 7.664653689259403,
+    "segundos_hasta_respuesta": 142.97884725,
+    "segundos_total": 156.566312084
+   },
+   {
+    "rep": 2,
+    "tokens_prompt": 8702,
+    "lectura_tok_s": 60.875621273876924,
+    "tokens_respuesta": 112,
+    "escritura_tok_s": 8.545965680938268,
+    "segundos_hasta_respuesta": 142.947206417,
+    "segundos_total": 156.126531167
+   },
+   {
+    "rep": 3,
+    "tokens_prompt": 8702,
+    "lectura_tok_s": 57.47538178449337,
+    "tokens_respuesta": 116,
+    "escritura_tok_s": 8.617670839478492,
+    "segundos_hasta_respuesta": 151.403952959,
+    "segundos_total": 164.909883334
+   }
+  ],
+  "herramientas": [
+   {
+    "peticion": "¿Cuánto suma la factura F-2026-0042 y cuándo vence?",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 13.595148957989295
+   },
+   {
+    "peticion": "Recuérdame el 2026-11-15 que tengo que pagar el alquiler de la oficina.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 13.07312804099638
+   },
+   {
+    "peticion": "Dime el importe de la factura número F-2026-0107.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 8.91107491699222
+   },
+   {
+    "peticion": "Pon un recordatorio para el 2026-12-01: renovar el seguro de la furgoneta.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 13.629867167008342
+   },
+   {
+    "peticion": "Necesito saber el vencimiento de la factura F-2026-0300.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 10.656481625002925
+   }
+  ]
+ },
+ "qwen3:4b (CPU, 4 hilos)": {
+  "modelo": "qwen3:4b",
+  "variante": "qwen3-4b-64k",
+  "contexto": 65536,
+  "solo_cpu_hilos": 4,
+  "api": "nativa",
+  "sin_modelfile": null,
+  "contexto_en_herramientas": 65536,
+  "memoria_gb": 13.087109283,
+  "memoria_gpu_gb": 0.0,
+  "en_gpu_pct": 0.0,
+  "contexto_cargado": 65536,
+  "carga_s": 4.878001709,
+  "lectura_tok_s_mediana": 44.13208355557372,
+  "escritura_tok_s_mediana": 4.027852600734076,
+  "segundos_hasta_respuesta_mediana": 233.390295,
+  "tokens_prompt": 10300,
+  "aciertos_herramientas": 5,
+  "pruebas_herramientas": 5,
+  "repeticiones": [
+   {
+    "rep": 1,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 44.09278304780952,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 4.027852600734076,
+    "segundos_hasta_respuesta": 233.598319,
+    "segundos_total": 283.379107583
+   },
+   {
+    "rep": 2,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 44.13208355557372,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 4.026007606537472,
+    "segundos_hasta_respuesta": 233.390295,
+    "segundos_total": 283.240995584
+   },
+   {
+    "rep": 3,
+    "tokens_prompt": 10300,
+    "lectura_tok_s": 45.158781938225175,
+    "tokens_respuesta": 200,
+    "escritura_tok_s": 4.125730396102092,
+    "segundos_hasta_respuesta": 228.084097,
+    "segundos_total": 276.734330875
+   }
+  ],
+  "herramientas": [
+   {
+    "peticion": "¿Cuánto suma la factura F-2026-0042 y cuándo vence?",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 13.628563249993022
+   },
+   {
+    "peticion": "Recuérdame el 2026-11-15 que tengo que pagar el alquiler de la oficina.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 14.074255082989112
+   },
+   {
+    "peticion": "Dime el importe de la factura número F-2026-0107.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 8.866458916003467
+   },
+   {
+    "peticion": "Pon un recordatorio para el 2026-12-01: renovar el seguro de la furgoneta.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 14.464672292000614
+   },
+   {
+    "peticion": "Necesito saber el vencimiento de la factura F-2026-0300.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 9.332546290999744
+   }
+  ]
+ },
+ "qwen3:8b (CPU, 4 hilos)": {
+  "modelo": "qwen3:8b",
+  "variante": "qwen3-8b-64k",
+  "contexto": 65536,
+  "solo_cpu_hilos": 4,
+  "api": "nativa",
+  "sin_modelfile": null,
+  "contexto_en_herramientas": 40960,
+  "memoria_gb": 11.897436896,
+  "memoria_gpu_gb": 0.0,
+  "en_gpu_pct": 0.0,
+  "contexto_cargado": 40960,
+  "carga_s": 6.924536875,
+  "lectura_tok_s_mediana": 33.14382969754805,
+  "escritura_tok_s_mediana": 3.809868669685794,
+  "segundos_hasta_respuesta_mediana": 310.947772,
+  "tokens_prompt": 10306,
+  "aciertos_herramientas": 5,
+  "pruebas_herramientas": 5,
+  "repeticiones": [
+   {
+    "rep": 1,
+    "tokens_prompt": 10306,
+    "lectura_tok_s": 33.14382969754805,
+    "tokens_respuesta": 92,
+    "escritura_tok_s": 3.8331082979336757,
+    "segundos_hasta_respuesta": 310.947772,
+    "segundos_total": 335.089416709
+   },
+   {
+    "rep": 2,
+    "tokens_prompt": 10306,
+    "lectura_tok_s": 33.13560951392733,
+    "tokens_respuesta": 93,
+    "escritura_tok_s": 3.7743466666796537,
+    "segundos_hasta_respuesta": 311.024911,
+    "segundos_total": 335.841222042
+   },
+   {
+    "rep": 3,
+    "tokens_prompt": 10306,
+    "lectura_tok_s": 33.16541280853521,
+    "tokens_respuesta": 92,
+    "escritura_tok_s": 3.809868669685794,
+    "segundos_hasta_respuesta": 310.745416,
+    "segundos_total": 335.070653083
+   }
+  ],
+  "herramientas": [
+   {
+    "peticion": "¿Cuánto suma la factura F-2026-0042 y cuándo vence?",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 6.715910625003744
+   },
+   {
+    "peticion": "Recuérdame el 2026-11-15 que tengo que pagar el alquiler de la oficina.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 3.3751579169911565
+   },
+   {
+    "peticion": "Dime el importe de la factura número F-2026-0107.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 2.601530707994243
+   },
+   {
+    "peticion": "Pon un recordatorio para el 2026-12-01: renovar el seguro de la furgoneta.",
+    "esperada": "crear_recordatorio",
+    "llamada": "crear_recordatorio",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 3.355510540990508
+   },
+   {
+    "peticion": "Necesito saber el vencimiento de la factura F-2026-0300.",
+    "esperada": "consultar_factura",
+    "llamada": "consultar_factura",
+    "json_valido": true,
+    "argumentos_completos": true,
+    "acierto": true,
+    "segundos": 2.5133666670008097
+   }
+  ]
+ }
+}
