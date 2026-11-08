@@ -1,0 +1,494 @@
+{
+  "documentos": 500,
+  "datos_personales": 1878,
+  "datos_por_tipo": {
+    "PERSONA": 546,
+    "TELEFONO": 303,
+    "DIRECCION": 301,
+    "DNI_NIE": 283,
+    "EMAIL": 266,
+    "IBAN": 179
+  },
+  "detectores": {
+    "gliner_multi_pii": {
+      "escapan": 0.11714589989350373,
+      "escapan_n": 220,
+      "escapan_enteros": 0.11448349307774228,
+      "docs_con_fuga": 0.408,
+      "docs_con_fuga_n": 204,
+      "de_mas": 0.003619533614193319,
+      "escapan_por_tipo": {
+        "DIRECCION": 0.023255813953488372,
+        "DNI_NIE": 0.21908127208480566,
+        "EMAIL": 0.0,
+        "IBAN": 0.8044692737430168,
+        "PERSONA": 0.009157509157509158,
+        "TELEFONO": 0.006600660066006601
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 7,
+        "DNI_NIE": 62,
+        "EMAIL": 0,
+        "IBAN": 144,
+        "PERSONA": 5,
+        "TELEFONO": 2
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.9823384261763115,
+        "DNI_NIE": 0.7809187279151943,
+        "EMAIL": 1.0,
+        "IBAN": 0.19553072625698323,
+        "PERSONA": 0.9933281004709577,
+        "TELEFONO": 0.9933993399339934
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 0.023255813953488372,
+        "DNI_NIE/dni_guion": 0.22666666666666666,
+        "DNI_NIE/dni_puntos": 0.20754716981132076,
+        "DNI_NIE/dni_seguido": 0.18666666666666668,
+        "DNI_NIE/nie": 0.25,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.825,
+        "IBAN/seguido": 0.7878787878787878,
+        "PERSONA/minusculas": 0.02,
+        "PERSONA/normal": 0.006726457399103139,
+        "TELEFONO/espacios": 0.0,
+        "TELEFONO/guiones": 0.0,
+        "TELEFONO/prefijo": 0.0,
+        "TELEFONO/seguido": 0.028985507246376812
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.15151515151515152,
+        "ficha_clinica": 0.0,
+        "nota_rrhh": 0.16463414634146342,
+        "ticket_tienda": 0.12835820895522387,
+        "whatsapp": 0.11355311355311355
+      },
+      "ms_por_documento": {
+        "mediana": 76.70472316601081,
+        "min": 76.06567158200778,
+        "max": 79.35984358401038,
+        "n": 5
+      },
+      "segundos_total_mediana": 38.352361583005404,
+      "segundos_carga": 8.481346124986885
+    },
+    "openai_privacy_filter": {
+      "escapan": 0.10596379126730564,
+      "escapan_n": 199,
+      "escapan_enteros": 0.04472843450479233,
+      "docs_con_fuga": 0.37,
+      "docs_con_fuga_n": 185,
+      "de_mas": 0.014122114757016555,
+      "escapan_por_tipo": {
+        "DIRECCION": 0.23255813953488372,
+        "DNI_NIE": 0.045936395759717315,
+        "EMAIL": 0.0,
+        "IBAN": 0.0,
+        "PERSONA": 0.21245421245421245,
+        "TELEFONO": 0.0
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 70,
+        "DNI_NIE": 13,
+        "EMAIL": 0,
+        "IBAN": 0,
+        "PERSONA": 116,
+        "TELEFONO": 0
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.953239158132181,
+        "DNI_NIE": 0.994895956026698,
+        "EMAIL": 1.0,
+        "IBAN": 1.0,
+        "PERSONA": 0.8198996414098186,
+        "TELEFONO": 1.0
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 0.23255813953488372,
+        "DNI_NIE/dni_guion": 0.08,
+        "DNI_NIE/dni_puntos": 0.1320754716981132,
+        "DNI_NIE/dni_seguido": 0.0,
+        "DNI_NIE/nie": 0.0,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.0,
+        "IBAN/seguido": 0.0,
+        "PERSONA/minusculas": 0.66,
+        "PERSONA/normal": 0.11210762331838565,
+        "TELEFONO/espacios": 0.0,
+        "TELEFONO/guiones": 0.0,
+        "TELEFONO/prefijo": 0.0,
+        "TELEFONO/seguido": 0.0
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.04195804195804196,
+        "ficha_clinica": 0.1318051575931232,
+        "nota_rrhh": 0.08536585365853659,
+        "ticket_tienda": 0.056716417910447764,
+        "whatsapp": 0.27106227106227104
+      },
+      "ms_por_documento": {
+        "mediana": 309.85485291597433,
+        "min": 309.38374591601314,
+        "max": 310.7294594999985,
+        "n": 5
+      },
+      "segundos_total_mediana": 154.92742645798717,
+      "segundos_carga": 1.1991591249825433
+    },
+    "presidio_defecto": {
+      "escapan": 0.3258785942492013,
+      "escapan_n": 612,
+      "escapan_enteros": 0.1597444089456869,
+      "docs_con_fuga": 0.842,
+      "docs_con_fuga_n": 421,
+      "de_mas": 0.07307304337506676,
+      "escapan_por_tipo": {
+        "DIRECCION": 1.0,
+        "DNI_NIE": 0.17314487632508835,
+        "EMAIL": 0.0,
+        "IBAN": 0.0,
+        "PERSONA": 0.07692307692307693,
+        "TELEFONO": 0.7260726072607261
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 301,
+        "DNI_NIE": 49,
+        "EMAIL": 0,
+        "IBAN": 0,
+        "PERSONA": 42,
+        "TELEFONO": 220
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.7302426377421934,
+        "DNI_NIE": 0.8362779740871613,
+        "EMAIL": 1.0,
+        "IBAN": 1.0,
+        "PERSONA": 0.9312522129859591,
+        "TELEFONO": 0.2739273927392739
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 1.0,
+        "DNI_NIE/dni_guion": 0.0,
+        "DNI_NIE/dni_puntos": 0.9245283018867925,
+        "DNI_NIE/dni_seguido": 0.0,
+        "DNI_NIE/nie": 0.0,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.0,
+        "IBAN/seguido": 0.0,
+        "PERSONA/minusculas": 0.38,
+        "PERSONA/normal": 0.008968609865470852,
+        "TELEFONO/espacios": 1.0,
+        "TELEFONO/guiones": 1.0,
+        "TELEFONO/prefijo": 0.15463917525773196,
+        "TELEFONO/seguido": 0.9855072463768116
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.25874125874125875,
+        "ficha_clinica": 0.35816618911174786,
+        "nota_rrhh": 0.2926829268292683,
+        "ticket_tienda": 0.36716417910447763,
+        "whatsapp": 0.3992673992673993
+      },
+      "ms_por_documento": {
+        "mediana": 4.851785083999857,
+        "min": 4.826959915983025,
+        "max": 5.158552582026459,
+        "n": 5
+      },
+      "segundos_total_mediana": 2.4258925419999287,
+      "segundos_carga": 6.081938709015958
+    },
+    "presidio_telefono_es": {
+      "escapan": 0.2364217252396166,
+      "escapan_n": 444,
+      "escapan_enteros": 0.07188498402555911,
+      "docs_con_fuga": 0.72,
+      "docs_con_fuga_n": 360,
+      "de_mas": 0.07307304337506676,
+      "escapan_por_tipo": {
+        "DIRECCION": 1.0,
+        "DNI_NIE": 0.17314487632508835,
+        "EMAIL": 0.0,
+        "IBAN": 0.0,
+        "PERSONA": 0.07692307692307693,
+        "TELEFONO": 0.1716171617161716
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 301,
+        "DNI_NIE": 49,
+        "EMAIL": 0,
+        "IBAN": 0,
+        "PERSONA": 42,
+        "TELEFONO": 52
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.7294410461482816,
+        "DNI_NIE": 0.8268551236749117,
+        "EMAIL": 1.0,
+        "IBAN": 1.0,
+        "PERSONA": 0.9312522129859591,
+        "TELEFONO": 0.8283828382838284
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 1.0,
+        "DNI_NIE/dni_guion": 0.0,
+        "DNI_NIE/dni_puntos": 0.9245283018867925,
+        "DNI_NIE/dni_seguido": 0.0,
+        "DNI_NIE/nie": 0.0,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.0,
+        "IBAN/seguido": 0.0,
+        "PERSONA/minusculas": 0.38,
+        "PERSONA/normal": 0.008968609865470852,
+        "TELEFONO/espacios": 0.15789473684210525,
+        "TELEFONO/guiones": 0.14754098360655737,
+        "TELEFONO/prefijo": 0.15463917525773196,
+        "TELEFONO/seguido": 0.2318840579710145
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.17715617715617715,
+        "ficha_clinica": 0.2148997134670487,
+        "nota_rrhh": 0.241869918699187,
+        "ticket_tienda": 0.2626865671641791,
+        "whatsapp": 0.315018315018315
+      },
+      "ms_por_documento": {
+        "mediana": 4.29221891600173,
+        "min": 4.266896332032047,
+        "max": 4.518211584014352,
+        "n": 5
+      },
+      "segundos_total_mediana": 2.146109458000865,
+      "segundos_carga": 0.5500915000156965
+    },
+    "regex": {
+      "escapan": 0.46592119275825344,
+      "escapan_n": 875,
+      "escapan_enteros": 0.459531416400426,
+      "docs_con_fuga": 1.0,
+      "docs_con_fuga_n": 500,
+      "de_mas": 0.0,
+      "escapan_por_tipo": {
+        "DIRECCION": 1.0,
+        "DNI_NIE": 0.0,
+        "EMAIL": 0.0,
+        "IBAN": 0.0,
+        "PERSONA": 1.0,
+        "TELEFONO": 0.0924092409240924
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 301,
+        "DNI_NIE": 0,
+        "EMAIL": 0,
+        "IBAN": 0,
+        "PERSONA": 546,
+        "TELEFONO": 28
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.0,
+        "DNI_NIE": 1.0,
+        "EMAIL": 1.0,
+        "IBAN": 1.0,
+        "PERSONA": 0.0,
+        "TELEFONO": 0.9383938393839383
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 1.0,
+        "DNI_NIE/dni_guion": 0.0,
+        "DNI_NIE/dni_puntos": 0.0,
+        "DNI_NIE/dni_seguido": 0.0,
+        "DNI_NIE/nie": 0.0,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.0,
+        "IBAN/seguido": 0.0,
+        "PERSONA/minusculas": 1.0,
+        "PERSONA/normal": 1.0,
+        "TELEFONO/espacios": 0.3684210526315789,
+        "TELEFONO/guiones": 0.0,
+        "TELEFONO/prefijo": 0.0,
+        "TELEFONO/seguido": 0.0
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.331002331002331,
+        "ficha_clinica": 0.45558739255014324,
+        "nota_rrhh": 0.508130081300813,
+        "ticket_tienda": 0.5462686567164179,
+        "whatsapp": 0.5164835164835165
+      },
+      "ms_por_documento": {
+        "mediana": 0.01691700000083074,
+        "min": 0.016651334008201957,
+        "max": 0.017059915990103036,
+        "n": 5
+      },
+      "segundos_total_mediana": 0.00845850000041537,
+      "segundos_carga": 2.5707995519042015e-05
+    },
+    "regex+gliner_multi_pii": {
+      "escapan": 0.006389776357827476,
+      "escapan_n": 12,
+      "escapan_enteros": 0.003727369542066028,
+      "docs_con_fuga": 0.024,
+      "docs_con_fuga_n": 12,
+      "de_mas": 0.003619533614193319,
+      "escapan_por_tipo": {
+        "DIRECCION": 0.023255813953488372,
+        "DNI_NIE": 0.0,
+        "EMAIL": 0.0,
+        "IBAN": 0.0,
+        "PERSONA": 0.009157509157509158,
+        "TELEFONO": 0.0
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 7,
+        "DNI_NIE": 0,
+        "EMAIL": 0,
+        "IBAN": 0,
+        "PERSONA": 5,
+        "TELEFONO": 0
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.9823384261763115,
+        "DNI_NIE": 1.0,
+        "EMAIL": 1.0,
+        "IBAN": 1.0,
+        "PERSONA": 0.9933281004709577,
+        "TELEFONO": 1.0
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 0.023255813953488372,
+        "DNI_NIE/dni_guion": 0.0,
+        "DNI_NIE/dni_puntos": 0.0,
+        "DNI_NIE/dni_seguido": 0.0,
+        "DNI_NIE/nie": 0.0,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.0,
+        "IBAN/seguido": 0.0,
+        "PERSONA/minusculas": 0.02,
+        "PERSONA/normal": 0.006726457399103139,
+        "TELEFONO/espacios": 0.0,
+        "TELEFONO/guiones": 0.0,
+        "TELEFONO/prefijo": 0.0,
+        "TELEFONO/seguido": 0.0
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.0,
+        "ficha_clinica": 0.0,
+        "nota_rrhh": 0.014227642276422764,
+        "ticket_tienda": 0.0029850746268656717,
+        "whatsapp": 0.014652014652014652
+      }
+    },
+    "regex+openai_privacy_filter": {
+      "escapan": 0.09904153354632587,
+      "escapan_n": 186,
+      "escapan_enteros": 0.04472843450479233,
+      "docs_con_fuga": 0.356,
+      "docs_con_fuga_n": 178,
+      "de_mas": 0.014122114757016555,
+      "escapan_por_tipo": {
+        "DIRECCION": 0.23255813953488372,
+        "DNI_NIE": 0.0,
+        "EMAIL": 0.0,
+        "IBAN": 0.0,
+        "PERSONA": 0.21245421245421245,
+        "TELEFONO": 0.0
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 70,
+        "DNI_NIE": 0,
+        "EMAIL": 0,
+        "IBAN": 0,
+        "PERSONA": 116,
+        "TELEFONO": 0
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.953239158132181,
+        "DNI_NIE": 1.0,
+        "EMAIL": 1.0,
+        "IBAN": 1.0,
+        "PERSONA": 0.8198996414098186,
+        "TELEFONO": 1.0
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 0.23255813953488372,
+        "DNI_NIE/dni_guion": 0.0,
+        "DNI_NIE/dni_puntos": 0.0,
+        "DNI_NIE/dni_seguido": 0.0,
+        "DNI_NIE/nie": 0.0,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.0,
+        "IBAN/seguido": 0.0,
+        "PERSONA/minusculas": 0.66,
+        "PERSONA/normal": 0.11210762331838565,
+        "TELEFONO/espacios": 0.0,
+        "TELEFONO/guiones": 0.0,
+        "TELEFONO/prefijo": 0.0,
+        "TELEFONO/seguido": 0.0
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.023310023310023312,
+        "ficha_clinica": 0.12607449856733524,
+        "nota_rrhh": 0.08130081300813008,
+        "ticket_tienda": 0.056716417910447764,
+        "whatsapp": 0.2673992673992674
+      }
+    },
+    "regex+presidio_telefono_es": {
+      "escapan": 0.18317358892438765,
+      "escapan_n": 344,
+      "escapan_enteros": 0.01810436634717785,
+      "docs_con_fuga": 0.656,
+      "docs_con_fuga_n": 328,
+      "de_mas": 0.07307304337506676,
+      "escapan_por_tipo": {
+        "DIRECCION": 1.0,
+        "DNI_NIE": 0.0,
+        "EMAIL": 0.0,
+        "IBAN": 0.0,
+        "PERSONA": 0.07692307692307693,
+        "TELEFONO": 0.0033003300330033004
+      },
+      "escapan_por_tipo_n": {
+        "DIRECCION": 301,
+        "DNI_NIE": 0,
+        "EMAIL": 0,
+        "IBAN": 0,
+        "PERSONA": 42,
+        "TELEFONO": 1
+      },
+      "cobertura_media_por_tipo": {
+        "DIRECCION": 0.7294410461482816,
+        "DNI_NIE": 1.0,
+        "EMAIL": 1.0,
+        "IBAN": 1.0,
+        "PERSONA": 0.9312522129859591,
+        "TELEFONO": 0.9992665933259992
+      },
+      "escapan_por_formato": {
+        "DIRECCION/normal": 1.0,
+        "DNI_NIE/dni_guion": 0.0,
+        "DNI_NIE/dni_puntos": 0.0,
+        "DNI_NIE/dni_seguido": 0.0,
+        "DNI_NIE/nie": 0.0,
+        "EMAIL/normal": 0.0,
+        "IBAN/espacios": 0.0,
+        "IBAN/seguido": 0.0,
+        "PERSONA/minusculas": 0.38,
+        "PERSONA/normal": 0.008968609865470852,
+        "TELEFONO/espacios": 0.013157894736842105,
+        "TELEFONO/guiones": 0.0,
+        "TELEFONO/prefijo": 0.0,
+        "TELEFONO/seguido": 0.0
+      },
+      "escapan_por_tipo_doc": {
+        "correo_gestoria": 0.08857808857808858,
+        "ficha_clinica": 0.14613180515759314,
+        "nota_rrhh": 0.20528455284552846,
+        "ticket_tienda": 0.2298507462686567,
+        "whatsapp": 0.28205128205128205
+      }
+    }
+  }
+}

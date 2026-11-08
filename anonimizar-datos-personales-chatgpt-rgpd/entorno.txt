@@ -1,0 +1,23 @@
+Fecha de la medición: 2026-11-07
+Equipo: portátil Apple M1 Max, 64 GB de memoria unificada, macOS 26.6.2, con otras apps abiertas, conectado a la corriente (AC Power) y con la tapa abierta
+Ejecución: caffeinate -dimsu; todos los detectores en CPU (fp32), un documento cada vez
+Python 3.12.13
+
+Paquetes medidos:
+presidio-analyzer 2.2.366
+spacy 3.8.18
+gliner 0.2.30
+transformers 5.22.2
+torch 2.15.0
+tokenizers 0.23.3
+faker 40.44.0 (solo para nombres, correos y direcciones del corpus sintético)
+huggingface_hub 2.4.0
+pandas 3.1.1
+protobuf 7.36.2, sentencepiece 0.2.3, tiktoken 0.14.0 (dependencias del tokenizador de GLiNER)
+
+Modelos (Hugging Face, revisión fijada):
+openai/privacy-filter 7ffa9a043d54d1be65afb281eddf0ffbe629385b (Apache 2.0; pesos safetensors, fp32 en CPU)
+urchade/gliner_multi_pii-v1 1fcf13e85f4eef5394e1fcd406cf2ca9ea82351d (Apache 2.0; base microsoft/mdeberta-v3-base, MIT)
+spacy/es_core_news_lg b2fdfe5a44949fb000827919be03237c078a0e87 (versión 3.7.0, GPL-3.0; spaCy avisa de que se entrenó con spaCy 3.7)
+
+Corpus: sintético, 500 documentos generados con semilla 20261107 (corpus.py). No se guarda: se regenera igual en cada ejecución.
