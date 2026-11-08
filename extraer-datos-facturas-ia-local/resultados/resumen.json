@@ -1,0 +1,1301 @@
+{
+ "facturas": 27,
+ "repeticiones": 5,
+ "campos_por_factura": 9,
+ "facturas_con_retencion_irpf": 13,
+ "facturas_por_plantilla": {
+  "A": 9,
+  "B": 9,
+  "C": 9
+ },
+ "detectores": {
+  "reglas": {
+   "campos_correctos": 0.6954732510288066,
+   "campos_correctos_n": 845,
+   "campos_total": 1215,
+   "facturas_perfectas": 0.6666666666666666,
+   "facturas_perfectas_n": 90,
+   "facturas_total": 135,
+   "json_valido": 1.0,
+   "facturas_con_error_n": 45,
+   "errores_detectados_por_cuadre_n": 45,
+   "errores_que_cuadran_n": 0,
+   "errores_que_cuadran_facturas": [],
+   "errores_detectados_por_cuadre_o_nif_n": 45,
+   "errores_no_detectados_n": 0,
+   "errores_no_detectados_facturas": [],
+   "errores_solo_intercambio_nif_n": 0,
+   "facturas_perfectas_con_alarma_n": 0,
+   "facturas_con_nif_sin_letra_n": 0,
+   "facturas_con_importe_mal_n": 45,
+   "por_campo": {
+    "numero": 0.6666666666666666,
+    "fecha": 0.6666666666666666,
+    "nif_emisor": 0.6666666666666666,
+    "nif_cliente": 0.6666666666666666,
+    "base_imponible": 0.6666666666666666,
+    "tipo_iva": 0.6666666666666666,
+    "cuota_iva": 0.6666666666666666,
+    "retencion_irpf": 0.9259259259259259,
+    "total": 0.6666666666666666
+   },
+   "por_plantilla": {
+    "A": 1.0,
+    "B": 1.0,
+    "C": 0.08641975308641975
+   },
+   "por_plantilla_facturas_perfectas": {
+    "A": 1.0,
+    "B": 1.0,
+    "C": 0.0
+   },
+   "rep1_facturas": {
+    "facturas": 27,
+    "perfectas": 18,
+    "con_error": 9,
+    "detectadas_por_cuadre": 9,
+    "detectadas_por_cuadre_o_nif": 9,
+    "no_detectadas": 0,
+    "solo_intercambio_nif": 0,
+    "nif_sin_letra": 0,
+    "importe_mal": 9,
+    "perfectas_por_plantilla": {
+     "A": 9,
+     "B": 9,
+     "C": 0
+    }
+   },
+   "campos_con_salida_distinta_entre_repeticiones": 0,
+   "errores_rep1": [
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "FAC202600020",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-01-06",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "A83375758",
+     "obtenido": "A14757942"
+    },
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "A14757942",
+     "obtenido": "A83375758"
+    },
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "9101.85",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "21",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "1911.39",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_002",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "11013.24",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "A/2026/598",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-06-14",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "A38681607",
+     "obtenido": "64647662K"
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "64647662K",
+     "obtenido": "A38681607"
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "11342.19",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "21",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "2381.86",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "13724.05",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "26-0805",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-01-08",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "96031950G",
+     "obtenido": "B75883082"
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "B75883082",
+     "obtenido": "96031950G"
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "11608.50",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "10",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "1160.85",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "12769.35",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "FAC202600661",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-01-17",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "81200350T",
+     "obtenido": "B99821456"
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "B99821456",
+     "obtenido": "81200350T"
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "8775.87",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "10",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "877.59",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "retencion_irpf",
+     "esperado": "1316.38",
+     "obtenido": "0.00"
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "8337.08",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "A/2026/109",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-03-06",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "A15883168",
+     "obtenido": "87280791T"
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "87280791T",
+     "obtenido": "A15883168"
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "9592.82",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "21",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "2014.49",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "11607.31",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "FAC202600108",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-01-17",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "42040234Y",
+     "obtenido": "B61457677"
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "B61457677",
+     "obtenido": "42040234Y"
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "7686.24",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "21",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "1614.11",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "9300.35",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "FAC202600148",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-07-24",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "43950322J",
+     "obtenido": "27993091K"
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "27993091K",
+     "obtenido": "43950322J"
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "2596.12",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "21",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "545.19",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "3141.31",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "FAC202600235",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-01-05",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "46360263Z",
+     "obtenido": "A62211198"
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "A62211198",
+     "obtenido": "46360263Z"
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "19752.22",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "10",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "1975.22",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "retencion_irpf",
+     "esperado": "2962.83",
+     "obtenido": "0.00"
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "18764.61",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "FAC202600473",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "fecha",
+     "esperado": "2026-05-06",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "A36233856",
+     "obtenido": "A05148242"
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "A05148242",
+     "obtenido": "A36233856"
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "2703.66",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "tipo_iva",
+     "esperado": "4",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "108.15",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "total",
+     "esperado": "2811.81",
+     "obtenido": ""
+    }
+   ],
+   "segundos_por_factura": {
+    "mediana": 3.500000457279384e-05,
+    "p10": 2.544099697843194e-05,
+    "p90": 4.395840223878622e-05,
+    "min": 2.3792003048583865e-05,
+    "max": 0.00044316600542515516,
+    "n": 135
+   },
+   "minutos_300_facturas": 0.0001750000228639692,
+   "segundos_por_pasada": {
+    "mediana": 0.0009289190638810396,
+    "min": 0.0009238320053555071,
+    "max": 0.0013809171214234084,
+    "n": 5
+   },
+   "segundos_carga": 0.0
+  },
+  "qwen3-4b-instruct-2507": {
+   "campos_correctos": 0.9917695473251029,
+   "campos_correctos_n": 1205,
+   "campos_total": 1215,
+   "facturas_perfectas": 0.9629629629629629,
+   "facturas_perfectas_n": 130,
+   "facturas_total": 135,
+   "json_valido": 1.0,
+   "facturas_con_error_n": 5,
+   "errores_detectados_por_cuadre_n": 0,
+   "errores_que_cuadran_n": 5,
+   "errores_que_cuadran_facturas": [
+    "factura_003"
+   ],
+   "errores_detectados_por_cuadre_o_nif_n": 0,
+   "errores_no_detectados_n": 5,
+   "errores_no_detectados_facturas": [
+    "factura_003"
+   ],
+   "errores_solo_intercambio_nif_n": 5,
+   "facturas_perfectas_con_alarma_n": 0,
+   "facturas_con_nif_sin_letra_n": 0,
+   "facturas_con_importe_mal_n": 0,
+   "por_campo": {
+    "numero": 1.0,
+    "fecha": 1.0,
+    "nif_emisor": 0.9629629629629629,
+    "nif_cliente": 0.9629629629629629,
+    "base_imponible": 1.0,
+    "tipo_iva": 1.0,
+    "cuota_iva": 1.0,
+    "retencion_irpf": 1.0,
+    "total": 1.0
+   },
+   "por_plantilla": {
+    "A": 0.9753086419753086,
+    "B": 1.0,
+    "C": 1.0
+   },
+   "por_plantilla_facturas_perfectas": {
+    "A": 0.8888888888888888,
+    "B": 1.0,
+    "C": 1.0
+   },
+   "rep1_facturas": {
+    "facturas": 27,
+    "perfectas": 26,
+    "con_error": 1,
+    "detectadas_por_cuadre": 0,
+    "detectadas_por_cuadre_o_nif": 0,
+    "no_detectadas": 1,
+    "solo_intercambio_nif": 1,
+    "nif_sin_letra": 0,
+    "importe_mal": 0,
+    "perfectas_por_plantilla": {
+     "A": 8,
+     "B": 9,
+     "C": 9
+    }
+   },
+   "campos_con_salida_distinta_entre_repeticiones": 0,
+   "errores_rep1": [
+    {
+     "factura": "factura_003",
+     "plantilla": "A",
+     "campo": "nif_emisor",
+     "esperado": "41656833S",
+     "obtenido": "A19401934"
+    },
+    {
+     "factura": "factura_003",
+     "plantilla": "A",
+     "campo": "nif_cliente",
+     "esperado": "A19401934",
+     "obtenido": "41656833S"
+    }
+   ],
+   "segundos_por_factura": {
+    "mediana": 3.017193000006955,
+    "p10": 2.8308496090001425,
+    "p90": 3.2725703750096726,
+    "min": 2.51227387500694,
+    "max": 3.4848137499939185,
+    "n": 135
+   },
+   "minutos_300_facturas": 15.085965000034776,
+   "segundos_por_pasada": {
+    "mediana": 81.68260691603064,
+    "min": 80.95297962296172,
+    "max": 82.16572704090504,
+    "n": 5
+   },
+   "generacion_tps_mediana": 77.04008412291388,
+   "prompt_tps_mediana": 465.56420191319296,
+   "tokens_prompt_mediana": 581,
+   "memoria_pico_gb_max": 3.055371908,
+   "segundos_carga": 0.5356294169905595
+  },
+  "gemma-3-4b-it": {
+   "campos_correctos": 0.9218106995884774,
+   "campos_correctos_n": 1120,
+   "campos_total": 1215,
+   "facturas_perfectas": 0.5555555555555556,
+   "facturas_perfectas_n": 75,
+   "facturas_total": 135,
+   "json_valido": 1.0,
+   "facturas_con_error_n": 60,
+   "errores_detectados_por_cuadre_n": 0,
+   "errores_que_cuadran_n": 60,
+   "errores_que_cuadran_facturas": [
+    "factura_003",
+    "factura_007",
+    "factura_010",
+    "factura_011",
+    "factura_012",
+    "factura_013",
+    "factura_014",
+    "factura_015",
+    "factura_019",
+    "factura_021",
+    "factura_023",
+    "factura_024"
+   ],
+   "errores_detectados_por_cuadre_o_nif_n": 50,
+   "errores_no_detectados_n": 10,
+   "errores_no_detectados_facturas": [
+    "factura_003",
+    "factura_021"
+   ],
+   "errores_solo_intercambio_nif_n": 10,
+   "facturas_perfectas_con_alarma_n": 0,
+   "facturas_con_nif_sin_letra_n": 40,
+   "facturas_con_importe_mal_n": 0,
+   "por_campo": {
+    "numero": 1.0,
+    "fecha": 1.0,
+    "nif_emisor": 0.5925925925925926,
+    "nif_cliente": 0.7037037037037037,
+    "base_imponible": 1.0,
+    "tipo_iva": 1.0,
+    "cuota_iva": 1.0,
+    "retencion_irpf": 1.0,
+    "total": 1.0
+   },
+   "por_plantilla": {
+    "A": 0.8888888888888888,
+    "B": 0.9135802469135802,
+    "C": 0.9629629629629629
+   },
+   "por_plantilla_facturas_perfectas": {
+    "A": 0.4444444444444444,
+    "B": 0.5555555555555556,
+    "C": 0.6666666666666666
+   },
+   "rep1_facturas": {
+    "facturas": 27,
+    "perfectas": 15,
+    "con_error": 12,
+    "detectadas_por_cuadre": 0,
+    "detectadas_por_cuadre_o_nif": 10,
+    "no_detectadas": 2,
+    "solo_intercambio_nif": 2,
+    "nif_sin_letra": 8,
+    "importe_mal": 0,
+    "perfectas_por_plantilla": {
+     "A": 4,
+     "B": 5,
+     "C": 6
+    }
+   },
+   "campos_con_salida_distinta_entre_repeticiones": 0,
+   "errores_rep1": [
+    {
+     "factura": "factura_003",
+     "plantilla": "A",
+     "campo": "nif_emisor",
+     "esperado": "41656833S",
+     "obtenido": "A19401934"
+    },
+    {
+     "factura": "factura_003",
+     "plantilla": "A",
+     "campo": "nif_cliente",
+     "esperado": "A19401934",
+     "obtenido": "41656833S"
+    },
+    {
+     "factura": "factura_007",
+     "plantilla": "B",
+     "campo": "nif_emisor",
+     "esperado": "79934955L",
+     "obtenido": "79934955"
+    },
+    {
+     "factura": "factura_007",
+     "plantilla": "B",
+     "campo": "nif_cliente",
+     "esperado": "73393093R",
+     "obtenido": "73393093"
+    },
+    {
+     "factura": "factura_010",
+     "plantilla": "B",
+     "campo": "nif_emisor",
+     "esperado": "58761275R",
+     "obtenido": "58761275"
+    },
+    {
+     "factura": "factura_010",
+     "plantilla": "B",
+     "campo": "nif_cliente",
+     "esperado": "23796892B",
+     "obtenido": "23796892"
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "81200350T",
+     "obtenido": "81200350"
+    },
+    {
+     "factura": "factura_012",
+     "plantilla": "A",
+     "campo": "nif_emisor",
+     "esperado": "59443513J",
+     "obtenido": "B61913059"
+    },
+    {
+     "factura": "factura_012",
+     "plantilla": "A",
+     "campo": "nif_cliente",
+     "esperado": "B61913059",
+     "obtenido": "59443513"
+    },
+    {
+     "factura": "factura_013",
+     "plantilla": "B",
+     "campo": "nif_emisor",
+     "esperado": "85047161S",
+     "obtenido": "85047161"
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "87280791T",
+     "obtenido": "87280791"
+    },
+    {
+     "factura": "factura_015",
+     "plantilla": "A",
+     "campo": "nif_emisor",
+     "esperado": "89606260P",
+     "obtenido": "A66660416"
+    },
+    {
+     "factura": "factura_015",
+     "plantilla": "A",
+     "campo": "nif_cliente",
+     "esperado": "A66660416",
+     "obtenido": "89606260"
+    },
+    {
+     "factura": "factura_019",
+     "plantilla": "B",
+     "campo": "nif_emisor",
+     "esperado": "53065969R",
+     "obtenido": "53065969"
+    },
+    {
+     "factura": "factura_019",
+     "plantilla": "B",
+     "campo": "nif_cliente",
+     "esperado": "58255437W",
+     "obtenido": "58255437"
+    },
+    {
+     "factura": "factura_021",
+     "plantilla": "A",
+     "campo": "nif_emisor",
+     "esperado": "48924731M",
+     "obtenido": "B44891695"
+    },
+    {
+     "factura": "factura_021",
+     "plantilla": "A",
+     "campo": "nif_cliente",
+     "esperado": "B44891695",
+     "obtenido": "48924731M"
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "46360263Z",
+     "obtenido": "46360263"
+    },
+    {
+     "factura": "factura_024",
+     "plantilla": "A",
+     "campo": "nif_emisor",
+     "esperado": "92419317G",
+     "obtenido": "92419317"
+    }
+   ],
+   "segundos_por_factura": {
+    "mediana": 3.2277340829896275,
+    "p10": 3.0416080164082815,
+    "p90": 3.4603075582068414,
+    "min": 2.885606458003167,
+    "max": 3.5890689590014517,
+    "n": 135
+   },
+   "minutos_300_facturas": 16.138670414948137,
+   "segundos_por_pasada": {
+    "mediana": 87.17936408598325,
+    "min": 86.5946436659724,
+    "max": 88.38301770793623,
+    "n": 5
+   },
+   "generacion_tps_mediana": 72.8833346877604,
+   "prompt_tps_mediana": 517.2782511568018,
+   "tokens_prompt_mediana": 568,
+   "memoria_pico_gb_max": 3.491028266,
+   "segundos_carga": 1.4146949579881039
+  },
+  "llama-3.2-3b-instruct": {
+   "campos_correctos": 0.9176954732510288,
+   "campos_correctos_n": 1115,
+   "campos_total": 1215,
+   "facturas_perfectas": 0.5185185185185185,
+   "facturas_perfectas_n": 70,
+   "facturas_total": 135,
+   "json_valido": 1.0,
+   "facturas_con_error_n": 65,
+   "errores_detectados_por_cuadre_n": 45,
+   "errores_que_cuadran_n": 20,
+   "errores_que_cuadran_facturas": [
+    "factura_003",
+    "factura_008",
+    "factura_010",
+    "factura_018"
+   ],
+   "errores_detectados_por_cuadre_o_nif_n": 65,
+   "errores_no_detectados_n": 0,
+   "errores_no_detectados_facturas": [],
+   "errores_solo_intercambio_nif_n": 0,
+   "facturas_perfectas_con_alarma_n": 0,
+   "facturas_con_nif_sin_letra_n": 10,
+   "facturas_con_importe_mal_n": 45,
+   "por_campo": {
+    "numero": 0.8518518518518519,
+    "fecha": 1.0,
+    "nif_emisor": 0.8888888888888888,
+    "nif_cliente": 0.9259259259259259,
+    "base_imponible": 0.7037037037037037,
+    "tipo_iva": 1.0,
+    "cuota_iva": 1.0,
+    "retencion_irpf": 0.9259259259259259,
+    "total": 0.9629629629629629
+   },
+   "por_plantilla": {
+    "A": 0.8888888888888888,
+    "B": 0.9382716049382716,
+    "C": 0.9259259259259259
+   },
+   "por_plantilla_facturas_perfectas": {
+    "A": 0.5555555555555556,
+    "B": 0.5555555555555556,
+    "C": 0.4444444444444444
+   },
+   "rep1_facturas": {
+    "facturas": 27,
+    "perfectas": 14,
+    "con_error": 13,
+    "detectadas_por_cuadre": 9,
+    "detectadas_por_cuadre_o_nif": 13,
+    "no_detectadas": 0,
+    "solo_intercambio_nif": 0,
+    "nif_sin_letra": 2,
+    "importe_mal": 9,
+    "perfectas_por_plantilla": {
+     "A": 5,
+     "B": 5,
+     "C": 4
+    }
+   },
+   "campos_con_salida_distinta_entre_repeticiones": 0,
+   "errores_rep1": [
+    {
+     "factura": "factura_003",
+     "plantilla": "A",
+     "campo": "numero",
+     "esperado": "26-0918",
+     "obtenido": "260918"
+    },
+    {
+     "factura": "factura_003",
+     "plantilla": "A",
+     "campo": "nif_emisor",
+     "esperado": "41656833S",
+     "obtenido": "41656833"
+    },
+    {
+     "factura": "factura_004",
+     "plantilla": "B",
+     "campo": "base_imponible",
+     "esperado": "24880.46",
+     "obtenido": "24980.46"
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "numero",
+     "esperado": "26-0805",
+     "obtenido": "260805"
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "nif_emisor",
+     "esperado": "96031950G",
+     "obtenido": "96131950G"
+    },
+    {
+     "factura": "factura_010",
+     "plantilla": "B",
+     "campo": "nif_emisor",
+     "esperado": "58761275R",
+     "obtenido": "58761275"
+    },
+    {
+     "factura": "factura_010",
+     "plantilla": "B",
+     "campo": "nif_cliente",
+     "esperado": "23796892B",
+     "obtenido": "23796892"
+    },
+    {
+     "factura": "factura_012",
+     "plantilla": "A",
+     "campo": "numero",
+     "esperado": "26-0615",
+     "obtenido": "260615"
+    },
+    {
+     "factura": "factura_012",
+     "plantilla": "A",
+     "campo": "retencion_irpf",
+     "esperado": "1299.62",
+     "obtenido": "0.00"
+    },
+    {
+     "factura": "factura_014",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "9592.82",
+     "obtenido": "475412.00"
+    },
+    {
+     "factura": "factura_015",
+     "plantilla": "A",
+     "campo": "base_imponible",
+     "esperado": "7314.40",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_015",
+     "plantilla": "A",
+     "campo": "retencion_irpf",
+     "esperado": "1097.16",
+     "obtenido": "0.00"
+    },
+    {
+     "factura": "factura_015",
+     "plantilla": "A",
+     "campo": "total",
+     "esperado": "6509.82",
+     "obtenido": ""
+    },
+    {
+     "factura": "factura_016",
+     "plantilla": "B",
+     "campo": "base_imponible",
+     "esperado": "12936.08",
+     "obtenido": "12836.08"
+    },
+    {
+     "factura": "factura_018",
+     "plantilla": "A",
+     "campo": "numero",
+     "esperado": "26-0381",
+     "obtenido": "260381"
+    },
+    {
+     "factura": "factura_018",
+     "plantilla": "A",
+     "campo": "nif_cliente",
+     "esperado": "B87885422",
+     "obtenido": "B87854222"
+    },
+    {
+     "factura": "factura_020",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "2596.12",
+     "obtenido": "2073.51"
+    },
+    {
+     "factura": "factura_022",
+     "plantilla": "B",
+     "campo": "base_imponible",
+     "esperado": "7429.09",
+     "obtenido": "226.62"
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "19752.22",
+     "obtenido": "42495.00"
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "base_imponible",
+     "esperado": "2703.66",
+     "obtenido": "450.61"
+    }
+   ],
+   "segundos_por_factura": {
+    "mediana": 1.7683399159868713,
+    "p10": 1.7051374414120801,
+    "p90": 1.8814356162096373,
+    "min": 1.5186335000034887,
+    "max": 1.9221702500071842,
+    "n": 135
+   },
+   "minutos_300_facturas": 8.841699579934357,
+   "segundos_por_pasada": {
+    "mediana": 48.02669762802543,
+    "min": 47.381160333025036,
+    "max": 48.237896918086335,
+    "n": 5
+   },
+   "generacion_tps_mediana": 103.37078143798922,
+   "prompt_tps_mediana": 729.5383121407586,
+   "tokens_prompt_mediana": 526,
+   "memoria_pico_gb_max": 2.546384388,
+   "segundos_carga": 0.5830743749975227
+  },
+  "qwen3-1.7b": {
+   "campos_correctos": 0.9670781893004116,
+   "campos_correctos_n": 1175,
+   "campos_total": 1215,
+   "facturas_perfectas": 0.7407407407407407,
+   "facturas_perfectas_n": 100,
+   "facturas_total": 135,
+   "json_valido": 1.0,
+   "facturas_con_error_n": 35,
+   "errores_detectados_por_cuadre_n": 10,
+   "errores_que_cuadran_n": 25,
+   "errores_que_cuadran_facturas": [
+    "factura_008",
+    "factura_011",
+    "factura_017",
+    "factura_023",
+    "factura_026"
+   ],
+   "errores_detectados_por_cuadre_o_nif_n": 35,
+   "errores_no_detectados_n": 0,
+   "errores_no_detectados_facturas": [],
+   "errores_solo_intercambio_nif_n": 0,
+   "facturas_perfectas_con_alarma_n": 0,
+   "facturas_con_nif_sin_letra_n": 0,
+   "facturas_con_importe_mal_n": 10,
+   "por_campo": {
+    "numero": 1.0,
+    "fecha": 1.0,
+    "nif_emisor": 1.0,
+    "nif_cliente": 0.8148148148148148,
+    "base_imponible": 0.9629629629629629,
+    "tipo_iva": 1.0,
+    "cuota_iva": 0.9259259259259259,
+    "retencion_irpf": 1.0,
+    "total": 1.0
+   },
+   "por_plantilla": {
+    "A": 1.0,
+    "B": 0.9753086419753086,
+    "C": 0.9259259259259259
+   },
+   "por_plantilla_facturas_perfectas": {
+    "A": 1.0,
+    "B": 0.8888888888888888,
+    "C": 0.3333333333333333
+   },
+   "rep1_facturas": {
+    "facturas": 27,
+    "perfectas": 20,
+    "con_error": 7,
+    "detectadas_por_cuadre": 2,
+    "detectadas_por_cuadre_o_nif": 7,
+    "no_detectadas": 0,
+    "solo_intercambio_nif": 0,
+    "nif_sin_letra": 0,
+    "importe_mal": 2,
+    "perfectas_por_plantilla": {
+     "A": 9,
+     "B": 8,
+     "C": 3
+    }
+   },
+   "campos_con_salida_distinta_entre_repeticiones": 0,
+   "errores_rep1": [
+    {
+     "factura": "factura_004",
+     "plantilla": "B",
+     "campo": "base_imponible",
+     "esperado": "24880.46",
+     "obtenido": "10318.20"
+    },
+    {
+     "factura": "factura_004",
+     "plantilla": "B",
+     "campo": "cuota_iva",
+     "esperado": "5224.90",
+     "obtenido": "21600.00"
+    },
+    {
+     "factura": "factura_005",
+     "plantilla": "C",
+     "campo": "cuota_iva",
+     "esperado": "2381.86",
+     "obtenido": "2522.86"
+    },
+    {
+     "factura": "factura_008",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "B75883082",
+     "obtenido": "96031950G"
+    },
+    {
+     "factura": "factura_011",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "B99821456",
+     "obtenido": "81200350T"
+    },
+    {
+     "factura": "factura_017",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "B61457677",
+     "obtenido": "42040234Y"
+    },
+    {
+     "factura": "factura_023",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "A62211198",
+     "obtenido": "46360263Z"
+    },
+    {
+     "factura": "factura_026",
+     "plantilla": "C",
+     "campo": "nif_cliente",
+     "esperado": "A05148242",
+     "obtenido": "CBARTOLOMÉGARCIA31APT51,HUELVA,11068"
+    }
+   ],
+   "segundos_por_factura": {
+    "mediana": 1.3724551670020446,
+    "p10": 1.2843941000115593,
+    "p90": 1.4713609583908691,
+    "min": 1.2297149579972029,
+    "max": 1.527682999992976,
+    "n": 135
+   },
+   "minutos_300_facturas": 6.862275835010223,
+   "segundos_por_pasada": {
+    "mediana": 37.32323558401549,
+    "min": 35.92215124692302,
+    "max": 37.94901391697931,
+    "n": 5
+   },
+   "generacion_tps_mediana": 156.36257417939635,
+   "prompt_tps_mediana": 1178.4469414986595,
+   "tokens_prompt_mediana": 585,
+   "memoria_pico_gb_max": 1.833572644,
+   "segundos_carga": 0.469193416996859
+  }
+ }
+}

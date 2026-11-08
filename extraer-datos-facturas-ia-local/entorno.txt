@@ -1,0 +1,23 @@
+Fecha de la medición: 2026-11-08
+Equipo: portátil Apple M1 Max (10 núcleos de CPU: 8 de rendimiento y 2 de eficiencia; GPU integrada), 64 GB de memoria unificada
+Sistema: macOS 26.6.2 (25G83)
+Condiciones: conectado a la corriente (AC Power) antes y después de medir, tapa abierta, con otras apps abiertas
+Ejecución: caffeinate -dimsu; modelos en la GPU integrada con MLX, una factura cada vez, decodificación voraz (temperatura 0), máximo 400 tokens de salida
+
+Python 3.12.13
+mlx 0.32.4
+mlx-metal 0.32.4
+mlx-lm 0.32.2
+transformers 5.22.2
+huggingface_hub 2.4.0
+pymupdf 2.1 (extracción de texto del PDF, igual para todos)
+fpdf2 2.9.0 (solo para generar las facturas)
+faker 40.44.0 (solo para nombres y direcciones inventados)
+
+Modelos (Hugging Face, cuantizados a 4 bits, revisión fijada):
+mlx-community/Qwen3-4B-Instruct-2507-4bit 50d427756c6b1b2fe0c0a10f67fbda1fc8e82c1b (Qwen3-4B-Instruct-2507, Apache 2.0)
+mlx-community/gemma-3-4b-it-4bit 93724907d4ed1745d2fe50baadf3b0b01a65abf2 (Gemma 3 4B IT, Gemma Terms of Use)
+mlx-community/Llama-3.2-3B-Instruct-4bit 7f0dc925e0d0afb0322d96f9255cfddf2ba5636e (Llama 3.2 3B Instruct, Llama 3.2 Community License)
+mlx-community/Qwen3-1.7B-4bit 3b1b1768f8f8cf8351c712464f906e86c2b8269e (Qwen3-1.7B, Apache 2.0; sin modo de razonamiento: enable_thinking=False)
+
+Corpus: sintético, 27 facturas generadas con semilla 20261108 (corpus.py). No se guarda: se regenera igual en cada ejecución.
