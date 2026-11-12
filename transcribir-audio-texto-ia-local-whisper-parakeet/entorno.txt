@@ -1,0 +1,29 @@
+Fecha de la medición: 2026-11-12
+Equipo: portátil Apple M1 Max (10 núcleos de CPU: 8 de rendimiento y 2 de eficiencia; GPU integrada de 24 núcleos), 64 GB de memoria unificada
+Sistema: macOS 26.6.2 (25G83)
+Condiciones: conectado a la corriente (AC Power) antes y después de medir (resultados/energia.txt), tapa abierta, con otras apps abiertas
+Ejecución: caffeinate -dimsu; un proceso por modelo; un audio cada vez; decodificación voraz (temperatura 0, sin búsqueda en haz)
+
+Python 3.12.13
+mlx 0.32.4
+mlx-metal 0.32.4
+mlx-whisper 0.4.3
+parakeet-mlx 0.7.0
+faster-whisper 1.2.1
+ctranslate2 4.9.0
+av 15.1.0
+jiwer 4.0.0
+num2words 0.5.14
+numpy 2.5.4
+huggingface_hub 2.4.0
+ffmpeg version 9.0.2
+Voces de síntesis: macOS say, Mónica (es_ES), Eddy (Español (España)) (es_ES), Paulina (es_MX)
+
+Modelos (Hugging Face, revisión descargada):
+mlx-community/whisper-base-mlx 1e3e249fb8d01c655324bd6841b1deadffd6d04c (MLX, GPU)
+mlx-community/whisper-small-mlx 45f3915923c7a79a5a5b5a7d909d39aeb0e5630e (MLX, GPU)
+mlx-community/whisper-large-v3-turbo a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb (MLX, GPU)
+mlx-community/parakeet-tdt-0.6b-v3 ed2b7e8c15f9aaa0b5772e2efb986255eaef7e15 (MLX, GPU)
+mobiuslabsgmbh/faster-whisper-large-v3-turbo 0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf (CTranslate2, CPU, int8, 10 hilos)
+
+Audios: sintéticos, 10 textos x 3 voces x 3 condiciones = 90 audios (433,2 s por condición). No se guardan: se regeneran con audios.py (ruido con semilla 20261112 + n.º de audio).

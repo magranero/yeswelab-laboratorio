@@ -1,0 +1,5 @@
+{"modelo": "mlx-whisper-base", "carga_segundos": 2.9974932920304127, "rss_pico_bytes": 527515648, "mlx_pico_bytes": 570252498}
+{"modelo": "mlx-whisper-small", "carga_segundos": 3.041837624972686, "rss_pico_bytes": 916570112, "mlx_pico_bytes": 1458935246}
+{"modelo": "mlx-whisper-large-v3-turbo", "carga_segundos": 3.012191666988656, "rss_pico_bytes": 1873444864, "mlx_pico_bytes": 2493435798}
+{"modelo": "parakeet-tdt-0.6b-v3", "carga_segundos": 2.045591333997436, "rss_pico_bytes": 2061074432, "mlx_pico_bytes": 4324661814}
+{"modelo": "faster-whisper-large-v3-turbo-cpu", "carga_segundos": 2.4963344170246273, "rss_pico_bytes": 2338193408, "mlx_pico_bytes": null}
