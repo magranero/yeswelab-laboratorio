@@ -37,6 +37,15 @@
     "en_curso": false
    },
    {
+    "id": "microsoft365-2026",
+    "empresa": "Microsoft 365",
+    "horas": 26.0,
+    "dias": 1.1,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": true
+   },
+   {
     "id": "rogers-2022",
     "empresa": "Rogers",
     "horas": 26.0,
@@ -53,15 +62,6 @@
     "horas_completo": 28.3,
     "horas_parcial": null,
     "en_curso": false
-   },
-   {
-    "id": "microsoft365-2026",
-    "empresa": "Microsoft 365",
-    "horas": 12.0,
-    "dias": 0.5,
-    "horas_completo": null,
-    "horas_parcial": null,
-    "en_curso": true
    },
    {
     "id": "azure-2025",
