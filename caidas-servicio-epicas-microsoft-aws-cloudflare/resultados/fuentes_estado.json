@@ -1,0 +1,188 @@
+{
+ "GitHub": {
+  "url": "https://www.githubstatus.com/api/v2/incidents.json",
+  "categoria": "Desarrollo y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Cloudflare": {
+  "url": "https://www.cloudflarestatus.com/api/v2/incidents.json",
+  "categoria": "Desarrollo y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Netlify": {
+  "url": "https://www.netlifystatus.com/api/v2/incidents.json",
+  "categoria": "Desarrollo y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Vercel": {
+  "url": "https://www.vercel-status.com/api/v2/incidents.json",
+  "categoria": "Desarrollo y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "DigitalOcean": {
+  "url": "https://status.digitalocean.com/api/v2/incidents.json",
+  "categoria": "Desarrollo y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "GoDaddy": {
+  "url": "https://status.godaddy.com/api/v2/incidents.json",
+  "categoria": "Desarrollo y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Shopify": {
+  "url": "https://www.shopifystatus.com/api/v2/incidents.json",
+  "categoria": "Tienda y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Wix": {
+  "url": "https://status.wix.com/api/v2/incidents.json",
+  "categoria": "Tienda y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Squarespace": {
+  "url": "https://status.squarespace.com/api/v2/incidents.json",
+  "categoria": "Tienda y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Webflow": {
+  "url": "https://status.webflow.com/api/v2/incidents.json",
+  "categoria": "Tienda y web",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "HubSpot": {
+  "url": "https://status.hubspot.com/api/v2/incidents.json",
+  "categoria": "Ventas y marketing",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Klaviyo": {
+  "url": "https://status.klaviyo.com/api/v2/incidents.json",
+  "categoria": "Ventas y marketing",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Twilio": {
+  "url": "https://status.twilio.com/api/v2/incidents.json",
+  "categoria": "Ventas y marketing",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Typeform": {
+  "url": "https://status.typeform.com/api/v2/incidents.json",
+  "categoria": "Ventas y marketing",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Zoom": {
+  "url": "https://status.zoom.us/api/v2/incidents.json",
+  "categoria": "Comunicación",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Notion": {
+  "url": "https://www.notion-status.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 25,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Asana": {
+  "url": "https://status.asana.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "monday.com": {
+  "url": "https://status.monday.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Trello": {
+  "url": "https://trello.status.atlassian.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Jira": {
+  "url": "https://jira-software.status.atlassian.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "ClickUp": {
+  "url": "https://status.clickup.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 25,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Miro": {
+  "url": "https://status.miro.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 25,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Figma": {
+  "url": "https://status.figma.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Airtable": {
+  "url": "https://status.airtable.com/api/v2/incidents.json",
+  "categoria": "Trabajo en equipo",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Dropbox": {
+  "url": "https://status.dropbox.com/api/v2/incidents.json",
+  "categoria": "Archivos",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Box": {
+  "url": "https://status.box.com/api/v2/incidents.json",
+  "categoria": "Archivos",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Factorial": {
+  "url": "https://status.factorialhr.com/api/v2/incidents.json",
+  "categoria": "Gestión",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Zapier": {
+  "url": "https://status.zapier.com/api/v2/incidents.json",
+  "categoria": "Automatización e IA",
+  "incidentes": 25,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Make": {
+  "url": "https://status.make.com/api/v2/incidents.json",
+  "categoria": "Automatización e IA",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "OpenAI": {
+  "url": "https://status.openai.com/api/v2/incidents.json",
+  "categoria": "Automatización e IA",
+  "incidentes": 25,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ },
+ "Claude": {
+  "url": "https://status.anthropic.com/api/v2/incidents.json",
+  "categoria": "Automatización e IA",
+  "incidentes": 50,
+  "consultado": "2026-11-13T08:49:23+00:00"
+ }
+}

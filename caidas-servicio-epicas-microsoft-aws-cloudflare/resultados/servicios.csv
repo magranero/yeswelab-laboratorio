@@ -1,0 +1,31 @@
+servicio,categoria,incidentes,ventana_dias,incidentes_30d,graves,pct_graves,duracion_mediana_h,pct_dias_con_incidente,pct_dias_con_grave
+Cloudflare,Desarrollo y web,50,18.37,81.67,0,0.0,1.54,100.0,0.0
+Twilio,Ventas y marketing,50,31.87,47.06,0,0.0,5.57,100.0,0.0
+OpenAI,Automatización e IA,25,22.43,33.44,2,8.0,1.91,66.67,8.33
+GitHub,Desarrollo y web,50,58.06,25.83,20,40.0,1.14,54.24,22.03
+Zoom,Comunicación,50,65.32,22.96,0,0.0,1.37,76.12,0.0
+Claude,Automatización e IA,50,91.76,16.35,27,54.0,0.7,47.31,34.41
+GoDaddy,Desarrollo y web,50,112.63,13.32,11,22.0,0.8,43.86,9.65
+Notion,Trabajo en equipo,25,70.68,10.61,5,20.0,2.9,44.44,8.33
+Zapier,Automatización e IA,25,83.96,8.93,4,16.0,2.67,43.53,8.24
+Vercel,Desarrollo y web,50,168.7,8.89,17,34.0,0.95,23.53,8.82
+DigitalOcean,Desarrollo y web,50,198.79,7.55,8,16.0,2.76,26.5,6.0
+Netlify,Desarrollo y web,50,202.78,7.4,12,24.0,0.94,20.59,5.88
+HubSpot,Ventas y marketing,50,304.44,4.93,0,0.0,0.98,18.3,0.0
+Box,Archivos,50,314.36,4.77,42,84.0,1.23,19.94,16.77
+Jira,Trabajo en equipo,50,321.17,4.67,26,52.0,3.35,19.88,13.98
+Make,Automatización e IA,50,365.68,4.1,22,44.0,3.94,20.16,8.99
+monday.com,Trabajo en equipo,50,383.07,3.92,17,34.0,0.86,12.76,4.43
+Klaviyo,Ventas y marketing,50,435.96,3.44,19,38.0,2.1,16.48,6.18
+Squarespace,Tienda y web,50,436.62,3.44,30,60.0,1.34,11.19,7.31
+Webflow,Tienda y web,50,448.66,3.34,15,30.0,2.41,12.67,4.0
+Wix,Tienda y web,50,464.24,3.23,26,52.0,0.85,10.32,5.81
+Asana,Trabajo en equipo,50,867.62,1.73,14,28.0,0.69,7.94,1.73
+Dropbox,Archivos,50,913.72,1.64,5,10.0,1.91,10.38,0.55
+Airtable,Trabajo en equipo,50,993.55,1.51,9,18.0,2.27,6.83,1.41
+Typeform,Ventas y marketing,50,1073.82,1.4,24,48.0,0.64,4.74,2.05
+Miro,Trabajo en equipo,25,542.95,1.38,11,44.0,2.64,4.41,2.21
+Figma,Trabajo en equipo,50,1094.27,1.37,4,8.0,3.27,6.48,0.37
+Trello,Trabajo en equipo,50,1098.75,1.37,19,38.0,1.6,6.73,2.09
+Factorial,Gestión,50,2370.05,0.63,30,60.0,1.08,2.49,1.56
+Shopify,Tienda y web,50,2583.64,0.58,26,52.0,0.98,1.9,0.93

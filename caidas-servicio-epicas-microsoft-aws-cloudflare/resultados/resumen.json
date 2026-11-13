@@ -1,0 +1,507 @@
+{
+ "grandes_caidas": {
+  "n": 10,
+  "confirmadas": 9,
+  "en_curso": [
+   "microsoft365-2026"
+  ],
+  "por_tipo_de_disparador": {
+   "Cambio de configuración + fallo latente": 3,
+   "Mantenimiento de red + fallo latente": 1,
+   "Script de mantenimiento": 1,
+   "Cambio de configuración en mantenimiento": 1,
+   "Actualización de software": 1,
+   "Automatización + fallo latente": 1,
+   "Cambio de configuración": 1
+  },
+  "empezaron_con_un_cambio": 8,
+  "con_fallo_latente": 6,
+  "por_ataque": 0,
+  "ranking_horas": [
+   {
+    "id": "atlassian-2022",
+    "empresa": "Atlassian",
+    "horas": 304.4,
+    "dias": 12.7,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": false
+   },
+   {
+    "id": "crowdstrike-2024",
+    "empresa": "CrowdStrike",
+    "horas": 259.9,
+    "dias": 10.8,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": false
+   },
+   {
+    "id": "rogers-2022",
+    "empresa": "Rogers",
+    "horas": 26.0,
+    "dias": 1.1,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": false
+   },
+   {
+    "id": "aws-2025",
+    "empresa": "AWS",
+    "horas": 14.5,
+    "dias": 0.6,
+    "horas_completo": 28.3,
+    "horas_parcial": null,
+    "en_curso": false
+   },
+   {
+    "id": "microsoft365-2026",
+    "empresa": "Microsoft 365",
+    "horas": 12.0,
+    "dias": 0.5,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": true
+   },
+   {
+    "id": "azure-2025",
+    "empresa": "Microsoft Azure",
+    "horas": 8.4,
+    "dias": 0.4,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": false
+   },
+   {
+    "id": "facebook-2021",
+    "empresa": "Meta",
+    "horas": 5.8,
+    "dias": 0.2,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": false
+   },
+   {
+    "id": "cloudflare-2025",
+    "empresa": "Cloudflare",
+    "horas": 5.8,
+    "dias": 0.2,
+    "horas_completo": null,
+    "horas_parcial": 3.2,
+    "en_curso": false
+   },
+   {
+    "id": "google-cloud-2025",
+    "empresa": "Google Cloud",
+    "horas": 3.0,
+    "dias": 0.1,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": false
+   },
+   {
+    "id": "fastly-2021",
+    "empresa": "Fastly",
+    "horas": 0.8,
+    "dias": 0.0,
+    "horas_completo": null,
+    "horas_parcial": null,
+    "en_curso": false
+   }
+  ],
+  "mediana_horas_confirmadas": 8.4
+ },
+ "paginas_de_estado": {
+  "consultado": "2026-11-13T08:49+00:00",
+  "servicios": 30,
+  "incidentes": 1400,
+  "duracion_mediana_h": 1.46,
+  "pct_resueltos_menos_1h": 39.9,
+  "pct_resueltos_menos_4h": 76.1,
+  "pct_mas_24h": 6.2,
+  "pct_graves": 31.8,
+  "mediana_incidentes_30d": 4.4,
+  "mediana_pct_dias_con_incidente": 19.1,
+  "excluidos": {
+   "ClickUp": "incidentes importados con resolución anterior a la creación"
+  },
+  "mediana_pct_dias_con_grave": 5.1,
+  "pila_pyme": {
+   "servicios": [
+    "Wix",
+    "HubSpot",
+    "Zoom",
+    "Dropbox",
+    "Notion",
+    "Asana",
+    "Zapier",
+    "OpenAI"
+   ],
+   "dias_al_mes_con_alguna_incidencia": 29.5,
+   "dias_al_mes_con_alguna_grave": 8.7,
+   "supuesto": "fallos independientes entre servicios; % de días con incidente medido en la ventana de cada uno"
+  },
+  "por_servicio": [
+   {
+    "servicio": "Cloudflare",
+    "categoria": "Desarrollo y web",
+    "incidentes": 50,
+    "ventana_dias": 18.4,
+    "incidentes_30d": 81.7,
+    "graves": 0,
+    "pct_graves": 0.0,
+    "duracion_mediana_h": 1.5,
+    "pct_dias_con_incidente": 100.0,
+    "pct_dias_con_grave": 0.0
+   },
+   {
+    "servicio": "Twilio",
+    "categoria": "Ventas y marketing",
+    "incidentes": 50,
+    "ventana_dias": 31.9,
+    "incidentes_30d": 47.1,
+    "graves": 0,
+    "pct_graves": 0.0,
+    "duracion_mediana_h": 5.6,
+    "pct_dias_con_incidente": 100.0,
+    "pct_dias_con_grave": 0.0
+   },
+   {
+    "servicio": "OpenAI",
+    "categoria": "Automatización e IA",
+    "incidentes": 25,
+    "ventana_dias": 22.4,
+    "incidentes_30d": 33.4,
+    "graves": 2,
+    "pct_graves": 8.0,
+    "duracion_mediana_h": 1.9,
+    "pct_dias_con_incidente": 66.7,
+    "pct_dias_con_grave": 8.3
+   },
+   {
+    "servicio": "GitHub",
+    "categoria": "Desarrollo y web",
+    "incidentes": 50,
+    "ventana_dias": 58.1,
+    "incidentes_30d": 25.8,
+    "graves": 20,
+    "pct_graves": 40.0,
+    "duracion_mediana_h": 1.1,
+    "pct_dias_con_incidente": 54.2,
+    "pct_dias_con_grave": 22.0
+   },
+   {
+    "servicio": "Zoom",
+    "categoria": "Comunicación",
+    "incidentes": 50,
+    "ventana_dias": 65.3,
+    "incidentes_30d": 23.0,
+    "graves": 0,
+    "pct_graves": 0.0,
+    "duracion_mediana_h": 1.4,
+    "pct_dias_con_incidente": 76.1,
+    "pct_dias_con_grave": 0.0
+   },
+   {
+    "servicio": "Claude",
+    "categoria": "Automatización e IA",
+    "incidentes": 50,
+    "ventana_dias": 91.8,
+    "incidentes_30d": 16.3,
+    "graves": 27,
+    "pct_graves": 54.0,
+    "duracion_mediana_h": 0.7,
+    "pct_dias_con_incidente": 47.3,
+    "pct_dias_con_grave": 34.4
+   },
+   {
+    "servicio": "GoDaddy",
+    "categoria": "Desarrollo y web",
+    "incidentes": 50,
+    "ventana_dias": 112.6,
+    "incidentes_30d": 13.3,
+    "graves": 11,
+    "pct_graves": 22.0,
+    "duracion_mediana_h": 0.8,
+    "pct_dias_con_incidente": 43.9,
+    "pct_dias_con_grave": 9.6
+   },
+   {
+    "servicio": "Notion",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 25,
+    "ventana_dias": 70.7,
+    "incidentes_30d": 10.6,
+    "graves": 5,
+    "pct_graves": 20.0,
+    "duracion_mediana_h": 2.9,
+    "pct_dias_con_incidente": 44.4,
+    "pct_dias_con_grave": 8.3
+   },
+   {
+    "servicio": "Zapier",
+    "categoria": "Automatización e IA",
+    "incidentes": 25,
+    "ventana_dias": 84.0,
+    "incidentes_30d": 8.9,
+    "graves": 4,
+    "pct_graves": 16.0,
+    "duracion_mediana_h": 2.7,
+    "pct_dias_con_incidente": 43.5,
+    "pct_dias_con_grave": 8.2
+   },
+   {
+    "servicio": "Vercel",
+    "categoria": "Desarrollo y web",
+    "incidentes": 50,
+    "ventana_dias": 168.7,
+    "incidentes_30d": 8.9,
+    "graves": 17,
+    "pct_graves": 34.0,
+    "duracion_mediana_h": 1.0,
+    "pct_dias_con_incidente": 23.5,
+    "pct_dias_con_grave": 8.8
+   },
+   {
+    "servicio": "DigitalOcean",
+    "categoria": "Desarrollo y web",
+    "incidentes": 50,
+    "ventana_dias": 198.8,
+    "incidentes_30d": 7.5,
+    "graves": 8,
+    "pct_graves": 16.0,
+    "duracion_mediana_h": 2.8,
+    "pct_dias_con_incidente": 26.5,
+    "pct_dias_con_grave": 6.0
+   },
+   {
+    "servicio": "Netlify",
+    "categoria": "Desarrollo y web",
+    "incidentes": 50,
+    "ventana_dias": 202.8,
+    "incidentes_30d": 7.4,
+    "graves": 12,
+    "pct_graves": 24.0,
+    "duracion_mediana_h": 0.9,
+    "pct_dias_con_incidente": 20.6,
+    "pct_dias_con_grave": 5.9
+   },
+   {
+    "servicio": "HubSpot",
+    "categoria": "Ventas y marketing",
+    "incidentes": 50,
+    "ventana_dias": 304.4,
+    "incidentes_30d": 4.9,
+    "graves": 0,
+    "pct_graves": 0.0,
+    "duracion_mediana_h": 1.0,
+    "pct_dias_con_incidente": 18.3,
+    "pct_dias_con_grave": 0.0
+   },
+   {
+    "servicio": "Box",
+    "categoria": "Archivos",
+    "incidentes": 50,
+    "ventana_dias": 314.4,
+    "incidentes_30d": 4.8,
+    "graves": 42,
+    "pct_graves": 84.0,
+    "duracion_mediana_h": 1.2,
+    "pct_dias_con_incidente": 19.9,
+    "pct_dias_con_grave": 16.8
+   },
+   {
+    "servicio": "Jira",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 50,
+    "ventana_dias": 321.2,
+    "incidentes_30d": 4.7,
+    "graves": 26,
+    "pct_graves": 52.0,
+    "duracion_mediana_h": 3.4,
+    "pct_dias_con_incidente": 19.9,
+    "pct_dias_con_grave": 14.0
+   },
+   {
+    "servicio": "Make",
+    "categoria": "Automatización e IA",
+    "incidentes": 50,
+    "ventana_dias": 365.7,
+    "incidentes_30d": 4.1,
+    "graves": 22,
+    "pct_graves": 44.0,
+    "duracion_mediana_h": 3.9,
+    "pct_dias_con_incidente": 20.2,
+    "pct_dias_con_grave": 9.0
+   },
+   {
+    "servicio": "monday.com",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 50,
+    "ventana_dias": 383.1,
+    "incidentes_30d": 3.9,
+    "graves": 17,
+    "pct_graves": 34.0,
+    "duracion_mediana_h": 0.9,
+    "pct_dias_con_incidente": 12.8,
+    "pct_dias_con_grave": 4.4
+   },
+   {
+    "servicio": "Klaviyo",
+    "categoria": "Ventas y marketing",
+    "incidentes": 50,
+    "ventana_dias": 436.0,
+    "incidentes_30d": 3.4,
+    "graves": 19,
+    "pct_graves": 38.0,
+    "duracion_mediana_h": 2.1,
+    "pct_dias_con_incidente": 16.5,
+    "pct_dias_con_grave": 6.2
+   },
+   {
+    "servicio": "Squarespace",
+    "categoria": "Tienda y web",
+    "incidentes": 50,
+    "ventana_dias": 436.6,
+    "incidentes_30d": 3.4,
+    "graves": 30,
+    "pct_graves": 60.0,
+    "duracion_mediana_h": 1.3,
+    "pct_dias_con_incidente": 11.2,
+    "pct_dias_con_grave": 7.3
+   },
+   {
+    "servicio": "Webflow",
+    "categoria": "Tienda y web",
+    "incidentes": 50,
+    "ventana_dias": 448.7,
+    "incidentes_30d": 3.3,
+    "graves": 15,
+    "pct_graves": 30.0,
+    "duracion_mediana_h": 2.4,
+    "pct_dias_con_incidente": 12.7,
+    "pct_dias_con_grave": 4.0
+   },
+   {
+    "servicio": "Wix",
+    "categoria": "Tienda y web",
+    "incidentes": 50,
+    "ventana_dias": 464.2,
+    "incidentes_30d": 3.2,
+    "graves": 26,
+    "pct_graves": 52.0,
+    "duracion_mediana_h": 0.8,
+    "pct_dias_con_incidente": 10.3,
+    "pct_dias_con_grave": 5.8
+   },
+   {
+    "servicio": "Asana",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 50,
+    "ventana_dias": 867.6,
+    "incidentes_30d": 1.7,
+    "graves": 14,
+    "pct_graves": 28.0,
+    "duracion_mediana_h": 0.7,
+    "pct_dias_con_incidente": 7.9,
+    "pct_dias_con_grave": 1.7
+   },
+   {
+    "servicio": "Dropbox",
+    "categoria": "Archivos",
+    "incidentes": 50,
+    "ventana_dias": 913.7,
+    "incidentes_30d": 1.6,
+    "graves": 5,
+    "pct_graves": 10.0,
+    "duracion_mediana_h": 1.9,
+    "pct_dias_con_incidente": 10.4,
+    "pct_dias_con_grave": 0.5
+   },
+   {
+    "servicio": "Airtable",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 50,
+    "ventana_dias": 993.5,
+    "incidentes_30d": 1.5,
+    "graves": 9,
+    "pct_graves": 18.0,
+    "duracion_mediana_h": 2.3,
+    "pct_dias_con_incidente": 6.8,
+    "pct_dias_con_grave": 1.4
+   },
+   {
+    "servicio": "Typeform",
+    "categoria": "Ventas y marketing",
+    "incidentes": 50,
+    "ventana_dias": 1073.8,
+    "incidentes_30d": 1.4,
+    "graves": 24,
+    "pct_graves": 48.0,
+    "duracion_mediana_h": 0.6,
+    "pct_dias_con_incidente": 4.7,
+    "pct_dias_con_grave": 2.0
+   },
+   {
+    "servicio": "Miro",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 25,
+    "ventana_dias": 542.9,
+    "incidentes_30d": 1.4,
+    "graves": 11,
+    "pct_graves": 44.0,
+    "duracion_mediana_h": 2.6,
+    "pct_dias_con_incidente": 4.4,
+    "pct_dias_con_grave": 2.2
+   },
+   {
+    "servicio": "Figma",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 50,
+    "ventana_dias": 1094.3,
+    "incidentes_30d": 1.4,
+    "graves": 4,
+    "pct_graves": 8.0,
+    "duracion_mediana_h": 3.3,
+    "pct_dias_con_incidente": 6.5,
+    "pct_dias_con_grave": 0.4
+   },
+   {
+    "servicio": "Trello",
+    "categoria": "Trabajo en equipo",
+    "incidentes": 50,
+    "ventana_dias": 1098.8,
+    "incidentes_30d": 1.4,
+    "graves": 19,
+    "pct_graves": 38.0,
+    "duracion_mediana_h": 1.6,
+    "pct_dias_con_incidente": 6.7,
+    "pct_dias_con_grave": 2.1
+   },
+   {
+    "servicio": "Factorial",
+    "categoria": "Gestión",
+    "incidentes": 50,
+    "ventana_dias": 2370.1,
+    "incidentes_30d": 0.6,
+    "graves": 30,
+    "pct_graves": 60.0,
+    "duracion_mediana_h": 1.1,
+    "pct_dias_con_incidente": 2.5,
+    "pct_dias_con_grave": 1.6
+   },
+   {
+    "servicio": "Shopify",
+    "categoria": "Tienda y web",
+    "incidentes": 50,
+    "ventana_dias": 2583.6,
+    "incidentes_30d": 0.6,
+    "graves": 26,
+    "pct_graves": 52.0,
+    "duracion_mediana_h": 1.0,
+    "pct_dias_con_incidente": 1.9,
+    "pct_dias_con_grave": 0.9
+   }
+  ]
+ }
+}

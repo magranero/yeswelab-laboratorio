@@ -1,0 +1,1426 @@
+servicio,categoria,id,inicio,resuelto,estado,impacto,componentes,mantenimiento
+GitHub,Desarrollo y web,nwbjzl7nfrc2,2026-11-12T19:36:45+00:00,2026-11-12T21:43:56+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,gl7yhd7jx00v,2026-11-12T18:43:13+00:00,2026-11-12T19:33:54+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,dvy0t3mvh1lg,2026-11-11T20:48:12+00:00,2026-11-11T21:21:39+00:00,resolved,critical,4,0
+GitHub,Desarrollo y web,1h2wbly1y72t,2026-11-11T20:22:20+00:00,2026-11-11T20:26:23+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,hnf21m9jkl3c,2026-11-10T16:10:52+00:00,2026-11-10T17:55:03+00:00,resolved,critical,2,0
+GitHub,Desarrollo y web,6jm5k16vyhfg,2026-11-09T23:16:32+00:00,2026-11-10T00:05:52+00:00,resolved,major,2,0
+GitHub,Desarrollo y web,tp8cghg7tlc4,2026-11-09T18:12:37+00:00,2026-11-09T18:59:32+00:00,resolved,critical,3,0
+GitHub,Desarrollo y web,xxb3l2bm76dr,2026-11-09T10:00:35+00:00,2026-11-09T11:50:35+00:00,resolved,major,2,0
+GitHub,Desarrollo y web,c9px7cw2ghrs,2026-11-09T05:59:07+00:00,2026-11-09T09:09:56+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,pyynvrm1vskw,2026-11-08T10:36:05+00:00,2026-11-08T12:32:35+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,pfbmpxxfq1cy,2026-11-05T23:36:06+00:00,2026-11-06T00:20:49+00:00,resolved,minor,4,0
+GitHub,Desarrollo y web,t89g2q1800fr,2026-11-05T16:50:11+00:00,2026-11-05T17:42:35+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,h02n9572mx9y,2026-11-04T17:40:33+00:00,2026-11-04T18:16:08+00:00,resolved,major,1,0
+GitHub,Desarrollo y web,xr3myzj7ms51,2026-11-04T16:05:31+00:00,2026-11-04T17:01:11+00:00,resolved,major,3,0
+GitHub,Desarrollo y web,smtdswd1h2w4,2026-11-04T09:49:55+00:00,2026-11-04T11:50:06+00:00,resolved,major,5,0
+GitHub,Desarrollo y web,tc28c0wzrnpz,2026-11-04T08:45:00+00:00,2026-11-04T10:01:44+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,13b6lyl8d7bz,2026-11-03T20:57:14+00:00,2026-11-03T22:41:03+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,rxlj89wpk7px,2026-11-03T13:25:19+00:00,2026-11-03T13:56:18+00:00,resolved,minor,3,0
+GitHub,Desarrollo y web,db4x8hh362t8,2026-11-02T17:46:23+00:00,2026-11-02T18:24:23+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,lyyfm7j4pkgl,2026-10-30T20:59:14+00:00,2026-10-30T23:29:06+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,pwxsjgnvrk6b,2026-10-30T17:50:54+00:00,2026-10-30T19:23:40+00:00,resolved,major,3,0
+GitHub,Desarrollo y web,nxy2l0ssxm10,2026-10-30T14:31:16+00:00,2026-10-30T15:02:51+00:00,resolved,critical,2,0
+GitHub,Desarrollo y web,rn76zdy367m2,2026-10-29T10:19:55+00:00,2026-10-29T12:49:52+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,l7ycmglmykgg,2026-10-28T14:12:53+00:00,2026-10-28T15:28:19+00:00,resolved,critical,1,0
+GitHub,Desarrollo y web,dnslv7xdl4fj,2026-10-27T20:21:53+00:00,2026-10-27T08:00:00+00:00,resolved,none,0,0
+GitHub,Desarrollo y web,f1vvv30224wd,2026-10-26T18:48:26+00:00,2026-10-26T18:57:22+00:00,resolved,minor,4,0
+GitHub,Desarrollo y web,khv5nj9qy2kk,2026-10-23T23:41:54+00:00,2026-10-24T00:23:32+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,71y513kjvbzh,2026-10-23T14:58:48+00:00,2026-10-23T18:51:24+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,ntrfd2jqldn6,2026-10-23T07:29:03+00:00,2026-10-23T08:05:27+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,wq8305lppdc2,2026-10-22T15:28:03+00:00,2026-10-23T02:30:25+00:00,resolved,minor,5,0
+GitHub,Desarrollo y web,q29p76qtnkyk,2026-10-22T14:18:15+00:00,2026-10-22T15:18:46+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,nms1dpzmh9d9,2026-10-21T14:52:49+00:00,2026-10-21T19:22:52+00:00,resolved,critical,3,0
+GitHub,Desarrollo y web,8tzbpcnl75jp,2026-10-19T15:49:25+00:00,2026-10-19T16:56:58+00:00,resolved,critical,3,0
+GitHub,Desarrollo y web,vlxrztp88101,2026-10-15T18:31:49+00:00,2026-10-15T18:56:04+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,6yk962mhlr3h,2026-10-14T00:12:44+00:00,2026-10-13T20:30:00+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,93njd414rpbx,2026-10-12T12:21:47+00:00,2026-10-12T20:16:07+00:00,resolved,minor,3,0
+GitHub,Desarrollo y web,qpfv5p86dmrl,2026-10-07T17:17:05+00:00,2026-10-07T18:04:49+00:00,resolved,critical,4,0
+GitHub,Desarrollo y web,djlmxz2zd0j7,2026-10-07T16:25:14+00:00,2026-10-07T16:25:14+00:00,resolved,critical,5,0
+GitHub,Desarrollo y web,cjwszcf57bff,2026-10-06T19:57:35+00:00,2026-10-06T23:40:44+00:00,resolved,critical,2,0
+GitHub,Desarrollo y web,2kxnqcxcrr7f,2026-10-05T23:47:45+00:00,2026-10-06T01:32:43+00:00,resolved,major,0,0
+GitHub,Desarrollo y web,3q1yb5m7ltvb,2026-10-05T19:11:58+00:00,2026-10-05T22:49:42+00:00,resolved,critical,2,0
+GitHub,Desarrollo y web,2dpbcq5j165n,2026-10-01T14:47:48+00:00,2026-10-01T17:56:54+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,c8466lzvnmsv,2026-10-01T13:37:33+00:00,2026-10-01T13:57:59+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,dqn46wtvbdzv,2026-10-01T11:34:16+00:00,2026-10-01T02:00:00+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,169pg72gg9jr,2026-09-28T21:16:39+00:00,2026-09-28T22:08:20+00:00,resolved,critical,0,0
+GitHub,Desarrollo y web,1dk955gg3bvz,2026-09-24T16:51:32+00:00,2026-09-24T20:41:12+00:00,resolved,minor,0,0
+GitHub,Desarrollo y web,8zc63m64hy36,2026-09-23T10:11:12+00:00,2026-09-24T04:55:33+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,f6yrxnz5f7bs,2026-09-20T22:13:37+00:00,2026-09-20T23:22:16+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,nvy2q96mcmyg,2026-09-17T20:59:02+00:00,2026-09-17T21:49:01+00:00,resolved,minor,1,0
+GitHub,Desarrollo y web,nlxnbqnkdzdl,2026-09-16T07:20:59+00:00,2026-09-16T17:48:49+00:00,resolved,major,1,0
+Cloudflare,Desarrollo y web,9zxr2bkqoct7,2026-11-12T22:39:40+00:00,2026-11-13T03:44:49+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,yu63fhh2peb7,2026-11-11T04:33:19+00:00,2026-11-13T01:44:17+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,wp49bp8bqo6c,2026-11-06T17:47:15+00:00,2026-11-12T16:36:32+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,1na2mbfshgdh,2026-11-12T08:30:17+00:00,2026-11-12T11:34:02+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,8odt36zmvm36,2026-11-12T04:53:29+00:00,2026-11-12T05:26:45+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,804glbb3pq6t,2026-11-11T15:53:19+00:00,2026-11-11T16:18:51+00:00,resolved,minor,0,0
+Cloudflare,Desarrollo y web,3ptyvdaljq9b,2026-11-11T12:42:00+00:00,2026-11-11T13:03:00+00:00,resolved,minor,2,0
+Cloudflare,Desarrollo y web,21vwp89eiyjx,2026-11-11T07:45:42+00:00,2026-11-11T10:07:58+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,4qxszy04pdjw,2026-11-11T07:30:00+00:00,2026-11-11T07:45:00+00:00,resolved,minor,0,0
+Cloudflare,Desarrollo y web,byzl30zyfc47,2026-11-11T06:29:09+00:00,2026-11-11T06:41:33+00:00,resolved,minor,3,0
+Cloudflare,Desarrollo y web,0ocqieaifg7h,2026-11-10T01:53:58+00:00,,identified,minor,2,0
+Cloudflare,Desarrollo y web,1h9c85fz6bm3,2026-11-10T22:50:23+00:00,2026-11-11T01:10:26+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,3en9cdyjn2sq,2026-11-10T18:35:39+00:00,2026-11-10T19:06:59+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,m644az5hr9xo,2026-11-10T08:02:37+00:00,2026-11-10T08:45:13+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,1x0tbxpmmttu,2026-11-09T16:15:26+00:00,2026-11-10T01:46:28+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,88hc76jnq2gn,2026-11-09T16:34:35+00:00,2026-11-09T20:12:27+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,c60k3g4vsoc1,2026-11-07T00:59:31+00:00,2026-11-09T14:36:55+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,x9orajjmvvwa,2026-11-07T04:55:00+00:00,2026-11-07T05:12:00+00:00,resolved,minor,2,0
+Cloudflare,Desarrollo y web,3ehw20ozwlkr,2026-11-06T08:54:00+00:00,2026-11-06T10:43:38+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,wtsd415cavkc,2026-11-06T09:47:17+00:00,2026-11-06T10:08:30+00:00,resolved,minor,3,0
+Cloudflare,Desarrollo y web,oy8gxjb38yse,2026-11-05T13:23:55+00:00,2026-11-06T09:05:19+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,yaa0witbl2me,2026-11-05T19:51:39+00:00,2026-11-05T20:20:10+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,1i6fnludjh1m,2026-11-05T15:05:13+00:00,2026-11-05T16:16:48+00:00,resolved,minor,0,0
+Cloudflare,Desarrollo y web,c3pjgxk8xnzn,2026-11-04T21:20:00+00:00,2026-11-04T21:22:00+00:00,resolved,none,1,0
+Cloudflare,Desarrollo y web,nbnize4e990z,2026-11-04T13:39:26+00:00,2026-11-04T15:33:09+00:00,resolved,minor,2,0
+Cloudflare,Desarrollo y web,me060q7dbayp,2026-10-26T00:00:00+00:00,2026-11-04T06:35:00+00:00,resolved,minor,2,0
+Cloudflare,Desarrollo y web,dr9s0uvzwk6n,2026-11-03T13:00:00+00:00,2026-11-03T22:15:00+00:00,resolved,minor,3,0
+Cloudflare,Desarrollo y web,nbyxn84kvb6o,2026-11-03T14:46:56+00:00,2026-11-03T19:38:09+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,7gixemnw9oei,2026-11-03T15:38:17+00:00,2026-11-03T16:42:01+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,6c4ak19xodyt,2026-11-03T06:20:00+00:00,2026-11-03T06:32:00+00:00,resolved,minor,3,0
+Cloudflare,Desarrollo y web,j25w3rpv45gs,2026-11-03T03:26:00+00:00,2026-11-03T05:56:29+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,n5mvqjs26jg9,2026-11-03T04:12:18+00:00,2026-11-03T05:23:01+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,3bv9locsg7ln,2026-11-02T22:12:39+00:00,2026-11-03T00:34:13+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,7he1pmetw77p,2026-11-02T16:41:11+00:00,2026-11-02T17:30:10+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,5tlm9r9j9rpo,2026-10-31T06:41:15+00:00,2026-10-31T06:57:35+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,2xiv8fdhk0bh,2026-10-30T02:41:48+00:00,2026-10-30T03:48:59+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,kp28d3kzgft1,2026-10-29T19:57:28+00:00,2026-10-29T21:50:51+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,10m2bxjztzwh,2026-10-29T16:00:00+00:00,2026-10-29T16:50:03+00:00,resolved,minor,4,0
+Cloudflare,Desarrollo y web,r4mz367vddi7,2026-10-29T14:16:46+00:00,2026-10-29T16:33:43+00:00,resolved,minor,5,0
+Cloudflare,Desarrollo y web,k2cd9e1fyskp,2026-10-29T10:31:52+00:00,2026-10-29T12:10:59+00:00,resolved,minor,2,0
+Cloudflare,Desarrollo y web,6yfpsos7ksp3,2026-10-29T09:22:53+00:00,2026-10-29T11:49:16+00:00,resolved,minor,4,0
+Cloudflare,Desarrollo y web,bc7e93q3eigp,2026-10-29T10:06:17+00:00,2026-10-29T11:47:23+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,oco7f885d2v4,2026-10-29T06:55:41+00:00,2026-10-29T08:28:13+00:00,resolved,minor,2,0
+Cloudflare,Desarrollo y web,jajp50huvxtz,2026-10-28T23:25:00+00:00,2026-10-29T00:35:00+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,snth5ero95rz,2026-10-28T04:39:13+00:00,2026-10-28T22:18:26+00:00,resolved,minor,1,0
+Cloudflare,Desarrollo y web,h6fgl47h6iht,2026-10-28T21:01:39+00:00,2026-10-28T21:12:24+00:00,resolved,minor,3,0
+Cloudflare,Desarrollo y web,lmmf23klsrxq,2026-10-28T09:45:10+00:00,2026-10-28T11:10:59+00:00,resolved,minor,4,0
+Cloudflare,Desarrollo y web,klub12zy71b4,2026-10-28T00:17:25+00:00,2026-10-28T03:28:57+00:00,resolved,minor,4,0
+Cloudflare,Desarrollo y web,ktq18tcoqoo2,2026-10-27T22:21:29+00:00,2026-10-27T22:58:57+00:00,resolved,none,0,0
+Cloudflare,Desarrollo y web,4u4hsqqnr0hk,2026-10-27T21:13:57+00:00,2026-10-27T21:58:13+00:00,resolved,none,0,0
+Netlify,Desarrollo y web,cwf4lj7wnyt0,2026-11-04T17:15:39+00:00,2026-11-04T17:21:17+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,kcdfq4x1w113,2026-11-02T00:15:36+00:00,2026-11-02T09:12:31+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,wngz0sq2h4lg,2026-10-27T07:48:36+00:00,2026-10-27T08:45:08+00:00,resolved,major,2,0
+Netlify,Desarrollo y web,r4qgbyh9nllq,2026-10-26T16:05:16+00:00,2026-10-27T03:21:11+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,s7y08q8mtp4n,2026-10-22T16:19:42+00:00,2026-10-22T20:10:14+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,qvvj7sxfgfh1,2026-10-22T06:15:21+00:00,2026-10-22T10:12:35+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,7h2rmcz3h5gf,2026-10-20T07:47:17+00:00,2026-10-20T08:55:59+00:00,resolved,major,1,0
+Netlify,Desarrollo y web,1vw7z81c7bq9,2026-10-17T05:03:55+00:00,2026-10-17T05:55:38+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,snkdthnwxrqj,2026-10-08T14:34:05+00:00,2026-10-08T14:34:05+00:00,resolved,none,1,0
+Netlify,Desarrollo y web,1xxnpwr8p0c8,2026-10-06T20:12:41+00:00,2026-10-06T20:12:41+00:00,resolved,none,2,0
+Netlify,Desarrollo y web,r0vpcht0p481,2026-10-05T12:44:45+00:00,2026-10-05T13:34:48+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,q0djbf5m2zy1,2026-09-29T08:46:38+00:00,2026-09-29T08:46:38+00:00,resolved,none,1,0
+Netlify,Desarrollo y web,zlsxpcqccll1,2026-09-24T19:01:50+00:00,2026-09-24T19:25:40+00:00,resolved,major,3,0
+Netlify,Desarrollo y web,y9mzgs37nn0v,2026-09-23T23:26:15+00:00,2026-09-24T00:00:28+00:00,resolved,minor,3,0
+Netlify,Desarrollo y web,51xt0pq7tgl5,2026-09-21T15:12:37+00:00,2026-09-21T16:37:37+00:00,resolved,major,2,0
+Netlify,Desarrollo y web,30k75wx7y6dj,2026-09-16T12:58:17+00:00,2026-09-16T13:48:55+00:00,resolved,minor,3,0
+Netlify,Desarrollo y web,104b3j4dx3sw,2026-09-08T18:32:09+00:00,2026-09-08T18:28:25+00:00,resolved,none,0,0
+Netlify,Desarrollo y web,l702tvnbnnbz,2026-09-04T10:57:37+00:00,2026-09-04T10:30:00+00:00,resolved,minor,0,0
+Netlify,Desarrollo y web,pbw04v8tqnzf,2026-08-31T20:40:10+00:00,2026-08-31T22:00:17+00:00,resolved,minor,3,0
+Netlify,Desarrollo y web,qy4tx5dkvj8c,2026-08-18T20:00:00+00:00,2026-08-18T20:00:00+00:00,resolved,critical,0,0
+Netlify,Desarrollo y web,bgw09y2ghbxj,2026-08-03T09:31:14+00:00,2026-08-03T09:55:58+00:00,resolved,major,1,0
+Netlify,Desarrollo y web,pqmjg396rrmz,2026-07-22T13:29:02+00:00,2026-07-22T13:56:50+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,3dnczs0ftv4p,2026-07-01T17:53:23+00:00,2026-07-01T18:18:16+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,fwshtc4q10xp,2026-06-13T08:25:18+00:00,2026-06-15T09:44:14+00:00,resolved,none,1,0
+Netlify,Desarrollo y web,g1rzkgdlyjn9,2026-06-14T19:55:48+00:00,2026-06-15T01:45:10+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,99zf2zg6gqnp,2026-06-09T03:41:21+00:00,2026-06-09T03:55:54+00:00,resolved,minor,3,0
+Netlify,Desarrollo y web,3p2nrdlccqhb,2026-06-04T20:24:25+00:00,2026-06-04T20:59:11+00:00,resolved,major,1,0
+Netlify,Desarrollo y web,t41hmgqbvxvj,2026-06-02T18:15:57+00:00,2026-05-29T15:30:00+00:00,resolved,none,0,0
+Netlify,Desarrollo y web,4csqvcm0hhx3,2026-05-27T12:13:43+00:00,2026-05-27T14:17:49+00:00,resolved,major,1,0
+Netlify,Desarrollo y web,pwfmpbyzdgqm,2026-05-26T13:14:35+00:00,2026-05-26T13:44:36+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,94zmzfqkmr16,2026-05-25T15:31:06+00:00,2026-05-25T17:32:05+00:00,resolved,major,1,0
+Netlify,Desarrollo y web,4lcqlyck1pts,2026-05-23T14:52:40+00:00,2026-05-23T19:40:03+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,vgjg50pg3346,2026-05-19T21:08:31+00:00,2026-05-19T23:04:23+00:00,resolved,critical,3,0
+Netlify,Desarrollo y web,4j2c00jmyqvw,2026-05-19T18:18:36+00:00,2026-05-19T20:41:05+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,rcqldz329k69,2026-05-19T19:44:26+00:00,2026-05-19T17:30:00+00:00,resolved,none,0,0
+Netlify,Desarrollo y web,nxz9qw1s1p3g,2026-05-19T14:26:53+00:00,2026-05-19T14:52:05+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,0pch7c6wv5ch,2026-05-15T16:23:08+00:00,2026-05-15T18:58:39+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,7w7ttydytjfb,2026-05-12T14:30:31+00:00,2026-05-12T15:38:29+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,26zs66kvk4bd,2026-05-11T13:36:17+00:00,2026-05-11T15:27:39+00:00,resolved,major,2,0
+Netlify,Desarrollo y web,9h6r3vbv8q3g,2026-05-11T14:31:19+00:00,2026-05-11T15:27:28+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,bpzpyvq36yl4,2026-05-10T16:33:53+00:00,2026-05-10T16:33:53+00:00,resolved,none,1,0
+Netlify,Desarrollo y web,vg510g8l047v,2026-05-10T08:07:36+00:00,2026-05-10T08:56:21+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,6nsb4vl9x54l,2026-05-10T07:15:37+00:00,2026-05-10T08:21:55+00:00,resolved,minor,1,0
+Netlify,Desarrollo y web,jllyrknf458r,2026-05-09T00:58:35+00:00,2026-05-09T00:58:35+00:00,resolved,none,3,0
+Netlify,Desarrollo y web,8hzc2hn1gbm8,2026-05-08T02:53:54+00:00,2026-05-08T04:00:39+00:00,resolved,minor,2,0
+Netlify,Desarrollo y web,91yhxqfp3gqw,2026-05-06T15:29:17+00:00,2026-05-06T16:49:01+00:00,resolved,minor,4,0
+Netlify,Desarrollo y web,qq4vfhmjht8h,2026-05-05T20:53:21+00:00,2026-05-05T23:12:33+00:00,resolved,critical,1,0
+Netlify,Desarrollo y web,2vnlll587g9c,2026-05-03T04:19:51+00:00,2026-05-03T00:00:00+00:00,resolved,none,0,0
+Netlify,Desarrollo y web,n2g28kxm1xm2,2026-04-26T05:05:25+00:00,2026-04-26T03:55:00+00:00,resolved,none,0,0
+Netlify,Desarrollo y web,d0k5f9jlk4xr,2026-04-24T14:10:10+00:00,2026-04-24T14:57:07+00:00,resolved,minor,3,0
+Vercel,Desarrollo y web,5m8qxy05bly7,2026-11-10T21:04:28+00:00,2026-11-10T21:04:28+00:00,resolved,minor,2,0
+Vercel,Desarrollo y web,w661l7k3kf4p,2026-11-05T18:25:10+00:00,2026-11-05T18:50:23+00:00,resolved,minor,2,0
+Vercel,Desarrollo y web,4lgcbsr7l8xn,2026-10-23T16:31:02+00:00,2026-10-23T17:32:46+00:00,resolved,minor,2,0
+Vercel,Desarrollo y web,sps6n39gm4sg,2026-10-12T13:35:07+00:00,2026-10-12T20:11:12+00:00,resolved,major,2,0
+Vercel,Desarrollo y web,bpzq72pgngc7,2026-10-10T00:15:49+00:00,2026-10-10T01:37:00+00:00,resolved,major,5,0
+Vercel,Desarrollo y web,1dp8c0nfchtg,2026-10-06T16:10:59+00:00,2026-10-06T16:26:49+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,xr8lx0kncx0g,2026-10-06T09:12:06+00:00,2026-10-06T09:36:55+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,yy1sm6x5l83q,2026-09-28T13:44:30+00:00,2026-09-28T14:11:29+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,5c1lswm68bkg,2026-09-18T21:36:09+00:00,2026-09-18T22:31:22+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,bwkmw4hmrgmk,2026-09-18T20:32:36+00:00,2026-09-18T21:22:27+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,j6cdljvmf2wf,2026-09-18T15:14:45+00:00,2026-09-18T12:00:00+00:00,resolved,none,0,0
+Vercel,Desarrollo y web,ttqhd2v8dq3p,2026-09-17T07:11:00+00:00,2026-09-17T07:11:00+00:00,resolved,none,0,0
+Vercel,Desarrollo y web,w1jqw8bwk6xc,2026-09-16T16:58:36+00:00,2026-09-16T14:00:00+00:00,resolved,minor,0,0
+Vercel,Desarrollo y web,k6ykmr68s0b1,2026-09-16T03:21:00+00:00,2026-09-16T03:21:00+00:00,resolved,none,0,0
+Vercel,Desarrollo y web,mf04gp4lrfz0,2026-09-10T17:42:15+00:00,2026-09-10T19:16:06+00:00,resolved,major,0,0
+Vercel,Desarrollo y web,b6s5qz7tj35w,2026-09-04T19:11:44+00:00,2026-09-04T20:27:26+00:00,resolved,minor,2,0
+Vercel,Desarrollo y web,1z2qkcjgfx3y,2026-09-01T19:59:37+00:00,2026-09-01T20:58:43+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,75b4vyf7cm69,2026-08-26T03:06:11+00:00,2026-08-26T04:28:31+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,s6hljjh3n822,2026-08-25T19:27:23+00:00,2026-08-25T20:05:18+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,w8r0qkm97p1c,2026-08-20T17:46:33+00:00,2026-08-20T18:34:00+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,g5svdyg45c5b,2026-08-20T11:14:32+00:00,2026-08-20T11:25:37+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,ybx6km0j1gwk,2026-08-19T00:28:30+00:00,2026-08-18T23:00:00+00:00,resolved,none,0,0
+Vercel,Desarrollo y web,nxvrk1jk0zyb,2026-08-17T14:30:28+00:00,2026-08-17T21:25:26+00:00,resolved,minor,5,0
+Vercel,Desarrollo y web,ysczd6rxyl7z,2026-08-14T13:08:12+00:00,2026-08-14T13:08:12+00:00,resolved,none,1,0
+Vercel,Desarrollo y web,vbxl834x9l7q,2026-08-06T16:37:10+00:00,2026-08-06T18:29:45+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,yh45fsy7h0l8,2026-07-25T18:57:40+00:00,2026-07-26T17:46:26+00:00,resolved,maintenance,1,0
+Vercel,Desarrollo y web,1s8rqbswvwqc,2026-07-23T19:00:00+00:00,2026-07-23T19:00:00+00:00,resolved,major,0,0
+Vercel,Desarrollo y web,bwyq88fxt57g,2026-07-23T07:33:48+00:00,2026-07-23T08:18:49+00:00,resolved,major,6,0
+Vercel,Desarrollo y web,zxb1gkbxnktp,2026-07-23T06:47:01+00:00,2026-07-23T07:41:57+00:00,resolved,critical,1,0
+Vercel,Desarrollo y web,mskkl0ryk3zn,2026-07-17T14:12:58+00:00,2026-07-17T15:19:53+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,vqndbxzgzhx9,2026-07-16T23:09:29+00:00,2026-07-17T00:42:10+00:00,resolved,minor,3,0
+Vercel,Desarrollo y web,nw8xv7ypn7y0,2026-07-16T08:39:35+00:00,2026-07-16T10:45:23+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,xfkn71bbvc99,2026-07-16T06:07:15+00:00,2026-07-16T09:27:19+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,ydqg5447j7j0,2026-07-15T23:04:43+00:00,2026-07-15T23:34:54+00:00,resolved,minor,3,0
+Vercel,Desarrollo y web,j0ll7yc1jscj,2026-07-10T21:22:09+00:00,2026-07-10T23:28:43+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,458cy54l4d6d,2026-07-10T19:53:44+00:00,2026-07-10T22:36:10+00:00,resolved,minor,2,0
+Vercel,Desarrollo y web,gk45lsnmx35m,2026-07-10T17:44:16+00:00,2026-07-09T13:16:00+00:00,resolved,none,0,0
+Vercel,Desarrollo y web,lf0pm7scd74x,2026-07-08T19:13:42+00:00,2026-07-08T19:13:52+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,bgmdgj7m7bgm,2026-07-02T16:31:55+00:00,2026-07-02T16:46:33+00:00,resolved,minor,4,0
+Vercel,Desarrollo y web,kndhly1hl696,2026-07-01T16:57:02+00:00,2026-07-01T18:30:29+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,9mwnzxknwysy,2026-06-26T13:08:09+00:00,2026-06-26T15:14:03+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,x4ngbgzymq4h,2026-06-25T07:45:00+00:00,2026-06-25T13:43:22+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,bc8kw6cjklny,2026-06-23T23:24:24+00:00,2026-06-23T23:34:35+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,3h7jsmmrljwt,2026-06-19T17:54:16+00:00,2026-06-19T17:54:16+00:00,resolved,none,1,0
+Vercel,Desarrollo y web,fyjmwj5qy4vz,2026-06-16T13:39:02+00:00,2026-06-16T15:39:55+00:00,resolved,minor,5,0
+Vercel,Desarrollo y web,2f4kf430rmlz,2026-06-14T21:03:53+00:00,2026-06-15T01:24:24+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,l7m81jfvmv0v,2026-06-09T14:09:36+00:00,2026-06-09T14:46:02+00:00,resolved,major,1,0
+Vercel,Desarrollo y web,yzhdk6nhy1kx,2026-06-08T18:57:47+00:00,2026-06-08T20:00:11+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,s3625k1ftc1b,2026-06-01T19:21:13+00:00,2026-06-01T20:02:11+00:00,resolved,minor,1,0
+Vercel,Desarrollo y web,yqvf53mhyb78,2026-05-28T16:00:14+00:00,2026-05-28T16:59:49+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,ckmpdk5z9xj9,2026-10-27T22:14:46+00:00,2026-10-28T01:55:12+00:00,resolved,major,1,0
+DigitalOcean,Desarrollo y web,rl0fl1jtxw7l,2026-10-13T17:09:47+00:00,2026-10-13T17:09:47+00:00,resolved,none,1,0
+DigitalOcean,Desarrollo y web,qfg5hmfhxw5d,2026-10-11T22:01:39+00:00,2026-10-11T23:29:01+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,5fxykytg48dx,2026-10-05T10:38:07+00:00,2026-10-05T12:13:16+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,6z6dt3t1bhb9,2026-10-03T14:51:13+00:00,2026-10-03T14:51:13+00:00,resolved,none,8,0
+DigitalOcean,Desarrollo y web,grb2v0td1nq5,2026-09-16T09:48:19+00:00,2026-09-16T21:09:31+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,1t16vfgq3zpx,2026-09-09T10:47:40+00:00,2026-09-09T12:25:52+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,4qwm6pzlx1z3,2026-08-24T17:14:43+00:00,2026-08-25T19:04:33+00:00,postmortem,critical,2,0
+DigitalOcean,Desarrollo y web,r96y45y5sx59,2026-08-23T05:11:37+00:00,2026-08-23T14:33:31+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,s0dyq97c5v72,2026-08-21T12:59:42+00:00,2026-08-21T14:52:40+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,qd8v4wddyqjr,2026-08-19T11:10:06+00:00,2026-08-19T19:34:54+00:00,resolved,critical,2,0
+DigitalOcean,Desarrollo y web,y3kn2w2qf5s4,2026-08-13T14:59:44+00:00,2026-08-13T14:59:44+00:00,resolved,none,1,0
+DigitalOcean,Desarrollo y web,2wql4f4sb13r,2026-08-08T18:57:49+00:00,2026-08-09T01:01:02+00:00,resolved,minor,4,0
+DigitalOcean,Desarrollo y web,cg3q7h89dbnq,2026-08-06T19:01:27+00:00,2026-08-06T21:05:05+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,vjm8qnbt45tb,2026-08-06T16:33:14+00:00,2026-08-06T16:33:14+00:00,resolved,none,7,0
+DigitalOcean,Desarrollo y web,l20hw5cfhksw,2026-08-04T16:13:35+00:00,2026-08-04T21:42:43+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,3nt69xj3wkk9,2026-08-03T13:58:04+00:00,2026-08-03T17:59:42+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,rdfp2h4syxz8,2026-07-29T17:56:51+00:00,2026-07-30T06:15:55+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,fcfplv03vbwt,2026-07-27T18:31:40+00:00,2026-07-28T15:24:28+00:00,resolved,major,1,0
+DigitalOcean,Desarrollo y web,w53965shllfq,2026-07-24T10:36:52+00:00,2026-07-24T12:42:25+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,ym1lj8ww7cpz,2026-07-23T11:16:59+00:00,2026-07-23T12:37:00+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,j6cjljphvgq7,2026-07-22T16:50:42+00:00,2026-07-22T19:42:17+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,84v7d9gkkzzf,2026-07-19T09:51:19+00:00,2026-07-19T15:32:39+00:00,resolved,minor,5,0
+DigitalOcean,Desarrollo y web,qzbsmdsw9lq8,2026-07-19T06:57:41+00:00,2026-07-19T09:52:00+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,nfhvp4yhyrfl,2026-07-16T13:39:47+00:00,2026-07-16T17:24:35+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,8sjb7kmqnvk9,2026-07-13T19:04:10+00:00,2026-07-15T21:46:35+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,2kxtxyvzzzk0,2026-07-09T20:31:52+00:00,2026-07-11T01:27:56+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,wvj4t3y98gs7,2026-07-04T22:13:45+00:00,2026-07-05T00:53:19+00:00,resolved,major,2,0
+DigitalOcean,Desarrollo y web,7vmz1hmlzzrc,2026-07-04T14:42:47+00:00,2026-07-04T15:10:06+00:00,resolved,none,2,0
+DigitalOcean,Desarrollo y web,rjfr3rbzxlx1,2026-07-02T22:04:53+00:00,2026-07-03T08:20:23+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,76l7xym7jd5m,2026-07-01T06:25:23+00:00,2026-07-02T03:38:53+00:00,resolved,none,2,0
+DigitalOcean,Desarrollo y web,phwpbgwcmkjn,2026-07-01T11:35:28+00:00,2026-07-01T16:28:25+00:00,resolved,minor,3,0
+DigitalOcean,Desarrollo y web,8mvnl6s4cmdt,2026-07-01T11:13:21+00:00,2026-07-01T13:28:10+00:00,resolved,none,1,0
+DigitalOcean,Desarrollo y web,m2shb5ks2rml,2026-06-27T18:24:25+00:00,2026-06-27T18:24:25+00:00,resolved,none,1,0
+DigitalOcean,Desarrollo y web,psk2b3pgbblq,2026-06-27T04:43:29+00:00,2026-06-27T05:15:38+00:00,resolved,none,1,0
+DigitalOcean,Desarrollo y web,nqkv7bnzr4l3,2026-06-19T14:00:32+00:00,2026-06-19T16:37:38+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,bfsh34myw3bc,2026-06-16T22:00:52+00:00,2026-06-17T00:29:42+00:00,resolved,none,1,0
+DigitalOcean,Desarrollo y web,505mwh53nwl2,2026-06-11T14:24:20+00:00,2026-06-11T17:42:05+00:00,resolved,major,1,0
+DigitalOcean,Desarrollo y web,nnt4rfbgn1y6,2026-06-04T10:12:10+00:00,2026-06-04T11:47:05+00:00,resolved,minor,4,0
+DigitalOcean,Desarrollo y web,y3p9v8vm4tfn,2026-05-29T00:14:19+00:00,2026-05-29T07:58:23+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,55wh1mbv7vbs,2026-05-20T12:08:27+00:00,2026-05-20T13:03:09+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,sv0tfb6jhqz8,2026-05-20T05:35:48+00:00,2026-05-20T07:48:14+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,spgd2scvttth,2026-05-20T01:05:16+00:00,2026-05-20T05:13:50+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,lrrw084g3whn,2026-05-15T01:21:51+00:00,2026-05-15T02:00:39+00:00,resolved,major,1,0
+DigitalOcean,Desarrollo y web,gwgh41d5r0nz,2026-05-14T13:57:38+00:00,2026-05-14T20:46:40+00:00,resolved,minor,2,0
+DigitalOcean,Desarrollo y web,bnq93nhgvtm6,2026-05-12T10:50:10+00:00,2026-05-12T11:37:12+00:00,resolved,major,1,0
+DigitalOcean,Desarrollo y web,7hb39w1wzmwf,2026-05-09T11:15:11+00:00,2026-05-09T14:42:15+00:00,resolved,minor,1,0
+DigitalOcean,Desarrollo y web,p3zyn7c4jyx7,2026-05-08T20:46:22+00:00,2026-05-08T21:54:44+00:00,resolved,minor,5,0
+DigitalOcean,Desarrollo y web,h9t3sfjx36l3,2026-05-08T18:01:42+00:00,2026-05-08T19:59:48+00:00,resolved,minor,6,0
+DigitalOcean,Desarrollo y web,z5fjzx3kp16z,2026-04-28T13:45:20+00:00,2026-04-28T19:33:38+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,lksz0v51w47r,2026-11-12T18:53:39+00:00,,identified,major,1,0
+GoDaddy,Desarrollo y web,g826x8120sss,2026-11-12T10:44:42+00:00,2026-11-12T13:22:17+00:00,resolved,minor,2,0
+GoDaddy,Desarrollo y web,hq44yv27h254,2026-11-11T14:42:01+00:00,2026-11-11T15:12:52+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,k7tfl76919mp,2026-11-10T15:51:30+00:00,2026-11-10T16:09:06+00:00,resolved,major,2,0
+GoDaddy,Desarrollo y web,xcf1d47ktgq5,2026-11-10T06:28:12+00:00,2026-11-10T06:57:27+00:00,resolved,major,1,0
+GoDaddy,Desarrollo y web,y2584pmxc2pl,2026-11-09T18:37:51+00:00,2026-11-09T18:51:46+00:00,resolved,major,1,0
+GoDaddy,Desarrollo y web,r58scb0cl1bh,2026-11-07T00:47:17+00:00,2026-11-07T01:39:28+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,57ndwpznn77w,2026-11-05T02:24:09+00:00,2026-11-05T02:36:37+00:00,resolved,minor,2,0
+GoDaddy,Desarrollo y web,9w5jd81t8pbf,2026-10-22T21:06:14+00:00,2026-11-04T22:03:58+00:00,resolved,minor,5,0
+GoDaddy,Desarrollo y web,zdkk4ncl356w,2026-11-02T16:15:10+00:00,2026-11-02T17:18:39+00:00,resolved,major,2,0
+GoDaddy,Desarrollo y web,mtl2b9tbvq56,2026-10-19T17:38:33+00:00,2026-10-31T00:38:57+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,d7mghjb3pynx,2026-10-30T17:30:45+00:00,2026-10-30T17:35:46+00:00,resolved,major,1,0
+GoDaddy,Desarrollo y web,356hn87nd98s,2026-10-30T11:04:15+00:00,2026-10-30T11:21:52+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,hxnsthfs4w2w,2026-10-29T15:18:44+00:00,2026-10-29T15:46:06+00:00,resolved,critical,1,0
+GoDaddy,Desarrollo y web,glf8qm17v8pg,2026-10-26T14:03:05+00:00,2026-10-26T14:47:21+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,wlf32t02l26k,2026-10-24T13:21:41+00:00,2026-10-24T13:44:07+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,b9cdn6b5sj2f,2026-10-21T19:11:55+00:00,2026-10-23T16:31:16+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,jg7tmhwh9pl2,2026-10-21T18:29:08+00:00,2026-10-22T15:07:33+00:00,resolved,maintenance,1,0
+GoDaddy,Desarrollo y web,mlb7j3kwkrdh,2026-10-15T10:19:50+00:00,2026-10-15T19:17:24+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,t4dcsncb24wc,2026-10-14T00:34:54+00:00,2026-10-14T03:14:10+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,mqqh02dsl1lc,2026-10-07T18:24:05+00:00,2026-10-07T18:53:34+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,mwpnww4mpgyt,2026-09-27T00:31:50+00:00,2026-09-27T00:58:33+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,1l3lscyj3yv2,2026-09-25T18:40:51+00:00,2026-09-25T21:25:04+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,8zg6ksxz5fv1,2026-09-19T01:52:07+00:00,2026-09-19T02:53:00+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,150r7pg2ljgm,2026-09-15T11:32:59+00:00,2026-09-15T11:33:57+00:00,resolved,minor,2,0
+GoDaddy,Desarrollo y web,n1vghshyyksv,2026-09-08T15:59:14+00:00,2026-09-08T17:56:12+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,2qqmw07y6klg,2026-09-04T17:09:59+00:00,2026-09-04T17:00:00+00:00,resolved,none,0,0
+GoDaddy,Desarrollo y web,s20vk540qtfc,2026-09-04T14:50:34+00:00,2026-09-04T14:50:34+00:00,resolved,none,2,0
+GoDaddy,Desarrollo y web,565g571rsdn0,2026-08-31T16:57:59+00:00,2026-09-01T21:52:38+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,r8r3mmz2tptb,2026-08-31T16:42:46+00:00,2026-08-31T17:57:06+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,dvbq58thy60c,2026-08-30T04:19:11+00:00,2026-08-30T04:53:17+00:00,resolved,major,1,0
+GoDaddy,Desarrollo y web,dtlp48k56mcm,2026-08-28T18:15:11+00:00,2026-08-28T18:56:43+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,v1y33phg12fw,2026-08-22T02:06:12+00:00,2026-08-22T04:58:03+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,0cllf745p8tk,2026-08-21T05:07:14+00:00,2026-08-21T05:09:12+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,h9ts045tb3hf,2026-08-20T22:17:01+00:00,2026-08-20T22:36:38+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,m26prxk3w0jx,2026-08-13T12:27:10+00:00,2026-08-13T14:56:09+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,9qtql07b1d96,2026-08-13T08:49:59+00:00,2026-08-13T09:00:23+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,xcn21818910m,2026-08-11T18:16:01+00:00,2026-08-11T18:00:00+00:00,resolved,none,0,0
+GoDaddy,Desarrollo y web,y0l3p59w3m5r,2026-08-06T04:19:12+00:00,2026-08-06T07:58:27+00:00,resolved,major,2,0
+GoDaddy,Desarrollo y web,63ctlv7yxzwb,2026-08-05T20:00:59+00:00,2026-08-05T20:26:42+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,1m716pgyl4j2,2026-08-05T08:16:58+00:00,2026-08-05T10:34:28+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,5nlq47fb641t,2026-07-31T17:10:08+00:00,2026-07-31T19:02:41+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,8v4v8771bx0l,2026-07-29T18:11:41+00:00,2026-07-29T19:16:28+00:00,resolved,major,1,0
+GoDaddy,Desarrollo y web,b2gpp2fdl2nr,2026-07-27T21:31:41+00:00,2026-07-27T22:45:04+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,4zw80vdy4j46,2026-07-27T18:30:25+00:00,2026-07-27T18:44:01+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,3f6pvnlmy794,2026-07-27T17:02:16+00:00,2026-07-27T17:32:01+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,chzdrd776kjy,2026-07-25T13:38:53+00:00,2026-07-25T18:03:57+00:00,resolved,minor,1,0
+GoDaddy,Desarrollo y web,dcjrct1h9njw,2026-07-24T12:14:39+00:00,2026-07-24T12:50:41+00:00,resolved,major,4,0
+GoDaddy,Desarrollo y web,x72snwb8m61g,2026-07-24T11:59:10+00:00,2026-07-24T12:50:38+00:00,resolved,minor,3,0
+GoDaddy,Desarrollo y web,hm5zmvz40mnb,2026-07-23T17:39:34+00:00,2026-07-23T16:00:00+00:00,resolved,none,0,0
+Shopify,Tienda y web,mf41s0b5mhc4,2025-06-24T18:57:45-04:00,2025-06-24T19:30:55-04:00,resolved,minor,1,0
+Shopify,Tienda y web,882r6x3ttyg9,2025-06-24T13:46:12-04:00,2025-06-24T16:52:02-04:00,resolved,major,1,0
+Shopify,Tienda y web,ds8xn3g4w0lf,2023-03-13T11:24:27-04:00,2023-03-13T12:05:33-04:00,resolved,critical,4,0
+Shopify,Tienda y web,bv7csxpsckfx,2022-10-25T11:50:05-04:00,2022-10-25T14:31:50-04:00,resolved,major,4,0
+Shopify,Tienda y web,26hrlv896m7j,2022-06-21T02:59:27-04:00,2022-06-21T04:11:07-04:00,resolved,major,8,0
+Shopify,Tienda y web,z8k4ztsb5mm6,2021-06-08T06:24:55-04:00,2021-06-08T07:20:51-04:00,resolved,critical,3,0
+Shopify,Tienda y web,zzc3f2mzgymn,2020-03-22T08:30:00-04:00,2020-03-22T08:30:00-04:00,resolved,minor,0,0
+Shopify,Tienda y web,7g3scbq177td,2020-03-19T20:21:27-04:00,2020-03-19T20:24:05-04:00,resolved,minor,1,0
+Shopify,Tienda y web,tq1zmqvw6cjz,2020-03-18T17:16:25-04:00,2020-03-18T20:54:37-04:00,resolved,minor,3,0
+Shopify,Tienda y web,5fq7rdy6y5br,2020-02-27T09:15:16-05:00,2020-02-27T10:44:15-05:00,resolved,minor,1,0
+Shopify,Tienda y web,frvsv0vk07ws,2020-02-10T09:36:58-05:00,2020-02-10T12:23:44-05:00,resolved,minor,1,0
+Shopify,Tienda y web,cnnn97chn0j4,2020-01-25T15:05:54-05:00,2020-01-25T15:16:58-05:00,resolved,major,8,0
+Shopify,Tienda y web,f7hqv0r3q4l9,2020-01-25T14:48:30-05:00,2020-01-25T15:13:59-05:00,resolved,major,2,0
+Shopify,Tienda y web,v83s7smxbs54,2020-01-23T18:20:27-05:00,2020-01-23T18:00:00-05:00,resolved,none,0,0
+Shopify,Tienda y web,d33vnbcprhy8,2020-01-20T09:31:14-05:00,2020-01-20T09:53:54-05:00,resolved,critical,2,0
+Shopify,Tienda y web,klrb5xgmrkhf,2020-01-17T07:37:14-05:00,2020-01-17T07:57:50-05:00,resolved,none,2,0
+Shopify,Tienda y web,w34vfn9z1x75,2019-12-19T16:24:18-05:00,2019-12-19T17:08:42-05:00,resolved,minor,0,0
+Shopify,Tienda y web,trfvc3gpynhz,2019-12-07T14:30:00-05:00,2019-12-07T14:30:00-05:00,resolved,minor,0,0
+Shopify,Tienda y web,rc42y9gn45sj,2019-12-04T17:13:11-05:00,2019-12-04T19:04:14-05:00,resolved,minor,1,0
+Shopify,Tienda y web,7thwh85tjm4m,2019-12-04T17:30:51-05:00,2019-12-04T18:04:30-05:00,resolved,major,1,0
+Shopify,Tienda y web,0snzwtvz27c8,2019-12-03T10:41:38-05:00,2019-12-03T10:51:07-05:00,resolved,critical,1,0
+Shopify,Tienda y web,sr2vbvhv5p04,2019-12-02T11:31:32-05:00,2019-12-02T17:50:37-05:00,resolved,minor,1,0
+Shopify,Tienda y web,kr9m0nj06t8v,2019-11-28T10:41:37-05:00,2019-11-28T16:55:57-05:00,resolved,minor,1,0
+Shopify,Tienda y web,bgyw01g62xnx,2019-11-26T05:20:15-05:00,2019-11-26T06:40:07-05:00,resolved,none,1,0
+Shopify,Tienda y web,swtlt8fq6vww,2019-11-25T14:46:30-05:00,2019-11-25T16:34:46-05:00,resolved,major,3,0
+Shopify,Tienda y web,ltgv3tx79dyc,2019-11-20T18:59:03-05:00,2019-11-20T19:06:03-05:00,resolved,major,1,0
+Shopify,Tienda y web,qbcgdy7j907b,2019-11-20T13:40:37-05:00,2019-11-20T13:45:29-05:00,resolved,major,3,0
+Shopify,Tienda y web,fdzvpq2xzgms,2019-11-15T15:21:32-05:00,2019-11-15T17:27:42-05:00,resolved,major,1,0
+Shopify,Tienda y web,x6m63766rwzv,2019-11-14T01:06:12-05:00,2019-11-14T01:29:06-05:00,resolved,major,1,0
+Shopify,Tienda y web,pmtx96c7h3m4,2019-11-14T01:05:05-05:00,2019-11-14T01:05:19-05:00,resolved,major,1,0
+Shopify,Tienda y web,8vcw45l6nc2m,2019-11-12T14:18:32-05:00,2019-11-12T17:10:23-05:00,resolved,minor,1,0
+Shopify,Tienda y web,p1tj6gzmnmk2,2019-11-11T06:52:08-05:00,2019-11-11T07:47:06-05:00,resolved,minor,1,0
+Shopify,Tienda y web,08fjp6tl8gc4,2019-11-08T10:38:02-05:00,2019-11-08T10:55:02-05:00,resolved,minor,2,0
+Shopify,Tienda y web,8690sspd5xck,2019-11-07T23:15:38-05:00,2019-11-08T02:44:15-05:00,resolved,major,1,0
+Shopify,Tienda y web,hcdcj512c03w,2019-11-05T14:29:46-05:00,2019-11-05T16:32:36-05:00,resolved,major,1,0
+Shopify,Tienda y web,x7y62nyy43mt,2019-10-25T11:04:32-04:00,2019-11-05T14:28:38-05:00,resolved,minor,1,0
+Shopify,Tienda y web,fhyrnxfs06lh,2019-11-05T11:51:57-05:00,2019-11-05T14:02:04-05:00,resolved,major,2,0
+Shopify,Tienda y web,4bkgg0b93khj,2019-11-01T21:05:28-04:00,2019-11-01T22:04:15-04:00,resolved,minor,1,0
+Shopify,Tienda y web,b2cpx3slrtcc,2019-11-01T13:15:41-04:00,2019-11-01T18:20:51-04:00,resolved,major,3,0
+Shopify,Tienda y web,657t4188g2w9,2019-10-29T19:07:11-04:00,2019-10-29T19:44:21-04:00,resolved,minor,1,0
+Shopify,Tienda y web,m4rk88ldlv2w,2019-10-29T12:09:49-04:00,2019-10-29T12:33:34-04:00,resolved,major,1,0
+Shopify,Tienda y web,55nlz4n2pt70,2019-10-25T10:54:02-04:00,2019-10-25T12:10:10-04:00,resolved,major,1,0
+Shopify,Tienda y web,zhdc4kvnw1bj,2019-10-21T13:47:57-04:00,2019-10-25T10:53:54-04:00,resolved,minor,1,0
+Shopify,Tienda y web,3trf2dwyx7th,2019-10-23T09:48:49-04:00,2019-10-23T10:09:21-04:00,resolved,major,1,0
+Shopify,Tienda y web,j7z1hcmc2bmp,2019-10-22T16:13:51-04:00,2019-10-22T23:07:20-04:00,resolved,minor,1,0
+Shopify,Tienda y web,p7fd3ncqkgzp,2019-10-22T17:19:04-04:00,2019-10-22T18:43:43-04:00,resolved,minor,2,0
+Shopify,Tienda y web,st33xk2fm8nx,2019-10-22T10:09:38-04:00,2019-10-22T12:06:48-04:00,resolved,major,1,0
+Shopify,Tienda y web,nv0sr1jfsqn8,2019-10-21T21:03:45-04:00,2019-10-21T21:27:32-04:00,resolved,major,3,0
+Shopify,Tienda y web,z3jwl4r9lldl,2019-10-21T15:19:19-04:00,2019-10-21T15:42:13-04:00,resolved,minor,2,0
+Shopify,Tienda y web,2ykp7p3w34t9,2019-10-17T13:31:53-04:00,2019-10-17T14:35:53-04:00,resolved,major,1,0
+Wix,Tienda y web,wq2vdmct9yrt,2026-11-04T14:43:04+00:00,2026-11-04T14:52:17+00:00,postmortem,major,6,0
+Wix,Tienda y web,xp1rzvsfk3dt,2026-10-01T05:17:01+00:00,2026-10-01T05:42:49+00:00,resolved,major,8,0
+Wix,Tienda y web,mc6rh3y039g9,2026-09-15T08:35:46+00:00,2026-09-15T09:17:23+00:00,postmortem,critical,3,0
+Wix,Tienda y web,bjpyzdt7sm1m,2026-09-07T15:26:32+00:00,2026-09-07T22:11:56+00:00,resolved,minor,2,0
+Wix,Tienda y web,zyvw7ntspqsj,2026-09-01T09:10:52+00:00,2026-09-01T14:55:46+00:00,resolved,minor,5,0
+Wix,Tienda y web,x6lqhyhzj7ls,2026-08-19T19:55:44+00:00,2026-08-19T21:23:46+00:00,resolved,minor,4,0
+Wix,Tienda y web,ps4lmsz28g1x,2026-08-12T14:44:22+00:00,2026-08-12T15:09:39+00:00,resolved,minor,2,0
+Wix,Tienda y web,rk1bks6nmd0h,2026-08-01T11:27:45+00:00,2026-08-01T14:44:23+00:00,resolved,critical,90,0
+Wix,Tienda y web,2h24hndlft0n,2026-07-29T13:31:41+00:00,2026-07-29T13:47:11+00:00,resolved,major,7,0
+Wix,Tienda y web,80hjxxmh7vkc,2026-07-24T11:29:30+00:00,2026-07-24T12:16:15+00:00,resolved,critical,4,0
+Wix,Tienda y web,4twghbnwklr4,2026-07-22T08:36:20+00:00,2026-07-22T08:48:00+00:00,resolved,major,4,0
+Wix,Tienda y web,6q8079b23v4y,2026-07-07T14:25:18+00:00,2026-07-07T14:35:15+00:00,postmortem,major,2,0
+Wix,Tienda y web,dhvmq7snv51x,2026-07-07T08:12:33+00:00,2026-07-07T08:28:31+00:00,postmortem,minor,4,0
+Wix,Tienda y web,yjmmljhbgtry,2026-06-29T15:36:32+00:00,2026-06-29T15:55:24+00:00,resolved,critical,1,0
+Wix,Tienda y web,brynn1stq31r,2026-06-25T20:17:06+00:00,2026-06-25T22:36:31+00:00,resolved,minor,2,0
+Wix,Tienda y web,lkxwfz93d52c,2026-06-23T09:16:11+00:00,2026-06-23T09:56:30+00:00,resolved,critical,3,0
+Wix,Tienda y web,sj862m894cn8,2026-06-10T10:55:33+00:00,2026-06-10T11:19:28+00:00,resolved,major,1,0
+Wix,Tienda y web,k590jt0wkqnc,2026-05-11T19:00:00+00:00,2026-05-11T19:00:00+00:00,resolved,minor,0,0
+Wix,Tienda y web,z538gtq14lbh,2026-05-07T11:36:08+00:00,2026-05-07T21:51:08+00:00,resolved,minor,2,0
+Wix,Tienda y web,x2770wv9cl3b,2026-05-06T22:27:11+00:00,2026-05-07T01:58:58+00:00,resolved,minor,12,0
+Wix,Tienda y web,d892t9w5rm43,2026-04-16T13:57:41+00:00,2026-04-16T15:13:32+00:00,resolved,none,0,0
+Wix,Tienda y web,sqc56gd4glk9,2026-04-14T14:37:00+00:00,2026-04-14T15:11:22+00:00,resolved,minor,0,0
+Wix,Tienda y web,jlyhy0xn8lk1,2026-04-02T10:11:15+00:00,2026-04-02T11:45:24+00:00,resolved,major,2,0
+Wix,Tienda y web,72p1v70dvntb,2026-03-26T15:21:36+00:00,2026-03-26T16:21:07+00:00,resolved,minor,1,0
+Wix,Tienda y web,ry20fsxd7xv0,2026-03-25T17:16:19+00:00,2026-03-25T17:16:19+00:00,resolved,minor,1,0
+Wix,Tienda y web,q1fw6smj1bn5,2026-03-16T15:46:30+00:00,2026-03-16T16:09:12+00:00,resolved,minor,1,0
+Wix,Tienda y web,8mj3b05sp29n,2026-03-11T15:07:12+00:00,2026-03-11T15:33:03+00:00,resolved,major,3,0
+Wix,Tienda y web,jx5vm6vgk09d,2026-03-05T13:51:42+00:00,2026-03-05T14:20:00+00:00,resolved,minor,1,0
+Wix,Tienda y web,8ym05vywy5vp,2026-02-26T10:51:05+00:00,2026-02-26T11:28:04+00:00,resolved,major,6,0
+Wix,Tienda y web,559l7j1pnbxl,2026-02-18T17:16:44+00:00,2026-02-18T19:16:08+00:00,resolved,major,2,0
+Wix,Tienda y web,d8qmmvy976p4,2026-02-07T10:09:04+00:00,2026-02-07T12:25:43+00:00,resolved,minor,1,0
+Wix,Tienda y web,p7cgftcn8yqd,2025-12-31T11:40:30+00:00,2025-12-31T12:35:09+00:00,resolved,maintenance,1,0
+Wix,Tienda y web,c7k99fv749bp,2025-11-20T03:33:06+00:00,2025-11-20T08:32:10+00:00,resolved,none,1,0
+Wix,Tienda y web,z59y9g4gbfjk,2025-11-03T12:05:36+00:00,2025-11-03T12:16:41+00:00,resolved,major,1,0
+Wix,Tienda y web,h87tgbl5jm72,2025-10-22T12:43:42+00:00,2025-10-22T12:59:26+00:00,resolved,major,8,0
+Wix,Tienda y web,8p39wbkbpsf4,2025-10-16T15:28:59+00:00,2025-10-16T17:00:24+00:00,postmortem,major,1,0
+Wix,Tienda y web,4sjm8phm07tq,2025-09-15T12:19:33+00:00,2025-09-15T15:41:03+00:00,resolved,minor,1,0
+Wix,Tienda y web,yys03mmtcmxz,2025-08-27T23:36:38+00:00,2025-08-28T04:57:10+00:00,resolved,major,1,0
+Wix,Tienda y web,zmh8dq4b1hcz,2025-08-21T22:12:00+00:00,2025-08-22T04:40:03+00:00,resolved,minor,1,0
+Wix,Tienda y web,2830v8m9gppm,2025-08-20T22:49:56+00:00,2025-08-21T03:37:27+00:00,resolved,major,1,0
+Wix,Tienda y web,mr054jrv6bhp,2025-08-18T14:43:23+00:00,2025-08-18T17:49:58+00:00,resolved,major,1,0
+Wix,Tienda y web,lbb8f5w7dn2h,2025-08-18T07:42:18+00:00,2025-08-18T14:29:50+00:00,resolved,major,1,0
+Wix,Tienda y web,lgzr4dspxcfb,2025-08-14T22:44:08+00:00,2025-08-15T02:53:04+00:00,resolved,major,1,0
+Wix,Tienda y web,45xsbm8l3fhl,2025-08-14T00:55:54+00:00,2025-08-14T03:27:26+00:00,resolved,major,1,0
+Wix,Tienda y web,yyh4gtslnfnv,2025-08-12T12:28:41+00:00,2025-08-12T12:50:57+00:00,resolved,none,2,0
+Wix,Tienda y web,lw8927kcz345,2025-08-08T18:29:34+00:00,2025-08-08T18:47:36+00:00,resolved,major,90,0
+Wix,Tienda y web,24msbjt9xc9d,2025-08-08T16:48:48+00:00,2025-08-08T16:53:04+00:00,resolved,minor,3,0
+Wix,Tienda y web,hyt1449dfj7n,2025-08-08T12:54:22+00:00,2025-08-08T15:02:20+00:00,resolved,minor,4,0
+Wix,Tienda y web,b4dwx35fn9r4,2025-08-07T17:38:19+00:00,2025-08-07T19:00:03+00:00,postmortem,major,0,0
+Wix,Tienda y web,b3ywq5rn5ny6,2025-08-06T03:02:39+00:00,2025-08-06T03:24:19+00:00,resolved,minor,1,0
+Squarespace,Tienda y web,89yrdq5v3bxf,2026-10-21T06:41:14-04:00,2026-10-20T22:30:00-04:00,resolved,none,0,0
+Squarespace,Tienda y web,1pz7bq4z190p,2026-09-28T09:17:42-04:00,2026-09-28T10:06:08-04:00,resolved,major,3,0
+Squarespace,Tienda y web,kh77sr2kwjqg,2026-09-18T16:35:50-04:00,2026-09-22T15:25:08-04:00,resolved,major,1,0
+Squarespace,Tienda y web,q2r6jc35q7bf,2026-09-09T11:26:55-04:00,2026-09-08T11:28:00-04:00,resolved,major,0,0
+Squarespace,Tienda y web,f14k5bnfq3xx,2026-08-20T16:12:46-04:00,2026-08-21T09:56:16-04:00,resolved,minor,1,0
+Squarespace,Tienda y web,b3b2hzp4rbbk,2026-08-20T08:26:28-04:00,2026-08-20T10:30:16-04:00,resolved,minor,1,0
+Squarespace,Tienda y web,3jkt3qpcd5n8,2026-08-12T18:55:50-04:00,2026-08-12T19:12:34-04:00,resolved,critical,1,0
+Squarespace,Tienda y web,y8jvtxx0jv7f,2026-07-29T14:20:53-04:00,2026-07-29T15:47:53-04:00,resolved,major,4,0
+Squarespace,Tienda y web,s997p77zp0ll,2026-06-04T14:58:34-04:00,2026-06-04T15:30:13-04:00,resolved,critical,1,0
+Squarespace,Tienda y web,m5hk8njy4h4q,2026-05-20T13:45:45-04:00,2026-05-20T14:15:15-04:00,resolved,major,2,0
+Squarespace,Tienda y web,fsk182w4cjtk,2026-05-19T13:06:10-04:00,2026-05-19T13:35:44-04:00,resolved,major,1,0
+Squarespace,Tienda y web,7z3vhb1bg478,2026-04-28T06:17:45-04:00,2026-04-28T07:48:44-04:00,resolved,critical,1,0
+Squarespace,Tienda y web,ds387vglz970,2026-04-27T12:09:39-04:00,2026-04-27T18:20:35-04:00,resolved,minor,2,0
+Squarespace,Tienda y web,wh3sbh0f58l2,2026-04-27T13:12:46-04:00,2026-04-27T13:48:27-04:00,resolved,major,2,0
+Squarespace,Tienda y web,09z420765y10,2026-04-21T13:21:17-04:00,2026-04-21T14:41:56-04:00,resolved,major,1,0
+Squarespace,Tienda y web,s0h82s2gn024,2026-04-16T00:59:50-04:00,2026-04-16T01:23:37-04:00,resolved,maintenance,1,0
+Squarespace,Tienda y web,dk650b3n3h5k,2026-04-09T06:02:18-04:00,2026-04-09T07:22:36-04:00,resolved,minor,1,0
+Squarespace,Tienda y web,jgb9hw49q55s,2026-04-02T15:11:10-04:00,2026-04-02T15:29:30-04:00,resolved,none,5,0
+Squarespace,Tienda y web,sdy4jchg1mb3,2026-03-31T17:06:23-04:00,2026-03-31T18:01:36-04:00,postmortem,major,0,0
+Squarespace,Tienda y web,mf6wf0xnnjll,2026-03-31T13:40:22-04:00,2026-03-31T14:37:04-04:00,resolved,minor,0,0
+Squarespace,Tienda y web,2xrbw049lql2,2026-03-18T11:38:15-04:00,2026-03-18T12:56:37-04:00,resolved,major,1,0
+Squarespace,Tienda y web,zv2sqhnbk1hb,2026-03-10T09:35:33-04:00,2026-03-10T11:57:24-04:00,resolved,minor,2,0
+Squarespace,Tienda y web,rc2wxz40z0xv,2026-03-06T07:48:08-05:00,2026-03-06T08:31:12-05:00,resolved,minor,1,0
+Squarespace,Tienda y web,0s244pzwf3h8,2026-03-01T04:03:35-05:00,2026-03-01T06:13:26-05:00,resolved,major,1,0
+Squarespace,Tienda y web,vzyr2v0f59w7,2026-02-11T15:18:56-05:00,2026-02-11T17:00:34-05:00,resolved,major,1,0
+Squarespace,Tienda y web,pljhhyxcnt0z,2026-02-11T09:08:19-05:00,2026-02-11T10:57:34-05:00,resolved,major,0,0
+Squarespace,Tienda y web,m79nbsgt9v4x,2026-02-03T05:32:45-05:00,2026-02-03T08:00:38-05:00,resolved,major,1,0
+Squarespace,Tienda y web,byx41pnhzbbq,2026-01-28T12:51:14-05:00,2026-01-28T13:46:50-05:00,resolved,major,1,0
+Squarespace,Tienda y web,zvkg6n8921vz,2026-01-24T12:10:16-05:00,2026-01-24T15:34:35-05:00,resolved,minor,2,0
+Squarespace,Tienda y web,stwv888zg362,2026-01-12T06:05:26-05:00,2026-01-12T06:27:30-05:00,resolved,major,1,0
+Squarespace,Tienda y web,hfdjw3t755m9,2025-12-22T08:52:47-05:00,2025-12-22T10:37:56-05:00,resolved,major,1,0
+Squarespace,Tienda y web,khn1gwdyq3r7,2025-12-16T10:35:04-05:00,2025-12-16T14:32:39-05:00,resolved,major,1,0
+Squarespace,Tienda y web,n81gzh5r0j3x,2025-12-08T23:01:45-05:00,2025-12-09T00:32:15-05:00,resolved,minor,1,0
+Squarespace,Tienda y web,z23wzts5g535,2025-12-08T12:02:28-05:00,2025-12-08T13:23:08-05:00,resolved,major,1,0
+Squarespace,Tienda y web,jkd61dz6mbcr,2025-11-20T13:02:00-05:00,2025-11-20T13:16:34-05:00,resolved,none,1,0
+Squarespace,Tienda y web,gdtcwksfpp4w,2025-11-03T12:22:36-05:00,2025-11-03T13:55:49-05:00,resolved,critical,2,0
+Squarespace,Tienda y web,v6zxmlgd5tfn,2025-10-29T13:40:58-04:00,2025-10-29T17:31:51-04:00,resolved,major,1,0
+Squarespace,Tienda y web,0v4mns6414qp,2025-10-22T07:45:06-04:00,2025-10-23T09:29:23-04:00,resolved,none,1,0
+Squarespace,Tienda y web,8m65jcpj7vqw,2025-10-16T12:20:56-04:00,2025-10-16T13:04:02-04:00,resolved,major,2,0
+Squarespace,Tienda y web,0wh0fp4d6xvy,2025-10-15T10:41:15-04:00,2025-10-15T18:35:32-04:00,resolved,minor,2,0
+Squarespace,Tienda y web,7247p2zvg0ly,2025-10-01T12:48:19-04:00,2025-10-01T12:58:05-04:00,resolved,major,0,0
+Squarespace,Tienda y web,66x58dphns10,2025-09-30T23:02:33-04:00,2025-10-01T00:14:42-04:00,resolved,major,1,0
+Squarespace,Tienda y web,sqw4fzmjb2yp,2025-09-24T07:12:05-04:00,2025-09-24T09:36:45-04:00,resolved,minor,0,0
+Squarespace,Tienda y web,mv0jjcqkb9x6,2025-09-23T06:30:52-04:00,2025-09-23T18:03:57-04:00,resolved,minor,1,0
+Squarespace,Tienda y web,bf01k990bll7,2025-09-23T10:55:50-04:00,2025-09-23T11:24:16-04:00,resolved,critical,0,0
+Squarespace,Tienda y web,00n4jsjt4mgn,2025-09-16T14:04:49-04:00,2025-09-16T14:12:58-04:00,resolved,minor,0,0
+Squarespace,Tienda y web,vn2m8gsppnd8,2025-09-09T14:19:25-04:00,2025-09-09T15:26:05-04:00,resolved,major,1,0
+Squarespace,Tienda y web,s77bfscz81fh,2025-09-09T14:16:48-04:00,2025-09-09T14:16:48-04:00,resolved,none,0,0
+Squarespace,Tienda y web,kz55yg405t1q,2025-09-03T16:39:04-04:00,2025-09-03T19:33:37-04:00,resolved,minor,2,0
+Squarespace,Tienda y web,tnc5qj4pn0rj,2025-09-02T13:56:16-04:00,2025-09-02T14:13:05-04:00,resolved,critical,1,0
+Webflow,Tienda y web,cym3ppfwqbg9,2026-11-12T22:46:57+00:00,2026-11-12T22:00:00+00:00,resolved,minor,0,0
+Webflow,Tienda y web,86rblp7625n6,2026-11-10T17:07:19+00:00,2026-11-10T18:07:36+00:00,resolved,major,1,0
+Webflow,Tienda y web,x1bx4wyyvksr,2026-11-09T16:26:00+00:00,2026-11-09T23:54:49+00:00,resolved,major,1,0
+Webflow,Tienda y web,bgthjmnbbc4v,2026-11-09T19:52:45+00:00,2026-11-09T15:30:00+00:00,resolved,none,0,0
+Webflow,Tienda y web,83bnbyjm4194,2026-11-04T01:27:40+00:00,2026-11-04T02:39:14+00:00,resolved,critical,1,0
+Webflow,Tienda y web,br9bm7k124mt,2026-09-28T10:30:21+00:00,2026-09-28T15:04:06+00:00,resolved,none,1,0
+Webflow,Tienda y web,q37mhqrkgtyq,2026-09-21T00:45:48+00:00,2026-09-22T17:05:31+00:00,resolved,critical,1,0
+Webflow,Tienda y web,vrhggv5r9dy9,2026-09-17T09:30:46+00:00,2026-09-17T10:12:11+00:00,resolved,minor,1,0
+Webflow,Tienda y web,jbdhwd19s0k0,2026-09-15T09:06:38+00:00,2026-09-15T12:51:26+00:00,resolved,major,1,0
+Webflow,Tienda y web,szmkn3xjtl46,2026-09-14T14:31:35+00:00,2026-09-14T15:19:40+00:00,resolved,minor,4,0
+Webflow,Tienda y web,4tnmh35gm0mj,2026-08-25T22:00:57+00:00,2026-08-25T23:58:16+00:00,resolved,minor,4,0
+Webflow,Tienda y web,4qqp64sr7zly,2026-08-12T16:36:18+00:00,2026-08-13T01:18:03+00:00,resolved,minor,2,0
+Webflow,Tienda y web,dqqzv5vpt4qg,2026-08-05T15:27:45+00:00,2026-08-05T15:59:20+00:00,resolved,minor,1,0
+Webflow,Tienda y web,sr0yg8l5dhvf,2026-07-28T01:18:19+00:00,2026-07-28T02:13:14+00:00,resolved,minor,3,0
+Webflow,Tienda y web,2pp0vjr1p5f1,2026-07-19T05:14:56+00:00,2026-07-19T14:00:53+00:00,resolved,major,1,0
+Webflow,Tienda y web,t9yh9t59zks4,2026-07-10T19:31:25+00:00,2026-07-16T16:16:27+00:00,resolved,minor,1,0
+Webflow,Tienda y web,s406qp04wgkt,2026-07-15T00:21:29+00:00,2026-07-15T02:46:08+00:00,resolved,minor,5,0
+Webflow,Tienda y web,xfkjg1vw4y8j,2026-07-08T13:04:14+00:00,2026-07-08T18:34:17+00:00,resolved,minor,1,0
+Webflow,Tienda y web,8c7m51w01r2d,2026-07-06T20:22:00+00:00,2026-07-06T20:22:00+00:00,resolved,none,0,0
+Webflow,Tienda y web,c9n7tdd322v5,2026-07-02T00:00:36+00:00,2026-07-02T10:59:17+00:00,resolved,minor,2,0
+Webflow,Tienda y web,ybq8stcjsjrw,2026-06-11T20:44:59+00:00,2026-06-11T22:20:27+00:00,resolved,none,1,0
+Webflow,Tienda y web,r3vgxh9r0xt5,2026-06-05T23:42:40+00:00,2026-06-05T22:45:00+00:00,resolved,none,0,0
+Webflow,Tienda y web,jzkqfvgf138s,2026-05-20T17:29:09+00:00,2026-05-20T15:00:00+00:00,resolved,none,0,0
+Webflow,Tienda y web,nrxlqd7d0tsy,2026-05-18T12:52:12+00:00,2026-05-18T16:47:54+00:00,resolved,minor,1,0
+Webflow,Tienda y web,kdtchw1lvsfv,2026-04-14T18:07:12+00:00,2026-04-15T06:08:16+00:00,resolved,major,8,0
+Webflow,Tienda y web,ktbq3w1b87qp,2026-04-08T14:36:16+00:00,2026-04-08T15:37:32+00:00,resolved,critical,6,0
+Webflow,Tienda y web,ph5zl7qlgbc3,2026-04-08T03:10:06+00:00,2026-04-08T04:58:22+00:00,resolved,minor,1,0
+Webflow,Tienda y web,zd30v9sjtmb1,2026-04-02T05:30:31+00:00,2026-04-02T07:55:23+00:00,resolved,minor,1,0
+Webflow,Tienda y web,26knm6lx1bf1,2026-04-01T13:43:22+00:00,2026-04-01T14:51:26+00:00,resolved,minor,1,0
+Webflow,Tienda y web,3y96dzlhxpz8,2026-03-31T15:33:17+00:00,2026-03-31T19:02:04+00:00,resolved,minor,1,0
+Webflow,Tienda y web,8vrphk483c2v,2026-03-16T20:40:37+00:00,2026-03-16T23:52:17+00:00,resolved,minor,1,0
+Webflow,Tienda y web,vqsjqz6l7msb,2026-03-13T19:59:15+00:00,2026-03-13T20:49:55+00:00,resolved,major,2,0
+Webflow,Tienda y web,tjt7qscwhq7l,2026-03-10T20:45:45+00:00,2026-03-10T20:58:13+00:00,resolved,minor,1,0
+Webflow,Tienda y web,t84031v054np,2026-03-02T09:48:14+00:00,2026-03-02T15:08:44+00:00,resolved,minor,1,0
+Webflow,Tienda y web,jqd6v4lghsnv,2026-03-06T16:26:17+00:00,2026-02-26T20:00:00+00:00,resolved,none,0,0
+Webflow,Tienda y web,1x9kmymwnyzy,2026-02-20T15:24:54+00:00,2026-02-20T18:03:55+00:00,resolved,minor,1,0
+Webflow,Tienda y web,rf6jf7hl9l6w,2026-02-18T13:50:55+00:00,2026-02-18T14:47:35+00:00,resolved,minor,1,0
+Webflow,Tienda y web,vcbsg6r5t0h7,2026-02-10T16:11:44+00:00,2026-02-11T17:05:59+00:00,resolved,critical,1,0
+Webflow,Tienda y web,tzg02d69k7yf,2026-01-23T14:58:51+00:00,2026-01-23T16:54:41+00:00,resolved,minor,1,0
+Webflow,Tienda y web,9j0v5nj4x9w7,2025-12-05T09:01:41+00:00,2025-12-05T09:56:37+00:00,resolved,minor,2,0
+Webflow,Tienda y web,3591r3l83r1q,2025-11-18T12:13:08+00:00,2025-11-18T18:20:47+00:00,resolved,minor,3,0
+Webflow,Tienda y web,bqz1n3jhcv6t,2025-10-21T22:34:01+00:00,2025-10-21T23:18:49+00:00,resolved,major,3,0
+Webflow,Tienda y web,t0q4jjjdc5qk,2025-10-20T11:48:14+00:00,2025-10-21T01:31:57+00:00,resolved,major,4,0
+Webflow,Tienda y web,mtnnb69vq0f2,2025-10-02T14:39:19+00:00,2025-10-02T16:24:50+00:00,resolved,minor,6,0
+Webflow,Tienda y web,0q0tkm39wxg5,2025-09-30T12:25:38+00:00,2025-09-30T18:10:54+00:00,resolved,major,1,0
+Webflow,Tienda y web,vfk0b5zp84xs,2025-09-14T19:32:43+00:00,2025-09-15T00:44:00+00:00,resolved,minor,1,0
+Webflow,Tienda y web,zl876gfp8jzm,2025-09-04T18:45:00+00:00,2025-09-04T18:45:00+00:00,resolved,minor,0,0
+Webflow,Tienda y web,h99nwc7l95lg,2025-08-28T03:24:31+00:00,2025-08-28T04:21:30+00:00,resolved,minor,1,0
+Webflow,Tienda y web,zdq7jx84c6z7,2025-08-25T16:39:32+00:00,2025-08-25T18:58:28+00:00,resolved,critical,5,0
+Webflow,Tienda y web,7plz6jp8dhqf,2025-08-21T17:00:30+00:00,2025-08-21T19:54:39+00:00,resolved,major,6,0
+HubSpot,Ventas y marketing,1bnzcx15m9nc,2026-11-12T14:05:21-05:00,,identified,none,1,0
+HubSpot,Ventas y marketing,q56kl7p6m39t,2026-11-10T11:44:25-05:00,2026-11-10T12:36:23-05:00,resolved,none,1,0
+HubSpot,Ventas y marketing,4xd0hcvwnl3z,2026-11-02T05:28:35-05:00,2026-11-02T05:50:56-05:00,resolved,none,0,0
+HubSpot,Ventas y marketing,3kvm7m9d8f9n,2026-10-23T12:07:44-04:00,2026-10-23T14:55:12-04:00,resolved,none,11,0
+HubSpot,Ventas y marketing,1vjy2fdyvnv5,2026-10-21T21:38:39-04:00,2026-10-21T23:31:48-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,xsckxwrcnxj6,2026-10-08T10:45:26-04:00,2026-10-08T12:20:32-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,g4z43psyxtk4,2026-10-02T17:30:17-04:00,2026-10-02T19:22:49-04:00,resolved,none,3,0
+HubSpot,Ventas y marketing,glwb56rj5mht,2026-09-24T10:08:34-04:00,2026-09-24T17:26:38-04:00,resolved,none,1,0
+HubSpot,Ventas y marketing,65gbhbfwh0gx,2026-09-23T11:05:23-04:00,2026-09-23T11:17:58-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,z7hkyp1746jg,2026-09-08T12:21:29-04:00,2026-09-08T13:20:56-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,yxsf1xfb0rbc,2026-09-04T04:24:45-04:00,2026-09-04T05:44:36-04:00,resolved,none,1,0
+HubSpot,Ventas y marketing,bkyhbfqzmq64,2026-08-21T05:57:59-04:00,2026-08-21T08:27:52-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,3vcs2g9w5gkq,2026-08-13T15:56:56-04:00,2026-08-13T18:10:28-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,2f1882z0m8kn,2026-08-11T15:31:06-04:00,2026-08-11T15:45:30-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,bzf1jrz04yf0,2026-07-28T13:41:03-04:00,2026-07-28T15:40:35-04:00,resolved,none,1,0
+HubSpot,Ventas y marketing,4z923t829zgl,2026-07-23T12:42:55-04:00,2026-07-23T13:26:40-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,zs47jdnbyvzd,2026-07-22T03:47:36-04:00,2026-07-22T07:13:40-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,cpyqthtwy4n0,2026-07-14T12:31:48-04:00,2026-07-21T13:50:47-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,df8qrjrshqzb,2026-07-14T12:42:45-04:00,2026-07-14T12:42:45-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,cxjktj1kyk9s,2026-06-23T16:17:27-04:00,2026-06-23T16:55:28-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,xcysrlvlknx6,2026-06-22T10:22:45-04:00,2026-06-22T10:48:18-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,72t4s97kc9j5,2026-06-12T10:32:47-04:00,2026-06-12T14:36:55-04:00,resolved,none,3,0
+HubSpot,Ventas y marketing,cktbc6cqhkz3,2026-05-12T09:57:06-04:00,2026-05-12T10:55:40-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,f0s8vh3hsftw,2026-05-07T21:36:46-04:00,2026-05-07T23:14:35-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,4k84z8f1x5lz,2026-05-01T11:52:00-04:00,2026-05-02T15:31:09-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,yy3h78rnfbj3,2026-04-29T16:02:23-04:00,2026-04-30T11:10:51-04:00,resolved,none,1,0
+HubSpot,Ventas y marketing,71mpyt1c37x1,2026-04-30T09:59:49-04:00,2026-04-30T10:44:42-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,m83h7zzmd7cd,2026-04-21T11:25:14-04:00,2026-04-21T15:37:40-04:00,resolved,none,3,0
+HubSpot,Ventas y marketing,pmhsq86dzqq7,2026-04-16T15:23:47-04:00,2026-04-16T15:44:48-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,387sjsswxpq9,2026-04-16T11:16:51-04:00,2026-04-16T11:36:01-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,297ljj9hqs8d,2026-04-09T10:50:37-04:00,2026-04-09T12:53:17-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,qn0pk9lhyt58,2026-04-09T11:48:54-04:00,2026-04-09T12:20:12-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,kd1rctjfhf40,2026-04-08T16:51:42-04:00,2026-04-08T16:51:42-04:00,resolved,none,3,0
+HubSpot,Ventas y marketing,0vjc7f6mcrn1,2026-04-08T11:54:56-04:00,2026-04-08T11:54:56-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,bkzkl7p8ktsd,2026-04-07T11:24:28-04:00,2026-04-07T12:48:05-04:00,resolved,none,0,0
+HubSpot,Ventas y marketing,0ptmz2rwbgkn,2026-04-06T14:59:26-04:00,2026-04-06T15:08:12-04:00,resolved,none,9,0
+HubSpot,Ventas y marketing,xls0h0xmzlsc,2026-03-25T16:56:58-04:00,2026-03-25T17:17:51-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,llyjn0c6gkt9,2026-03-23T10:42:44-04:00,2026-03-23T11:22:33-04:00,resolved,none,2,0
+HubSpot,Ventas y marketing,7rl55kx1ygtt,2026-03-19T15:31:49-04:00,2026-03-19T15:41:57-04:00,resolved,none,1,0
+HubSpot,Ventas y marketing,9szm40l2fq2s,2026-03-05T06:39:50-05:00,2026-03-05T07:26:09-05:00,resolved,none,3,0
+HubSpot,Ventas y marketing,l33vwrtb3wft,2026-02-25T16:10:15-05:00,2026-02-25T16:37:49-05:00,resolved,none,1,0
+HubSpot,Ventas y marketing,q60qmxhzhpgn,2026-02-19T13:53:58-05:00,2026-02-19T13:54:54-05:00,resolved,none,1,0
+HubSpot,Ventas y marketing,l54pp3dn8mfw,2026-02-18T06:01:49-05:00,2026-02-18T07:24:12-05:00,resolved,none,8,0
+HubSpot,Ventas y marketing,lshd435ld783,2026-02-10T06:16:23-05:00,2026-02-10T06:42:02-05:00,resolved,none,1,0
+HubSpot,Ventas y marketing,66rl1888g229,2026-02-05T11:22:52-05:00,2026-02-05T16:41:03-05:00,resolved,none,1,0
+HubSpot,Ventas y marketing,zfvl63rsvxld,2026-02-05T16:06:20-05:00,2026-02-05T16:36:11-05:00,resolved,none,0,0
+HubSpot,Ventas y marketing,sjslp9w2mdxv,2026-01-29T06:28:46-05:00,2026-01-29T09:53:49-05:00,resolved,none,0,0
+HubSpot,Ventas y marketing,slg8k7fsd5yx,2026-01-20T12:43:14-05:00,2026-01-20T13:17:43-05:00,resolved,none,3,0
+HubSpot,Ventas y marketing,wplf9hlcr4zb,2026-01-15T00:47:16-05:00,2026-01-15T02:06:43-05:00,resolved,none,2,0
+HubSpot,Ventas y marketing,nxr81d43k292,2026-01-12T17:18:50-05:00,2026-01-12T18:47:42-05:00,resolved,none,2,0
+Klaviyo,Ventas y marketing,8ddxjfk4y44g,2026-11-04T11:17:39-05:00,2026-11-05T12:31:28-05:00,resolved,major,2,0
+Klaviyo,Ventas y marketing,tdcqhft1x8z1,2026-10-28T17:49:34-04:00,2026-10-29T17:32:09-04:00,resolved,none,5,0
+Klaviyo,Ventas y marketing,knd3s9n9g0r7,2026-10-29T10:55:20-04:00,2026-10-29T13:05:34-04:00,resolved,major,4,0
+Klaviyo,Ventas y marketing,nj25d3gpt40s,2026-10-22T18:20:18-04:00,2026-10-23T09:06:55-04:00,resolved,major,1,0
+Klaviyo,Ventas y marketing,h0nhg0mtrj77,2026-10-17T13:01:54-04:00,2026-10-17T17:51:17-04:00,resolved,major,6,0
+Klaviyo,Ventas y marketing,dt2fws10gk39,2026-10-08T20:10:47-04:00,2026-10-08T22:16:42-04:00,resolved,minor,3,0
+Klaviyo,Ventas y marketing,md2rzk68vrxg,2026-10-08T11:00:35-04:00,2026-10-08T12:13:11-04:00,resolved,critical,1,0
+Klaviyo,Ventas y marketing,lgsrzlm9sz0k,2026-09-21T11:56:19-04:00,2026-09-21T13:58:56-04:00,resolved,minor,5,0
+Klaviyo,Ventas y marketing,3h6wkp1qr6x3,2026-09-17T13:10:36-04:00,2026-09-17T15:46:01-04:00,resolved,minor,5,0
+Klaviyo,Ventas y marketing,kkw09rg9ksxx,2026-09-14T17:30:27-04:00,2026-09-14T21:51:39-04:00,resolved,minor,5,0
+Klaviyo,Ventas y marketing,yzp1vdx39dl6,2026-08-26T20:09:09-04:00,2026-08-26T23:42:40-04:00,resolved,major,5,0
+Klaviyo,Ventas y marketing,b62drcz1c2qv,2026-08-19T13:15:00-04:00,2026-08-19T14:38:26-04:00,resolved,minor,2,0
+Klaviyo,Ventas y marketing,vbszswghtv4g,2026-08-12T14:04:44-04:00,2026-08-12T14:14:02-04:00,resolved,none,4,0
+Klaviyo,Ventas y marketing,g593m5k2rzmn,2026-08-05T12:47:20-04:00,2026-08-05T13:54:54-04:00,resolved,minor,3,0
+Klaviyo,Ventas y marketing,5ngb0z9wxkqy,2026-07-23T10:35:48-04:00,2026-07-23T12:01:54-04:00,resolved,minor,6,0
+Klaviyo,Ventas y marketing,lmb1bgttxw5x,2026-07-21T16:36:37-04:00,2026-07-21T17:09:28-04:00,resolved,major,2,0
+Klaviyo,Ventas y marketing,hkgllq0dj71h,2026-07-08T21:52:37-04:00,2026-07-10T17:01:13-04:00,resolved,minor,6,0
+Klaviyo,Ventas y marketing,vnn41ypbktc9,2026-07-07T11:33:07-04:00,2026-07-07T12:56:44-04:00,resolved,minor,3,0
+Klaviyo,Ventas y marketing,0s66874fm4zc,2026-07-02T08:17:28-04:00,2026-07-02T10:17:54-04:00,resolved,minor,1,0
+Klaviyo,Ventas y marketing,bg6k39l6bpgn,2026-06-12T10:49:26-04:00,2026-06-12T13:30:24-04:00,resolved,major,4,0
+Klaviyo,Ventas y marketing,tfnf1c3sy4sy,2026-06-10T14:47:35-04:00,2026-06-10T15:46:14-04:00,resolved,minor,0,0
+Klaviyo,Ventas y marketing,clb7hzrrcj97,2026-06-08T17:10:28-04:00,2026-06-08T20:49:37-04:00,resolved,minor,1,0
+Klaviyo,Ventas y marketing,3sh5m87wtk20,2026-06-06T13:18:06-04:00,2026-06-06T19:05:30-04:00,resolved,critical,1,0
+Klaviyo,Ventas y marketing,y3hyj017l3z4,2026-06-03T10:23:48-04:00,2026-06-03T13:16:10-04:00,resolved,major,1,0
+Klaviyo,Ventas y marketing,d6xb8b8hyd7y,2026-05-19T16:36:08-04:00,2026-05-19T20:30:10-04:00,resolved,minor,4,0
+Klaviyo,Ventas y marketing,nkh6pdnkl1h2,2026-05-19T12:11:04-04:00,2026-05-19T13:38:07-04:00,resolved,minor,5,0
+Klaviyo,Ventas y marketing,q7mhx2b18b56,2026-05-08T11:02:26-04:00,2026-05-08T20:31:33-04:00,resolved,minor,2,0
+Klaviyo,Ventas y marketing,t5nwjvl3jf78,2026-05-07T21:32:26-04:00,2026-05-08T15:05:10-04:00,resolved,minor,4,0
+Klaviyo,Ventas y marketing,yyh7s59brj67,2026-05-05T17:24:35-04:00,2026-05-07T19:02:46-04:00,resolved,critical,15,0
+Klaviyo,Ventas y marketing,pcfm8kkzbmkl,2026-04-26T03:24:30-04:00,2026-04-26T04:11:07-04:00,resolved,minor,1,0
+Klaviyo,Ventas y marketing,k106gdf6wbw8,2026-03-27T00:46:08-04:00,2026-03-27T01:15:45-04:00,resolved,major,1,0
+Klaviyo,Ventas y marketing,xpd2q1gf4vg7,2026-01-12T06:12:50-05:00,2026-01-12T07:23:38-05:00,resolved,major,3,0
+Klaviyo,Ventas y marketing,cm84yc4mk981,2025-12-22T17:37:04-05:00,2025-12-22T19:07:09-05:00,resolved,none,0,0
+Klaviyo,Ventas y marketing,g1c5f6xjg4mj,2025-12-17T23:10:13-05:00,2025-12-18T01:36:12-05:00,resolved,minor,6,0
+Klaviyo,Ventas y marketing,r62mb32zztb1,2025-12-16T20:11:32-05:00,2025-12-16T20:49:08-05:00,resolved,major,0,0
+Klaviyo,Ventas y marketing,ncpm2nh38xz4,2025-12-05T05:42:00-05:00,2025-12-05T04:00:00-05:00,resolved,none,0,0
+Klaviyo,Ventas y marketing,2n6xvpbvr7zs,2025-12-03T14:57:29-05:00,2025-12-03T15:36:12-05:00,resolved,major,1,0
+Klaviyo,Ventas y marketing,7qx79mck6bkz,2025-11-28T15:27:43-05:00,2025-11-28T17:05:46-05:00,resolved,major,3,0
+Klaviyo,Ventas y marketing,1ht269mmldck,2025-11-18T08:58:57-05:00,2025-11-18T14:06:19-05:00,resolved,major,4,0
+Klaviyo,Ventas y marketing,2cxrb47jcxkb,2025-11-02T02:03:55-05:00,2025-11-02T12:41:46-05:00,resolved,none,1,0
+Klaviyo,Ventas y marketing,6p557b6qv9z3,2025-10-29T14:16:51-04:00,2025-10-29T15:43:33-04:00,resolved,minor,3,0
+Klaviyo,Ventas y marketing,0gsrjrjlsyff,2025-10-23T20:23:50-04:00,2025-10-23T20:23:50-04:00,resolved,none,1,0
+Klaviyo,Ventas y marketing,gdrn9xtmn7ff,2025-10-20T04:58:32-04:00,2025-10-21T13:06:29-04:00,resolved,critical,22,0
+Klaviyo,Ventas y marketing,1lr6z58xsxzb,2025-10-02T13:43:42-04:00,2025-10-02T13:59:42-04:00,resolved,none,4,0
+Klaviyo,Ventas y marketing,fhb6rjxbdqc8,2025-09-30T22:16:38-04:00,2025-09-30T22:31:54-04:00,resolved,major,1,0
+Klaviyo,Ventas y marketing,6krg83lnqc1t,2025-09-19T09:38:35-04:00,2025-09-29T09:27:47-04:00,resolved,minor,1,0
+Klaviyo,Ventas y marketing,mbq71wswt1wm,2025-09-19T10:38:05-04:00,2025-09-19T16:24:52-04:00,resolved,minor,3,0
+Klaviyo,Ventas y marketing,nwljr8tmh1vl,2025-09-16T17:05:33-04:00,2025-09-16T17:21:22-04:00,resolved,minor,1,0
+Klaviyo,Ventas y marketing,g4ycrmnhr395,2025-09-03T17:32:46-04:00,2025-09-03T18:56:30-04:00,resolved,minor,1,0
+Klaviyo,Ventas y marketing,799s1csv07hs,2025-09-03T05:53:41-04:00,2025-09-03T09:08:02-04:00,resolved,minor,1,0
+Twilio,Ventas y marketing,96rtw37d419f,2026-11-12T20:48:43-08:00,2026-11-13T00:00:45-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,4k46qbs6xxqf,2026-11-12T21:08:03-08:00,2026-11-12T21:55:42-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,w77cc8rwmqvh,2026-11-12T12:32:19-08:00,2026-11-12T19:12:31-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,njg7qwj02b11,2026-11-12T18:33:54-08:00,2026-11-12T19:02:00-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,nh00k6r6zvv3,2026-11-12T14:58:51-08:00,2026-11-12T15:28:35-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,wxx5q2r5vx9m,2026-11-12T09:46:37-08:00,2026-11-12T15:20:53-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,6p2wl8t70k1l,2026-11-12T06:01:25-08:00,2026-11-12T14:41:57-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,byymx2cv0kt1,2026-11-12T14:31:15-08:00,,investigating,minor,1,0
+Twilio,Ventas y marketing,7h6p6ss3xrnm,2026-11-12T11:42:49-08:00,,identified,minor,1,0
+Twilio,Ventas y marketing,c2vl7fv0pcp5,2026-11-12T05:29:12-08:00,2026-11-12T10:42:55-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,pchpdpqpp1gw,2026-11-12T04:27:04-08:00,2026-11-12T09:34:00-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,gd0nmpb378d3,2026-11-12T08:53:51-08:00,,identified,minor,1,0
+Twilio,Ventas y marketing,9hm1tys35d8h,2026-11-11T13:46:28-08:00,2026-11-12T06:16:10-08:00,resolved,minor,2,0
+Twilio,Ventas y marketing,3wnqqyl8bc8q,2026-11-11T15:18:56-08:00,2026-11-12T05:25:17-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,9c1cdsnqqvxw,2026-11-11T14:58:54-08:00,2026-11-12T02:18:42-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,n3f0n7xjjz3c,2026-11-11T17:58:31-08:00,2026-11-11T22:02:11-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,v347p1ml2c9d,2026-11-11T13:43:29-08:00,2026-11-11T21:06:59-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,jyw9v4ddz0yv,2026-11-11T17:17:56-08:00,2026-11-11T18:37:01-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,92v8498d3t72,2026-11-11T18:20:40-08:00,2026-11-11T18:24:35-08:00,resolved,minor,3,0
+Twilio,Ventas y marketing,3ghx15tprwfg,2026-11-11T17:43:20-08:00,,identified,minor,1,0
+Twilio,Ventas y marketing,7m8xfqw64k00,2026-11-11T10:58:50-08:00,2026-11-11T14:50:01-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,l93mr4lswlmh,2026-11-11T04:55:02-08:00,2026-11-11T08:49:56-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,rh9nv71p60c0,2026-11-10T17:52:22-08:00,2026-11-10T17:52:22-08:00,resolved,none,0,0
+Twilio,Ventas y marketing,q8chzgrcb848,2026-11-10T13:32:14-08:00,2026-11-10T15:15:57-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,050yk57fph8d,2026-11-10T09:57:06-08:00,2026-11-10T13:23:07-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,d7cx8sdb4hr8,2026-11-09T21:42:49-08:00,2026-11-10T08:06:05-08:00,resolved,minor,2,0
+Twilio,Ventas y marketing,vlkzb7kzsr3g,2026-11-09T12:32:47-08:00,2026-11-10T05:02:00-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,fl6ndjltfkp3,2026-11-09T08:53:55-08:00,2026-11-10T04:14:23-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,7c7px61stky2,2026-11-09T05:59:18-08:00,2026-11-09T19:30:54-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,91slf66q53vx,2026-11-08T22:57:09-08:00,2026-11-09T15:05:39-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,jlw5t054g7jt,2026-11-09T08:34:05-08:00,2026-11-09T13:52:55-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,sjmv56s3m0j9,2026-11-09T08:18:52-08:00,2026-11-09T11:33:07-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,l7tzq9gk12k8,2026-11-09T07:45:28-08:00,2026-11-09T11:11:44-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,ftg4m9bxt7wt,2026-11-08T23:38:30-08:00,2026-11-09T08:19:07-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,fm5fk85h6glc,2026-10-12T04:53:33-07:00,2026-11-09T00:35:48-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,dxdxr2tzkzkd,2026-11-06T18:57:55-08:00,2026-11-08T22:26:40-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,rg1ppj2b00hz,2026-11-08T15:19:19-08:00,2026-11-08T21:20:01-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,x2w2p6b9d9dr,2026-11-08T06:58:56-08:00,2026-11-08T21:11:44-08:00,resolved,minor,4,0
+Twilio,Ventas y marketing,jnx2660mnhkl,2026-11-07T11:37:03-08:00,2026-11-08T09:13:19-08:00,resolved,minor,3,0
+Twilio,Ventas y marketing,9tfsyfgf6sxx,2026-11-07T13:22:59-08:00,2026-11-08T02:39:37-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,by1px810vb67,2026-11-07T05:00:28-08:00,2026-11-07T08:39:48-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,ry5cj1mk6r60,2026-11-05T10:34:08-08:00,2026-11-06T19:55:18-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,n13tys18mwkt,2026-11-05T15:33:06-08:00,2026-11-06T14:07:14-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,jjnny3n3b4pp,2026-10-26T06:09:40-07:00,2026-11-06T13:36:29-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,m5yrng0zkwr5,2026-11-06T13:21:41-08:00,,identified,minor,1,0
+Twilio,Ventas y marketing,8xn89j4cllbj,2026-11-06T09:24:00-08:00,2026-11-06T13:10:06-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,w3fds6d06pn3,2026-11-06T07:56:27-08:00,2026-11-06T11:41:14-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,hrghhx98wx17,2026-11-06T08:53:27-08:00,2026-11-06T10:49:12-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,k837lh2xzwh0,2026-11-06T07:12:49-08:00,2026-11-06T07:49:17-08:00,resolved,minor,1,0
+Twilio,Ventas y marketing,f2mwx4r30hnd,2026-11-05T14:50:44-08:00,2026-11-06T06:49:03-08:00,resolved,minor,1,0
+Typeform,Ventas y marketing,694nn562ft2l,2026-08-07T15:37:22+02:00,2026-08-07T20:37:18+02:00,resolved,major,3,0
+Typeform,Ventas y marketing,qmplvzvv4cyv,2026-08-07T13:21:27+02:00,2026-08-07T14:12:33+02:00,resolved,critical,3,0
+Typeform,Ventas y marketing,kr7r3tzv59gm,2026-08-07T10:43:39+02:00,2026-08-07T11:22:24+02:00,resolved,critical,2,0
+Typeform,Ventas y marketing,r7s68b5zt10r,2026-03-25T11:42:26+01:00,2026-03-25T11:57:07+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,2pmyxt0p4g1x,2026-01-20T15:57:41+01:00,2026-01-20T16:07:59+01:00,resolved,critical,1,0
+Typeform,Ventas y marketing,nblhjwq16lzr,2025-11-14T16:57:35+01:00,2025-11-14T17:09:26+01:00,resolved,major,1,0
+Typeform,Ventas y marketing,340dprxbjtnc,2025-10-20T12:01:25+02:00,2025-10-20T12:01:25+02:00,resolved,none,27,0
+Typeform,Ventas y marketing,zsld0vj4d0nr,2025-09-18T14:37:59+02:00,2025-09-18T15:12:17+02:00,resolved,minor,1,0
+Typeform,Ventas y marketing,qjnbgv3bz24h,2025-09-10T13:49:41+02:00,2025-09-10T14:09:45+02:00,resolved,major,3,0
+Typeform,Ventas y marketing,yhmn25h2nv0b,2025-07-28T10:55:25+02:00,2025-07-28T11:17:45+02:00,resolved,critical,1,0
+Typeform,Ventas y marketing,75h57m5rsxvb,2025-07-17T17:55:56+02:00,2025-07-17T18:15:12+02:00,resolved,major,2,0
+Typeform,Ventas y marketing,bpf66mtmfsl1,2025-06-12T10:14:42+02:00,2025-06-12T10:20:37+02:00,resolved,critical,1,0
+Typeform,Ventas y marketing,11wsyr2z0r0q,2025-06-03T17:58:22+02:00,2025-06-03T20:22:01+02:00,resolved,critical,4,0
+Typeform,Ventas y marketing,1b7lvlfcg42d,2025-05-30T17:34:44+02:00,2025-05-30T18:22:19+02:00,resolved,minor,1,0
+Typeform,Ventas y marketing,m79b3sbfgwcp,2025-04-21T12:30:53+02:00,2025-04-21T12:59:00+02:00,resolved,major,1,0
+Typeform,Ventas y marketing,9szvym1lh824,2025-01-10T14:32:06+01:00,2025-01-10T17:53:18+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,76pjwpjsnm42,2024-12-30T11:20:33+01:00,2024-12-30T15:17:22+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,1nhl7v4wgr93,2024-12-10T18:41:46+01:00,2024-12-10T18:54:08+01:00,resolved,major,1,0
+Typeform,Ventas y marketing,9qsknmrpblqc,2024-11-08T22:28:43+01:00,2024-11-08T23:22:18+01:00,resolved,major,2,0
+Typeform,Ventas y marketing,16d7s1777lrb,2024-10-28T12:21:24+01:00,2024-10-28T13:39:29+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,1y9pkmgwjxxh,2024-10-28T08:33:24+01:00,2024-10-28T08:33:24+01:00,resolved,none,1,0
+Typeform,Ventas y marketing,dq56mtd9qtd5,2024-10-21T15:32:36+02:00,2024-10-21T18:01:09+02:00,resolved,minor,3,0
+Typeform,Ventas y marketing,8n64g554qrnc,2024-10-07T15:28:16+02:00,2024-10-08T10:02:10+02:00,resolved,major,2,0
+Typeform,Ventas y marketing,zdrg6m6zqxwr,2024-10-07T16:04:40+02:00,2024-10-07T17:19:44+02:00,resolved,major,1,0
+Typeform,Ventas y marketing,9w2sbj6hz17s,2024-10-07T15:54:06+02:00,2024-10-07T16:54:50+02:00,resolved,major,1,0
+Typeform,Ventas y marketing,stkkb13cdbth,2024-09-04T16:21:51+02:00,2024-09-04T16:56:36+02:00,resolved,minor,1,0
+Typeform,Ventas y marketing,56385crnmm0p,2024-08-29T11:47:43+02:00,2024-08-29T12:12:36+02:00,resolved,none,0,0
+Typeform,Ventas y marketing,3gq21rk5fdpt,2024-08-19T15:08:39+02:00,2024-08-19T15:24:44+02:00,resolved,critical,2,0
+Typeform,Ventas y marketing,lm6gj0ptvv6x,2024-08-05T15:20:52+02:00,2024-08-05T15:51:12+02:00,resolved,major,1,0
+Typeform,Ventas y marketing,mvl1m07svqv2,2024-07-30T20:10:53+02:00,2024-07-30T21:53:02+02:00,resolved,major,1,0
+Typeform,Ventas y marketing,qwdyd3s5n13v,2024-07-18T17:12:02+02:00,2024-07-18T17:32:04+02:00,resolved,minor,1,0
+Typeform,Ventas y marketing,s20sx80ylk1x,2024-07-08T20:59:05+02:00,2024-07-08T22:13:49+02:00,resolved,minor,3,0
+Typeform,Ventas y marketing,j9y75l9ct17n,2024-06-25T13:45:35+02:00,2024-06-25T14:23:30+02:00,resolved,major,1,0
+Typeform,Ventas y marketing,rmv1cnss04x4,2024-06-20T20:20:36+02:00,2024-06-21T21:37:27+02:00,resolved,major,1,0
+Typeform,Ventas y marketing,83tktgk6k9v9,2024-06-17T10:39:46+02:00,2024-06-17T11:43:45+02:00,resolved,minor,1,0
+Typeform,Ventas y marketing,ltslcfq1zh85,2024-04-12T13:23:12+02:00,2024-04-12T13:27:45+02:00,resolved,minor,1,0
+Typeform,Ventas y marketing,w1l2vwk56jk2,2024-03-24T10:51:28+01:00,2024-03-24T12:17:07+01:00,resolved,critical,27,0
+Typeform,Ventas y marketing,c9nzgbb10ft7,2024-03-22T18:14:51+01:00,2024-03-22T18:32:44+01:00,resolved,minor,3,0
+Typeform,Ventas y marketing,04ydr0r42bdv,2024-03-18T08:37:11+01:00,2024-03-18T08:47:08+01:00,resolved,critical,1,0
+Typeform,Ventas y marketing,cfbbkpnxcn84,2024-03-07T13:28:01+01:00,2024-03-08T10:16:35+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,rk2xmyd3wc9c,2024-02-23T13:00:37+01:00,2024-02-23T13:37:11+01:00,resolved,critical,4,0
+Typeform,Ventas y marketing,vlcq7s8ppxhp,2024-02-13T14:15:43+01:00,2024-02-13T14:46:51+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,rtwx6kg1bgql,2024-02-07T14:02:41+01:00,2024-02-09T14:24:03+01:00,resolved,minor,3,0
+Typeform,Ventas y marketing,dwtrvwjlwq7l,2024-02-08T15:24:40+01:00,2024-02-08T16:02:13+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,z99kp23xfpkv,2024-02-07T17:07:03+01:00,2024-02-07T19:43:47+01:00,resolved,minor,2,0
+Typeform,Ventas y marketing,d2d4m6nnf8ks,2024-01-18T12:18:32+01:00,2024-01-18T14:00:19+01:00,resolved,minor,2,0
+Typeform,Ventas y marketing,mbzcf3mpbk4t,2024-01-17T22:59:19+01:00,2024-01-17T22:59:19+01:00,resolved,none,1,0
+Typeform,Ventas y marketing,9zjmy01w6fmz,2024-01-09T18:10:36+01:00,2024-01-13T00:15:52+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,03c1g3xn6h6p,2023-12-06T10:04:26+01:00,2023-12-06T11:04:59+01:00,resolved,minor,1,0
+Typeform,Ventas y marketing,fwd1kyr71rqr,2023-12-05T14:15:26+01:00,2023-12-05T15:03:32+01:00,resolved,minor,3,0
+Zoom,Comunicación,8n4n9nsqcl33,2026-11-12T11:24:50-08:00,,identified,minor,3,0
+Zoom,Comunicación,1mgtnfzf421k,2026-11-11T18:21:49-08:00,2026-11-11T20:45:37-08:00,resolved,minor,3,0
+Zoom,Comunicación,w90fknmg0pn6,2026-11-10T12:25:54-08:00,2026-11-10T15:00:55-08:00,resolved,minor,1,0
+Zoom,Comunicación,k0nc9gcc8rvv,2026-11-09T17:08:06-08:00,2026-11-09T17:08:07-08:00,resolved,none,2,0
+Zoom,Comunicación,24hyksy87wl0,2026-11-08T16:07:48-08:00,2026-11-08T17:08:13-08:00,resolved,minor,2,0
+Zoom,Comunicación,pmmkv8mbtxln,2026-11-05T19:32:15-08:00,2026-11-05T21:09:23-08:00,resolved,minor,3,0
+Zoom,Comunicación,rbz47jx96k44,2026-11-03T09:18:52-08:00,2026-11-03T17:10:18-08:00,resolved,minor,1,0
+Zoom,Comunicación,chd978s7g6p9,2026-10-28T07:31:21-07:00,2026-10-29T00:06:53-07:00,resolved,minor,1,0
+Zoom,Comunicación,dl0gnrg0pz68,2026-10-22T12:16:27-07:00,2026-10-23T10:35:00-07:00,resolved,minor,1,0
+Zoom,Comunicación,gv1zrhmzdw9m,2026-10-23T09:16:25-07:00,2026-10-23T09:48:11-07:00,resolved,minor,4,0
+Zoom,Comunicación,27cv8n1w352d,2026-10-21T07:43:51-07:00,2026-10-21T09:25:01-07:00,resolved,minor,1,0
+Zoom,Comunicación,bk0hqxnhy3w8,2026-10-19T16:27:43-07:00,2026-10-19T18:18:16-07:00,resolved,minor,1,0
+Zoom,Comunicación,jbl3clyk91xs,2026-10-19T06:32:56-07:00,2026-10-19T16:31:10-07:00,resolved,minor,1,0
+Zoom,Comunicación,97hk3qsyf1hv,2026-10-18T17:14:34-07:00,2026-10-18T17:31:03-07:00,resolved,none,1,0
+Zoom,Comunicación,6kggw3z5ht7k,2026-10-16T23:10:45-07:00,2026-10-16T23:56:58-07:00,resolved,minor,2,0
+Zoom,Comunicación,7j0c0s1k4cpv,2026-10-13T19:03:12-07:00,2026-10-14T12:58:30-07:00,resolved,minor,1,0
+Zoom,Comunicación,dtzdcfnh2j6w,2026-10-14T10:03:18-07:00,2026-10-14T10:19:14-07:00,resolved,none,1,0
+Zoom,Comunicación,1f92zl019hrl,2026-10-14T02:39:17-07:00,2026-10-14T02:44:25-07:00,resolved,none,1,0
+Zoom,Comunicación,651n9kct43df,2026-10-13T02:32:46-07:00,2026-10-13T09:22:43-07:00,resolved,none,2,0
+Zoom,Comunicación,5bxhmvy9byj5,2026-10-12T04:09:38-07:00,2026-10-12T04:20:51-07:00,resolved,none,1,0
+Zoom,Comunicación,w91tx12w9scz,2026-10-11T15:29:02-07:00,2026-10-11T17:42:19-07:00,resolved,minor,1,0
+Zoom,Comunicación,blhq9k8p1tl1,2026-10-10T01:54:23-07:00,2026-10-10T02:10:07-07:00,resolved,none,1,0
+Zoom,Comunicación,pxxs3nsvn2rx,2026-09-25T10:45:29-07:00,2026-10-09T21:41:24-07:00,resolved,minor,1,0
+Zoom,Comunicación,q9j1vyvhkymw,2026-10-09T07:17:53-07:00,2026-10-09T07:29:33-07:00,resolved,none,2,0
+Zoom,Comunicación,9xdk3ntx37pr,2026-10-06T19:08:18-07:00,2026-10-06T21:47:08-07:00,resolved,minor,1,0
+Zoom,Comunicación,8htxnr17zkfz,2026-10-06T19:41:42-07:00,2026-10-06T20:58:27-07:00,resolved,minor,1,0
+Zoom,Comunicación,2v93lly7z5t6,2026-10-06T20:30:23-07:00,2026-10-06T20:42:30-07:00,resolved,none,1,0
+Zoom,Comunicación,61pdlhyvzb1j,2026-10-05T14:57:07-07:00,2026-10-05T15:21:57-07:00,resolved,minor,1,0
+Zoom,Comunicación,jyxf96kz3q42,2026-10-04T16:19:07-07:00,2026-10-04T17:41:25-07:00,resolved,minor,4,0
+Zoom,Comunicación,tqm0xyzlhqr5,2026-10-04T01:05:44-07:00,2026-10-04T01:20:34-07:00,resolved,none,2,0
+Zoom,Comunicación,q8n9qzvl5p5x,2026-10-03T09:49:15-07:00,2026-10-03T11:43:55-07:00,resolved,minor,1,0
+Zoom,Comunicación,jzmg28568r94,2026-10-01T09:08:55-07:00,2026-10-01T10:53:34-07:00,resolved,none,12,0
+Zoom,Comunicación,m97ll3p8294p,2026-10-01T04:52:48-07:00,2026-10-01T09:21:53-07:00,resolved,minor,1,0
+Zoom,Comunicación,5xcd1035bxmw,2026-09-29T18:07:06-07:00,2026-09-29T18:20:41-07:00,resolved,maintenance,2,0
+Zoom,Comunicación,8jrvd62hmxl2,2026-09-28T15:15:44-07:00,2026-09-28T16:35:55-07:00,resolved,minor,4,0
+Zoom,Comunicación,w6yw2bsy2sv5,2026-09-25T02:20:34-07:00,2026-09-26T00:03:23-07:00,resolved,none,1,0
+Zoom,Comunicación,xp0ql5vdl4s3,2026-09-24T08:47:39-07:00,2026-09-24T14:57:33-07:00,resolved,minor,1,0
+Zoom,Comunicación,7141vhn0mb9s,2026-09-24T04:19:15-07:00,2026-09-24T06:42:38-07:00,resolved,minor,2,0
+Zoom,Comunicación,0w2z4s8wp36n,2026-09-23T16:43:00-07:00,2026-09-23T18:47:25-07:00,resolved,minor,1,0
+Zoom,Comunicación,xfcfwmvq698k,2026-09-22T18:55:36-07:00,2026-09-22T19:16:38-07:00,resolved,none,1,0
+Zoom,Comunicación,b9qd1hcw1zqk,2026-09-21T11:17:47-07:00,2026-09-22T10:57:12-07:00,resolved,minor,1,0
+Zoom,Comunicación,xxp0hsz2qxtn,2026-09-22T03:19:04-07:00,2026-09-22T03:32:10-07:00,resolved,none,1,0
+Zoom,Comunicación,bx7sj77rnyd5,2026-09-21T08:45:49-07:00,2026-09-21T09:33:11-07:00,resolved,minor,2,0
+Zoom,Comunicación,gbc9rjs7l531,2026-09-18T15:45:28-07:00,2026-09-18T16:03:24-07:00,resolved,none,1,0
+Zoom,Comunicación,ytbj8471t5mg,2026-09-15T21:00:15-07:00,2026-09-15T21:35:49-07:00,resolved,minor,1,0
+Zoom,Comunicación,g4m0gcb6hq9f,2026-09-15T11:22:00-07:00,2026-09-15T11:36:33-07:00,resolved,none,1,0
+Zoom,Comunicación,mccmbk9ldg23,2026-09-10T08:53:26-07:00,2026-09-10T21:08:08-07:00,resolved,none,4,0
+Zoom,Comunicación,16ybxfmc0k5c,2026-09-10T11:22:50-07:00,2026-09-10T11:38:51-07:00,resolved,none,3,0
+Zoom,Comunicación,0hgqwjz0lzwf,2026-09-10T09:57:37-07:00,2026-09-10T10:06:28-07:00,resolved,none,1,0
+Zoom,Comunicación,k078znmg55zj,2026-09-08T18:09:45-07:00,2026-09-09T17:12:53-07:00,resolved,none,3,0
+Notion,Trabajo en equipo,01M78NX55B86FBTY90PH64KV7R,2026-11-12T20:06:39+00:00,,investigating,minor,0,0
+Notion,Trabajo en equipo,01M73GD2431C577QYYH7W6TMNQ,2026-11-10T19:54:16+00:00,2026-11-10T22:14:05+00:00,resolved,major,0,0
+Notion,Trabajo en equipo,01M5K1RNRANQ1YWEAF2W6R0N51,2026-10-23T00:14:55+00:00,2026-10-26T18:24:26+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M5DAZNPJ8FSBQWMJKE39QH9N,2026-10-20T19:00:35+00:00,2026-10-26T18:23:55+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M5KDD3F5QY6FNBRV6P3RK4PK,2026-10-23T03:38:19+00:00,2026-10-23T06:44:30+00:00,resolved,critical,0,0
+Notion,Trabajo en equipo,01M5GT4J4EF9Z9R6M4KD9AY21Q,2026-10-22T03:23:07+00:00,2026-10-22T04:42:09+00:00,resolved,major,0,0
+Notion,Trabajo en equipo,01M4V4AG3010QFBRFHFP5ZGH1W,2026-10-13T17:17:50+00:00,2026-10-21T18:56:19+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M5DA6BAN51BD0SQJ54126TA6,2026-10-20T18:46:45+00:00,2026-10-21T14:43:47+00:00,resolved,major,0,0
+Notion,Trabajo en equipo,01M57DT1F43CWM25BQGQD9SCAR,2026-10-18T11:54:30+00:00,2026-10-18T15:51:31+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M4YA1ASXY5B66Q8V6P7GBEP6,2026-10-14T22:55:25+00:00,2026-10-15T02:34:39+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M4VJ4MC4SENVT5DWY1X3YAFV,2026-10-13T21:19:18+00:00,2026-10-14T05:08:13+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M489WNH5B83SH2FW7A2H0PWP,2026-10-06T09:49:34+00:00,2026-10-06T12:43:44+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M47CYMK1JVFDG14EW860S1HV,2026-10-06T01:23:50+00:00,2026-10-06T01:26:00+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M460F793ZD0104JB2CTQR1JJ,2026-10-05T12:26:28+00:00,2026-10-05T13:01:52+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M3VPECK3HPAC6VED64E35N6M,2026-10-01T12:18:50+00:00,2026-10-01T12:32:31+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M3PNQK2GY0EVV117N7EWPFS6,2026-09-29T13:30:11+00:00,2026-09-29T13:43:12+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M3KT0YK5BJ10PCCX4BM0H31A,2026-09-28T10:47:29+00:00,2026-09-28T09:45:00+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M365Y5PYGPYV5VKPSS33W12J,2026-09-23T03:46:18+00:00,2026-09-23T03:54:07+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M32G09AHTZFXZTQVD64NZYBN,2026-09-21T17:25:16+00:00,2026-09-21T18:05:05+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M2QV2KB3AW7W2XF4T6A6V53J,2026-09-17T14:07:07+00:00,2026-09-21T07:14:42+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M2QZH9R6EBC4C4T4BMH2KQT1,2026-09-17T15:25:03+00:00,2026-09-18T12:00:31+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M2PAHCFP8JRJZ4G2QYA938F9,2026-09-16T23:58:51+00:00,2026-09-17T22:03:52+00:00,resolved,minor,0,0
+Notion,Trabajo en equipo,01M28QXV3DEYNPWFBG603YPJQA,2026-09-11T17:23:29+00:00,2026-09-11T20:04:23+00:00,resolved,major,0,0
+Notion,Trabajo en equipo,01M24FBN82NDSDHBS3HYQ5ECE6,2026-09-10T01:36:47+00:00,2026-09-10T02:20:13+00:00,resolved,none,0,0
+Notion,Trabajo en equipo,01M1M1X38BX1K95JK69Y3VDZFB,2026-09-03T16:33:47+00:00,2026-09-03T19:06:23+00:00,resolved,none,0,0
+Asana,Trabajo en equipo,n2y69mf26w75,2026-10-23T23:57:11+00:00,2026-10-24T02:35:28+00:00,resolved,major,3,0
+Asana,Trabajo en equipo,hmnfnm98zvy4,2026-10-21T15:33:46+00:00,2026-10-21T16:10:33+00:00,postmortem,major,16,0
+Asana,Trabajo en equipo,tqy08q0k3xt2,2026-09-30T14:31:08+00:00,2026-09-30T15:21:10+00:00,resolved,major,2,0
+Asana,Trabajo en equipo,p7blvtm8kymk,2026-09-29T12:14:14+00:00,2026-09-29T15:25:57+00:00,resolved,minor,1,0
+Asana,Trabajo en equipo,gbz4b5ktwzfm,2026-09-21T14:59:35+00:00,2026-09-21T16:10:01+00:00,resolved,minor,1,0
+Asana,Trabajo en equipo,b0rvydnqgdtf,2026-09-17T14:36:59+00:00,2026-09-17T15:13:16+00:00,resolved,minor,12,0
+Asana,Trabajo en equipo,70ts4fqbblrc,2026-09-02T18:08:04+00:00,2026-09-02T18:49:52+00:00,postmortem,major,3,0
+Asana,Trabajo en equipo,7402jg0zwnnv,2026-08-31T15:14:14+00:00,2026-08-31T17:18:36+00:00,postmortem,major,3,0
+Asana,Trabajo en equipo,319x04gv0gvm,2026-08-04T15:30:00+00:00,2026-08-04T15:30:00+00:00,resolved,minor,0,0
+Asana,Trabajo en equipo,nf6r56sm9cmv,2026-07-07T18:49:12+00:00,2026-07-07T19:24:08+00:00,postmortem,major,1,0
+Asana,Trabajo en equipo,1gqq6vz0195q,2026-04-29T23:19:38+00:00,2026-04-21T19:00:00+00:00,postmortem,none,0,0
+Asana,Trabajo en equipo,2f2wxzg47c7p,2026-04-29T23:09:42+00:00,2026-04-20T17:00:00+00:00,postmortem,none,0,0
+Asana,Trabajo en equipo,xzj96gm5mzw1,2026-03-26T15:03:14+00:00,2026-03-26T18:34:04+00:00,resolved,none,1,0
+Asana,Trabajo en equipo,frypwj8vz6h6,2026-03-01T20:31:19+00:00,2026-03-15T05:58:54+00:00,resolved,none,6,0
+Asana,Trabajo en equipo,71l5txgm1gy5,2026-02-05T23:49:13+00:00,2026-02-05T23:58:30+00:00,resolved,none,10,0
+Asana,Trabajo en equipo,19vj7jgqmqkm,2026-01-26T03:01:05+00:00,2026-01-26T03:29:06+00:00,resolved,minor,3,0
+Asana,Trabajo en equipo,3z9g0xv4lvdv,2026-01-22T17:48:37+00:00,2026-01-22T19:00:52+00:00,postmortem,critical,5,0
+Asana,Trabajo en equipo,5s873ddd7dkb,2026-01-06T14:17:54+00:00,2026-01-06T00:00:00+00:00,resolved,none,0,0
+Asana,Trabajo en equipo,966xb9fvsgvb,2026-01-05T21:17:38+00:00,2026-01-05T21:50:01+00:00,resolved,major,4,0
+Asana,Trabajo en equipo,j037y2nr93tp,2025-11-24T20:28:05+00:00,2025-11-18T17:00:00+00:00,resolved,none,0,0
+Asana,Trabajo en equipo,7fnc5yz6nly3,2025-11-18T22:14:07+00:00,2025-11-18T11:30:00+00:00,postmortem,none,0,0
+Asana,Trabajo en equipo,1nw7dpczrg1c,2025-11-07T21:22:28+00:00,2025-11-07T22:08:27+00:00,postmortem,critical,2,0
+Asana,Trabajo en equipo,zdyyhy959l3x,2025-10-31T16:17:53+00:00,2025-10-31T17:18:15+00:00,resolved,minor,6,0
+Asana,Trabajo en equipo,lvtt14d4d80g,2025-10-20T15:07:33+00:00,2025-10-20T20:34:08+00:00,postmortem,none,6,0
+Asana,Trabajo en equipo,zfdtyvckl5k2,2025-10-20T07:10:32+00:00,2025-10-20T10:23:35+00:00,postmortem,none,24,0
+Asana,Trabajo en equipo,vjdxmmz7mpf9,2025-10-13T16:33:00+00:00,2025-10-13T16:33:00+00:00,resolved,minor,0,0
+Asana,Trabajo en equipo,z2pjn1wslzx5,2025-10-06T18:33:43+00:00,2025-10-02T12:00:00+00:00,resolved,none,0,0
+Asana,Trabajo en equipo,2yp2xnzjbcv3,2025-08-18T01:01:14+00:00,2025-08-18T02:43:39+00:00,postmortem,major,4,0
+Asana,Trabajo en equipo,jc6077bp9jf0,2025-07-25T01:15:00+00:00,2025-07-25T01:15:00+00:00,resolved,minor,0,0
+Asana,Trabajo en equipo,trn8dzjpj1rb,2025-06-25T12:25:04+00:00,2025-06-25T12:35:28+00:00,postmortem,none,16,0
+Asana,Trabajo en equipo,5b9hhtgs3mxs,2025-06-05T17:51:05+00:00,2025-06-17T16:51:46+00:00,postmortem,maintenance,4,0
+Asana,Trabajo en equipo,j7zdn1b9kx9s,2025-04-25T22:42:47+00:00,2025-04-25T23:44:48+00:00,resolved,none,24,0
+Asana,Trabajo en equipo,6zgwkjqf028l,2025-04-08T22:47:40+00:00,2025-04-08T22:47:40+00:00,postmortem,minor,0,0
+Asana,Trabajo en equipo,htd4cqn5423l,2025-03-25T22:47:42+00:00,2025-03-25T23:09:31+00:00,postmortem,none,8,0
+Asana,Trabajo en equipo,vwn6p24yjq7q,2025-03-25T14:36:16+00:00,2025-03-25T15:28:24+00:00,resolved,none,8,0
+Asana,Trabajo en equipo,0snr4wv8405s,2025-02-06T15:38:07+00:00,2025-02-06T16:18:46+00:00,postmortem,none,8,0
+Asana,Trabajo en equipo,wy1hfksn4y9h,2025-02-05T21:19:05+00:00,2025-02-05T21:54:22+00:00,postmortem,none,2,0
+Asana,Trabajo en equipo,ck6hsz1w7s3s,2025-01-17T21:50:06+00:00,2025-01-17T23:39:04+00:00,resolved,major,5,0
+Asana,Trabajo en equipo,67p3s5lwrzcx,2024-12-03T00:09:11+00:00,2024-12-03T00:55:15+00:00,postmortem,critical,5,0
+Asana,Trabajo en equipo,qkhft0bklr6l,2024-11-22T22:45:01+00:00,2024-11-18T19:00:00+00:00,postmortem,none,0,0
+Asana,Trabajo en equipo,09j3kr2pnqsf,2024-11-08T20:46:57+00:00,2024-11-08T21:08:16+00:00,resolved,critical,15,0
+Asana,Trabajo en equipo,7ghcfky00gc2,2024-10-24T14:53:19+00:00,2024-10-24T14:53:19+00:00,resolved,none,4,0
+Asana,Trabajo en equipo,y4zz1ghn6k98,2024-10-15T13:30:00+00:00,2024-10-15T13:30:00+00:00,resolved,none,0,0
+Asana,Trabajo en equipo,20h0v584gc1z,2024-10-10T02:13:59+00:00,2024-10-10T02:52:38+00:00,postmortem,none,4,0
+Asana,Trabajo en equipo,ptm5vcr51glz,2024-09-16T18:56:53+00:00,2024-09-16T19:38:29+00:00,postmortem,minor,4,0
+Asana,Trabajo en equipo,3nbmp3s7fwhc,2024-08-20T15:32:49+00:00,2024-08-20T16:17:35+00:00,resolved,none,1,0
+Asana,Trabajo en equipo,83mrqvck8fcn,2024-08-01T15:21:32+00:00,2024-08-01T19:49:15+00:00,postmortem,none,20,0
+Asana,Trabajo en equipo,wnj2mcp35pdf,2024-07-26T21:10:36+00:00,2024-07-26T21:10:36+00:00,resolved,none,2,0
+Asana,Trabajo en equipo,mpz02gpgpwpj,2024-07-01T22:30:00+00:00,2024-07-01T22:30:00+00:00,postmortem,major,0,0
+Asana,Trabajo en equipo,vphp8ycqs76j,2024-06-28T17:50:00+00:00,2024-06-28T17:50:00+00:00,postmortem,none,0,0
+monday.com,Trabajo en equipo,klhb26mzp5rl,2026-11-12T21:05:30+00:00,,identified,minor,2,0
+monday.com,Trabajo en equipo,f01sjg1jyrb5,2026-11-10T15:39:20+00:00,2026-11-11T08:26:10+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,j8x4tbpb6p1v,2026-11-09T19:25:16+00:00,2026-11-09T21:04:40+00:00,resolved,minor,3,0
+monday.com,Trabajo en equipo,vsw706kswzff,2026-11-09T15:20:09+00:00,2026-11-09T17:30:58+00:00,postmortem,major,2,0
+monday.com,Trabajo en equipo,5mz08s104272,2026-11-04T18:28:16+00:00,2026-11-04T19:02:37+00:00,postmortem,major,4,0
+monday.com,Trabajo en equipo,4pgqxl0njp1r,2026-10-19T08:56:01+00:00,2026-10-19T09:22:02+00:00,resolved,major,1,0
+monday.com,Trabajo en equipo,45zph34w32hx,2026-10-19T07:17:16+00:00,2026-10-19T07:45:02+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,wnfnpr6n7c0y,2026-10-14T14:06:36+00:00,2026-10-14T14:53:44+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,tlm68lkf3prl,2026-09-17T09:11:05+00:00,2026-09-17T11:05:50+00:00,resolved,minor,4,0
+monday.com,Trabajo en equipo,t9f7khwjjpmg,2026-09-17T10:07:41+00:00,2026-09-17T10:39:53+00:00,resolved,major,2,0
+monday.com,Trabajo en equipo,7275f9stsgcg,2026-09-09T18:21:17+00:00,2026-09-09T18:39:18+00:00,resolved,none,0,0
+monday.com,Trabajo en equipo,kjz66hsmfctj,2026-09-05T08:31:43+00:00,2026-09-05T10:39:21+00:00,resolved,critical,3,0
+monday.com,Trabajo en equipo,42xjrcy1y260,2026-08-12T10:38:13+00:00,2026-08-12T10:42:18+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,0y4q9d35pbhv,2026-07-26T13:58:32+00:00,2026-07-24T03:30:00+00:00,resolved,none,0,0
+monday.com,Trabajo en equipo,j104myjlj203,2026-07-23T16:01:40+00:00,2026-07-23T17:08:01+00:00,resolved,minor,4,0
+monday.com,Trabajo en equipo,kvnr70xmbg8z,2026-07-13T14:37:16+00:00,2026-07-13T17:34:16+00:00,resolved,major,6,0
+monday.com,Trabajo en equipo,7bb2hk6w3ts7,2026-07-07T16:40:32+00:00,2026-07-07T17:30:48+00:00,postmortem,major,4,0
+monday.com,Trabajo en equipo,7wm1fx4glh1x,2026-07-06T13:24:16+00:00,2026-07-06T15:15:54+00:00,resolved,major,1,0
+monday.com,Trabajo en equipo,3f5hj7245gdf,2026-07-01T16:32:02+00:00,2026-07-01T16:46:30+00:00,resolved,minor,6,0
+monday.com,Trabajo en equipo,nlsxwzqxf8t7,2026-06-24T07:43:23+00:00,2026-06-24T11:50:17+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,2w5d5ryzwxxs,2026-06-22T14:31:32+00:00,2026-06-22T20:15:09+00:00,resolved,minor,3,0
+monday.com,Trabajo en equipo,zbtstsns2513,2026-05-31T05:00:00+00:00,2026-05-31T05:00:00+00:00,resolved,none,0,0
+monday.com,Trabajo en equipo,68ycl2tvs3zx,2026-05-26T13:28:50+00:00,2026-05-26T15:36:55+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,9ss58p0p8wgx,2026-05-11T12:50:06+00:00,2026-05-12T01:16:40+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,4257w2pb3tms,2026-04-28T14:11:16+00:00,2026-04-29T12:55:48+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,l3hlb848jcnn,2026-04-28T20:10:17+00:00,2026-04-28T20:40:19+00:00,resolved,minor,2,0
+monday.com,Trabajo en equipo,11ct30ymy9sn,2026-04-28T15:02:27+00:00,2026-04-28T16:09:49+00:00,resolved,minor,4,0
+monday.com,Trabajo en equipo,78cbxkj2nw9t,2026-04-27T09:45:45+00:00,2026-04-27T10:15:28+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,pqfx11kyhxjr,2026-04-26T13:15:07+00:00,2026-04-26T13:54:13+00:00,resolved,critical,3,0
+monday.com,Trabajo en equipo,xydls2grlv0t,2026-04-23T13:08:29+00:00,2026-04-23T13:33:25+00:00,resolved,critical,1,0
+monday.com,Trabajo en equipo,40x7x7pfzb14,2026-04-20T10:37:28+00:00,2026-04-20T11:35:02+00:00,resolved,minor,3,0
+monday.com,Trabajo en equipo,gnvsjb4ccwrl,2026-04-20T08:46:02+00:00,2026-04-20T08:53:55+00:00,resolved,minor,2,0
+monday.com,Trabajo en equipo,bpkrvzwksbkj,2026-03-30T15:26:53+00:00,2026-03-30T16:16:41+00:00,resolved,major,1,0
+monday.com,Trabajo en equipo,f769xk2qlzyl,2026-03-11T09:36:33+00:00,2026-03-11T12:22:44+00:00,resolved,minor,3,0
+monday.com,Trabajo en equipo,j6k350kr7dgh,2026-02-24T16:40:45+00:00,2026-02-24T17:06:20+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,0hlw20d0zqmy,2026-02-19T10:23:34+00:00,2026-02-19T12:35:35+00:00,resolved,major,1,0
+monday.com,Trabajo en equipo,481klbb7qqnq,2026-02-16T14:10:47+00:00,2026-02-16T14:49:11+00:00,postmortem,critical,2,0
+monday.com,Trabajo en equipo,hl84vh1plx0m,2026-02-05T19:21:53+00:00,2026-02-07T13:02:51+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,nx27b4sq5mgj,2026-01-28T15:27:54+00:00,2026-01-28T16:45:19+00:00,resolved,major,3,0
+monday.com,Trabajo en equipo,wfj7wdrrdwbb,2026-01-27T12:08:25+00:00,2026-01-27T12:19:12+00:00,resolved,none,1,0
+monday.com,Trabajo en equipo,860sctk2fgdk,2026-01-05T20:47:29+00:00,2026-01-06T00:22:04+00:00,resolved,minor,2,0
+monday.com,Trabajo en equipo,gnnhpbt3vk2s,2026-01-05T14:29:05+00:00,2026-01-05T15:36:25+00:00,postmortem,critical,1,0
+monday.com,Trabajo en equipo,4s7gdwhy3ct8,2025-12-15T10:37:15+00:00,2025-12-15T10:53:07+00:00,resolved,minor,3,0
+monday.com,Trabajo en equipo,m0gssjlt5s74,2025-12-09T15:46:43+00:00,2025-12-09T16:39:38+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,ycx8zkrr5n5n,2025-12-05T09:11:20+00:00,2025-12-05T10:08:47+00:00,postmortem,none,2,0
+monday.com,Trabajo en equipo,zfdchnkn46zr,2025-11-25T09:29:13+00:00,2025-11-25T10:14:50+00:00,resolved,critical,2,0
+monday.com,Trabajo en equipo,kkdc14p97vh3,2025-11-18T12:57:15+00:00,2025-11-18T17:06:44+00:00,resolved,minor,3,0
+monday.com,Trabajo en equipo,fq4443vq3fg1,2025-11-10T10:18:52+00:00,2025-11-10T10:43:27+00:00,resolved,minor,1,0
+monday.com,Trabajo en equipo,hkfmj6h4flt9,2025-11-05T15:03:39+00:00,2025-11-05T15:24:50+00:00,resolved,minor,2,0
+monday.com,Trabajo en equipo,thv3x5rn7pwj,2025-10-26T07:03:31+00:00,2025-10-26T07:09:52+00:00,resolved,major,1,0
+Trello,Trabajo en equipo,h11gfkgvjhhk,2026-05-17T10:11:02-04:00,2026-05-26T17:12:25-04:00,postmortem,minor,5,0
+Trello,Trabajo en equipo,j8fyf9mml8np,2026-05-15T11:14:21-04:00,2026-05-15T14:04:54-04:00,resolved,minor,5,0
+Trello,Trabajo en equipo,96m441rms560,2026-05-14T01:24:54-04:00,2026-05-14T02:48:27-04:00,postmortem,critical,5,0
+Trello,Trabajo en equipo,5sl4l83t29fb,2026-05-07T21:31:38-04:00,2026-05-08T06:26:50-04:00,postmortem,minor,5,0
+Trello,Trabajo en equipo,bjmg234ll6zs,2026-02-21T10:32:17-05:00,2026-02-21T10:32:19-05:00,resolved,major,5,0
+Trello,Trabajo en equipo,fs065g8blzyr,2026-02-19T10:06:25-05:00,2026-02-19T10:22:14-05:00,resolved,minor,5,0
+Trello,Trabajo en equipo,hlvn1w1s45xl,2026-02-09T03:20:54-05:00,2026-02-09T03:36:36-05:00,postmortem,none,5,0
+Trello,Trabajo en equipo,mdwnkr5ct66x,2025-12-26T23:42:32-05:00,2025-12-27T00:20:20-05:00,postmortem,critical,1,0
+Trello,Trabajo en equipo,b5skqhpbz9b8,2025-12-12T01:40:21-05:00,2025-12-12T02:41:57-05:00,postmortem,critical,5,0
+Trello,Trabajo en equipo,z4jbxrgm72z6,2025-11-21T09:55:11-05:00,2025-11-21T11:49:34-05:00,postmortem,major,5,0
+Trello,Trabajo en equipo,mh0r302hwgzk,2025-11-14T12:43:46-05:00,2025-11-14T15:30:59-05:00,resolved,minor,1,0
+Trello,Trabajo en equipo,7sp5kn3m9vmq,2025-10-20T03:56:12-04:00,2025-10-21T01:24:25-04:00,postmortem,none,5,0
+Trello,Trabajo en equipo,y7grkw34ws85,2025-09-11T09:56:45-04:00,2025-09-11T10:18:52-04:00,resolved,major,1,0
+Trello,Trabajo en equipo,x4r2jr01h698,2025-08-27T15:39:55-04:00,2025-08-27T17:12:54-04:00,resolved,major,1,0
+Trello,Trabajo en equipo,dpggwslzqg76,2025-07-30T03:16:14-04:00,2025-07-30T04:13:30-04:00,resolved,minor,1,0
+Trello,Trabajo en equipo,0bs9tk5dh7qb,2025-07-14T23:43:35-04:00,2025-07-15T01:45:48-04:00,resolved,major,5,0
+Trello,Trabajo en equipo,37kjfdm8q5xb,2025-06-25T05:38:44-04:00,2025-06-25T06:57:44-04:00,resolved,none,0,0
+Trello,Trabajo en equipo,n6q8yvx9z74k,2025-06-04T13:17:40-04:00,2025-06-04T20:59:00-04:00,resolved,none,5,0
+Trello,Trabajo en equipo,xpmc9766gct0,2025-06-02T08:08:02-04:00,2025-06-02T09:24:00-04:00,resolved,minor,1,0
+Trello,Trabajo en equipo,2pf1zsf2h2tb,2025-05-15T10:27:23-04:00,2025-05-15T11:21:01-04:00,postmortem,major,0,0
+Trello,Trabajo en equipo,64dml3bwzqxw,2025-05-05T11:08:34-04:00,2025-05-05T13:37:22-04:00,postmortem,major,1,0
+Trello,Trabajo en equipo,r0k6f35rqy7h,2025-04-25T14:39:37-04:00,2025-04-25T15:12:34-04:00,postmortem,critical,5,0
+Trello,Trabajo en equipo,2t77pgqh6kb6,2025-03-11T05:23:27-04:00,2025-03-11T09:30:05-04:00,resolved,minor,1,0
+Trello,Trabajo en equipo,41rpz72jcxqc,2025-03-10T07:15:17-04:00,2025-03-10T07:50:41-04:00,resolved,minor,1,0
+Trello,Trabajo en equipo,pg2v131b88gd,2025-03-07T07:12:26-05:00,2025-03-07T13:23:26-05:00,resolved,minor,1,0
+Trello,Trabajo en equipo,vxzvm5tdhdwq,2025-03-05T10:48:15-05:00,2025-03-05T14:44:44-05:00,resolved,minor,1,0
+Trello,Trabajo en equipo,8l3zvbmfj6pr,2025-02-13T10:54:21-05:00,2025-02-13T23:02:15-05:00,resolved,none,1,0
+Trello,Trabajo en equipo,q2by1ng3724v,2024-12-11T10:27:36-05:00,2024-12-11T12:59:47-05:00,resolved,major,2,0
+Trello,Trabajo en equipo,37cnbg16jcvh,2024-10-14T14:43:03-04:00,2024-10-15T18:25:10-04:00,resolved,minor,2,0
+Trello,Trabajo en equipo,58r3l27hnb7g,2024-09-25T15:22:46-04:00,2024-09-25T17:32:30-04:00,resolved,minor,2,0
+Trello,Trabajo en equipo,bl4fk7h4qppx,2024-09-11T22:08:09-04:00,2024-09-11T23:28:58-04:00,resolved,critical,1,0
+Trello,Trabajo en equipo,nz23zc08jkfx,2024-07-25T15:31:13-04:00,2024-07-25T16:27:39-04:00,resolved,major,1,0
+Trello,Trabajo en equipo,k0x32kxc5ppx,2024-07-09T20:49:57-04:00,2024-07-10T04:54:15-04:00,resolved,none,0,0
+Trello,Trabajo en equipo,3s5sgfn9qtfr,2024-07-03T16:51:01-04:00,2024-07-03T20:42:24-04:00,resolved,none,0,0
+Trello,Trabajo en equipo,2mpg3ctq1jkk,2024-06-27T03:57:23-04:00,2024-06-27T04:35:30-04:00,resolved,none,1,0
+Trello,Trabajo en equipo,fdbxzjph0969,2024-06-20T20:18:40-04:00,2024-06-20T22:47:46-04:00,resolved,major,1,0
+Trello,Trabajo en equipo,1vwmyw2ygcd4,2024-06-03T19:11:00-04:00,2024-06-03T20:31:06-04:00,postmortem,none,0,0
+Trello,Trabajo en equipo,4gd6fhryhz55,2024-05-23T13:56:17-04:00,2024-05-23T19:06:16-04:00,resolved,none,1,0
+Trello,Trabajo en equipo,4vtlhqx1fnsy,2024-04-09T13:24:58-04:00,2024-04-09T16:02:30-04:00,resolved,minor,1,0
+Trello,Trabajo en equipo,951yvk8bq3yj,2024-04-03T05:52:36-04:00,2024-04-03T06:23:40-04:00,resolved,none,0,0
+Trello,Trabajo en equipo,77j8718hqxsk,2024-03-25T23:17:55-04:00,2024-03-25T23:17:55-04:00,resolved,none,0,0
+Trello,Trabajo en equipo,zf2v2vn3tq5s,2024-02-28T20:27:59-05:00,2024-02-28T21:53:17-05:00,resolved,none,0,0
+Trello,Trabajo en equipo,nwtpdd286qgk,2024-02-14T16:57:43-05:00,2024-02-14T18:32:18-05:00,postmortem,none,5,0
+Trello,Trabajo en equipo,r1fz52194pcx,2024-02-13T04:30:48-05:00,2024-02-13T06:46:31-05:00,postmortem,critical,2,0
+Trello,Trabajo en equipo,x2wzzptwzjlg,2023-12-06T15:45:40-05:00,2023-12-07T14:20:37-05:00,resolved,minor,1,0
+Trello,Trabajo en equipo,ryrwhxkdbkzd,2023-12-04T11:33:13-05:00,2023-12-04T12:15:04-05:00,resolved,none,0,0
+Trello,Trabajo en equipo,gtyfsmrpb4nc,2023-11-30T09:21:24-05:00,2023-11-30T12:37:32-05:00,postmortem,critical,2,0
+Trello,Trabajo en equipo,zh18wwy1l59c,2023-11-29T00:58:41-05:00,2023-11-28T22:00:00-05:00,resolved,minor,0,0
+Trello,Trabajo en equipo,f5c69wmg9npq,2023-11-16T17:37:46-05:00,2023-11-16T18:58:22-05:00,resolved,major,1,0
+Trello,Trabajo en equipo,m1pqvkhrnkbv,2023-11-10T09:43:22-05:00,2023-11-10T11:19:19-05:00,resolved,critical,2,0
+Jira,Trabajo en equipo,d5393cmcng14,2026-11-13T06:01:27+00:00,,investigating,minor,1,0
+Jira,Trabajo en equipo,1blzrf38268l,2026-11-02T00:10:48+00:00,2026-11-02T00:38:50+00:00,resolved,major,3,0
+Jira,Trabajo en equipo,1yh59bb4lw20,2026-10-21T14:28:49+00:00,2026-10-21T15:45:09+00:00,resolved,minor,1,0
+Jira,Trabajo en equipo,vwrp378v0zmk,2026-10-01T02:55:55+00:00,2026-10-01T07:51:30+00:00,postmortem,major,2,0
+Jira,Trabajo en equipo,wzv0rl24mm4s,2026-09-24T13:54:20+00:00,2026-09-24T15:53:04+00:00,resolved,minor,2,0
+Jira,Trabajo en equipo,z77zzqy19l1v,2026-09-24T08:52:22+00:00,2026-09-24T11:46:14+00:00,resolved,none,1,0
+Jira,Trabajo en equipo,kvpmkndcdfyk,2026-09-11T07:46:31+00:00,2026-09-11T08:37:46+00:00,postmortem,minor,1,0
+Jira,Trabajo en equipo,ws0393rxcgyl,2026-09-03T15:57:31+00:00,2026-09-03T17:02:02+00:00,postmortem,critical,11,0
+Jira,Trabajo en equipo,2ghgdxhpfx4l,2026-09-01T17:09:05+00:00,2026-09-01T21:35:09+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,yntgmb0w71xn,2026-09-01T09:12:37+00:00,2026-09-01T11:44:04+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,3w5c3rkxcgwz,2026-08-31T18:28:21+00:00,2026-09-01T05:18:01+00:00,resolved,major,11,0
+Jira,Trabajo en equipo,jv8mdjyh9cn7,2026-08-27T04:22:09+00:00,2026-08-27T05:16:07+00:00,postmortem,critical,11,0
+Jira,Trabajo en equipo,l9ryy7d07wky,2026-08-25T08:42:48+00:00,2026-08-25T14:33:57+00:00,resolved,major,11,0
+Jira,Trabajo en equipo,fnvv9p58fphf,2026-08-24T19:22:47+00:00,2026-08-24T23:15:20+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,tv6rfjx9233y,2026-08-07T11:30:55+00:00,2026-08-07T12:52:22+00:00,resolved,critical,11,0
+Jira,Trabajo en equipo,r2dllgb24x2h,2026-08-07T01:24:52+00:00,2026-08-07T01:46:47+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,sd7x009p6h63,2026-07-20T20:18:31+00:00,2026-07-22T00:56:02+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,4wxvsr6lwth5,2026-07-20T16:03:35+00:00,2026-07-20T17:23:09+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,qtq461tgf0ky,2026-07-06T16:11:16+00:00,2026-07-06T18:52:11+00:00,postmortem,minor,11,0
+Jira,Trabajo en equipo,4k8mdw0fgzqc,2026-07-06T09:23:39+00:00,2026-07-06T13:04:02+00:00,postmortem,major,11,0
+Jira,Trabajo en equipo,wz4nsfzcddyv,2026-06-19T22:46:56+00:00,2026-06-26T05:13:01+00:00,resolved,major,11,0
+Jira,Trabajo en equipo,c436c8y239dv,2026-06-10T04:55:12+00:00,2026-06-10T06:31:05+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,jgzp93wzrws3,2026-06-09T05:29:37+00:00,2026-06-09T18:28:13+00:00,resolved,major,1,0
+Jira,Trabajo en equipo,zz7l9ggnb181,2026-06-08T01:53:57+00:00,2026-06-08T02:56:33+00:00,resolved,minor,6,0
+Jira,Trabajo en equipo,hfbts51tbzqr,2026-06-06T23:21:41+00:00,2026-06-07T00:13:10+00:00,resolved,major,2,0
+Jira,Trabajo en equipo,4drnxvxspl0g,2026-06-02T15:32:55+00:00,2026-06-02T16:51:29+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,4jrw66wzznqx,2026-06-01T07:40:53+00:00,2026-06-01T13:23:43+00:00,postmortem,major,11,0
+Jira,Trabajo en equipo,jk8ndk4xkl27,2026-05-20T09:17:17+00:00,2026-05-20T14:14:34+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,zq3f0j7wph20,2026-05-14T06:41:36+00:00,2026-05-14T06:48:27+00:00,postmortem,critical,11,0
+Jira,Trabajo en equipo,90cyzwh234yl,2026-05-13T01:37:35+00:00,2026-05-13T09:59:05+00:00,postmortem,major,11,0
+Jira,Trabajo en equipo,ryvrzdfwh57v,2026-05-08T01:31:38+00:00,2026-05-08T19:45:32+00:00,postmortem,minor,11,0
+Jira,Trabajo en equipo,h5692lfkkmgt,2026-05-06T03:18:26+00:00,2026-05-06T06:39:27+00:00,resolved,major,1,0
+Jira,Trabajo en equipo,vbl5kktb1tqy,2026-05-02T00:55:47+00:00,2026-05-02T02:48:03+00:00,postmortem,critical,2,0
+Jira,Trabajo en equipo,jr6nwpw15dc4,2026-04-30T08:59:03+00:00,2026-04-30T14:56:58+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,brrnrqg73r0s,2026-04-14T12:12:58+00:00,2026-04-14T16:11:31+00:00,resolved,critical,11,0
+Jira,Trabajo en equipo,5b6kytgmnt43,2026-04-13T07:29:45+00:00,2026-04-13T10:17:20+00:00,postmortem,minor,11,0
+Jira,Trabajo en equipo,dl5fbnxkfwpn,2026-04-08T05:41:18+00:00,2026-04-08T11:43:29+00:00,postmortem,critical,11,0
+Jira,Trabajo en equipo,k3xn13mfw75x,2026-03-18T11:29:14+00:00,2026-03-19T04:08:08+00:00,postmortem,critical,11,0
+Jira,Trabajo en equipo,6r753nxv1mqp,2026-03-10T00:06:29+00:00,2026-03-10T00:59:03+00:00,resolved,major,11,0
+Jira,Trabajo en equipo,0790r1wd2tbp,2026-02-19T16:44:49+00:00,2026-02-20T12:26:08+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,y5pnbcy4qvjv,2026-02-12T10:44:05+00:00,2026-02-19T08:04:57+00:00,resolved,major,11,0
+Jira,Trabajo en equipo,2ncm1y5j4vs2,2026-02-18T10:57:38+00:00,2026-02-18T11:30:29+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,7yg61d3jfpdp,2026-02-06T20:24:43+00:00,2026-02-07T05:38:02+00:00,resolved,critical,11,0
+Jira,Trabajo en equipo,zgn6gvq0mdpj,2026-02-05T14:13:18+00:00,2026-02-05T21:38:38+00:00,resolved,critical,11,0
+Jira,Trabajo en equipo,myckl60jvppk,2026-02-03T10:19:54+00:00,2026-02-03T10:50:35+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,sh4h6whwpnlv,2026-01-28T18:12:17+00:00,2026-01-28T19:42:33+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,6658fz5mbn8j,2026-01-20T19:10:42+00:00,2026-01-20T23:09:39+00:00,resolved,minor,11,0
+Jira,Trabajo en equipo,mp71pbt7v1ps,2026-01-12T18:23:28+00:00,2026-01-12T23:45:11+00:00,resolved,major,11,0
+Jira,Trabajo en equipo,4wt6sbfk5gvp,2026-01-06T05:18:20+00:00,2026-01-07T11:32:21+00:00,resolved,major,11,0
+Jira,Trabajo en equipo,ly6977b64j2k,2025-12-27T04:42:32+00:00,2025-12-27T05:20:20+00:00,postmortem,critical,1,0
+ClickUp,Trabajo en equipo,01M1EAXDX8F4DR0YD3KNAGNM87,2026-09-01T11:15:49+00:00,2026-07-27T21:15:18+00:00,resolved,minor,0,0
+ClickUp,Trabajo en equipo,01KXZDM28PV7R76A0NXBG2S292,2026-07-20T09:27:26+00:00,2019-04-30T03:21:24+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM2QK7P9NPV67Z4BCBHDV,2026-07-20T09:27:26+00:00,2019-04-25T06:21:09+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM36DBEM6EAJ16TQS31AN,2026-07-20T09:27:27+00:00,2019-04-06T07:29:42+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM3MY1NN4SDJWM94KREN7,2026-07-20T09:27:27+00:00,2019-04-06T06:53:12+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM43DJJV4JF98XKNS4ZM2,2026-07-20T09:27:28+00:00,2019-04-06T06:52:51+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM4HZ8JQH3SXAB8K7C6K0,2026-07-20T09:27:28+00:00,2019-04-05T10:52:32+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM50FP0G18YT9PBFFX809,2026-07-20T09:27:29+00:00,2019-04-01T18:28:53+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM5FRH5357GBGH7PH8G6S,2026-07-20T09:27:29+00:00,2019-03-26T14:06:42+00:00,resolved,none,0,0
+ClickUp,Trabajo en equipo,01KXZDM5XNFW9Q7MRA226980NW,2026-07-20T09:27:29+00:00,2019-03-18T12:59:00+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM6BWZZ5PW92GWNED4SD4,2026-07-20T09:27:30+00:00,2019-02-19T03:19:00+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM6TD59XCXAJ7D2P82MBP,2026-07-20T09:27:30+00:00,2019-02-18T14:01:20+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM78QPZTQNAP54D4TR8FK,2026-07-20T09:27:31+00:00,2019-02-13T02:32:28+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM7Q7S64NEBCA6JT69ZH7,2026-07-20T09:27:31+00:00,2019-02-13T02:32:42+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM85J995NCCKKZM63RTEE,2026-07-20T09:27:32+00:00,2018-12-13T00:50:27+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM8KWKTVKZYVZZE3K536E,2026-07-20T09:27:32+00:00,2018-12-05T21:01:35+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM92CPB2QZKQY0QXGGYRG,2026-07-20T09:27:33+00:00,2018-12-05T15:50:08+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM9H13R4DXFR0WZ3VHWXA,2026-07-20T09:27:33+00:00,2018-11-11T21:03:22+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDM9ZK1ZBPJ7JNCHGVP722,2026-07-20T09:27:34+00:00,2018-10-25T10:12:10+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDMAE1G0M83WM60R7R4AF0,2026-07-20T09:27:34+00:00,2018-10-11T14:44:59+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDMAWSCT5E8FWV2PHPR1WA,2026-07-20T09:27:35+00:00,2018-10-10T12:44:10+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDMBBX95PGYW0DZWJBX5K3,2026-07-20T09:27:35+00:00,2018-10-01T16:53:00+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDMBTKY7P1F0XJAYHP27T7,2026-07-20T09:27:36+00:00,2018-08-28T05:14:23+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDMC90RE6K4RKW1HBKEFSJ,2026-07-20T09:27:36+00:00,2018-08-28T02:43:45+00:00,resolved,major,0,0
+ClickUp,Trabajo en equipo,01KXZDMCQBEQD7XMGXF6D9ZJKW,2026-07-20T09:27:36+00:00,2018-08-21T22:52:20+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01M217GEGMY6HFGHHKXMZ8S1Z9,2026-09-08T19:21:52+00:00,2026-09-09T14:24:41+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01M1C3Q046HQDEZ69N9ZNFK5H2,2026-08-31T14:31:29+00:00,2026-08-31T15:57:15+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01KS5HMCMPZTHS7FX5B5HSYTWP,2026-05-21T15:14:28+00:00,2026-05-21T18:56:18+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01KQSWV9S3DGDDJ6WDQ6NEQD1E,2026-05-04T16:23:54+00:00,2026-05-04T19:01:22+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01KQAAGPH5QCZE34W1TRM0EA1Q,2026-04-28T15:14:56+00:00,2026-04-28T15:38:47+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01KKHEQEPYS4BC7ANWTRANAAHY,2026-03-12T16:40:25+00:00,2026-03-12T19:49:00+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01KJWXGPVC0QZMDWH3XQNTCM1J,2026-03-04T17:14:50+00:00,2026-03-04T17:41:39+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01KJD245QK5ZAEPPHNPVA8H7JB,2026-02-26T13:27:31+00:00,2026-02-26T13:36:04+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01KHBGSP4C6WA0PXCPJ3NZC5K4,2026-02-13T12:49:45+00:00,2026-02-13T15:45:05+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01KFKC5JB1JDNFY7KB1J2PK55B,2026-01-22T17:31:23+00:00,2026-01-22T22:13:55+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01KD4VCDPFY0JFB5R9BY2166QT,2025-12-23T05:37:17+00:00,2025-12-23T10:33:33+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01KCKY2CTE9QFX3W0FH4W2AJ6T,2025-12-16T15:57:08+00:00,2025-12-16T16:20:00+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01KABMWHYWEXDX4PBHQ2JTH5Z4,2025-11-18T14:11:21+00:00,2025-11-18T17:30:48+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01K8T9K84X7XJB90J0KGT0QCSY,2025-10-30T10:11:14+00:00,2025-10-30T11:11:21+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01K81BQFCS8P3JDDJFGFWF6VMV,2025-10-20T17:47:29+00:00,2025-10-21T15:30:45+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01K81J86Q4Y53CZGTXS2X7RBT5,2025-10-20T19:41:29+00:00,2025-10-21T00:29:43+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01K80CZ70SR41FT8JBV97YJZMA,2025-10-20T08:49:57+00:00,2025-10-20T11:01:06+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01K4S5A309MDBN7BZ55C5Q2EFD,2025-09-10T06:34:18+00:00,2025-09-10T07:04:02+00:00,resolved,minor,0,0
+Miro,Trabajo en equipo,01K30R1F4HZ0FK0KGQ49MRGQ62,2025-08-19T08:44:56+00:00,2025-08-19T09:37:50+00:00,resolved,none,0,0
+Miro,Trabajo en equipo,01JYRYNQ6XR81R6TQFECK59RVC,2025-06-27T15:04:08+00:00,2025-06-27T15:19:08+00:00,resolved,none,0,0
+Miro,Trabajo en equipo,01JYNWVMN7KTV2TDWEP2SGWR09,2025-06-26T10:34:42+00:00,2025-06-27T11:28:42+00:00,resolved,none,0,0
+Miro,Trabajo en equipo,01JYDP8DKD64VJRJG9SVNB966D,2025-06-23T06:05:25+00:00,2025-06-23T08:56:27+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01JW5Z03HSCDKHR515R7CN7VH3,2025-05-26T09:32:51+00:00,2025-05-26T10:06:30+00:00,resolved,major,0,0
+Miro,Trabajo en equipo,01JVM02CS6688D63V6VDB91RRD,2025-05-19T10:05:14+00:00,2025-05-19T14:16:20+00:00,resolved,none,0,0
+Miro,Trabajo en equipo,01JVM56TTA6ZD1KPQYQKN1V836,2025-05-19T11:35:03+00:00,2025-05-19T14:13:19+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,t39th0dxrw4h,2026-10-30T10:38:09+00:00,2026-11-01T20:44:50+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,fnnhpdx1nbgw,2026-10-13T10:25:41+00:00,2026-10-13T10:52:43+00:00,resolved,minor,2,0
+Figma,Trabajo en equipo,l376b3fy6y47,2026-09-27T01:04:18+00:00,2026-09-27T02:32:40+00:00,resolved,critical,17,0
+Figma,Trabajo en equipo,bzgyp689s7cy,2026-08-26T12:08:58+00:00,2026-08-26T16:19:32+00:00,resolved,major,1,0
+Figma,Trabajo en equipo,8cwfrc0gv32w,2026-07-27T19:29:19+00:00,2026-07-27T22:49:58+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,ddbwz1qj47l1,2026-06-18T23:46:52+00:00,2026-06-19T12:40:44+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,404gg8wp0yzy,2026-06-16T19:41:02+00:00,2026-06-16T19:41:02+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,qvxr0g4j6wr7,2026-04-20T06:42:20+00:00,2026-04-20T15:50:45+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,rqqppqkspl38,2026-04-09T19:00:37+00:00,2026-04-10T16:00:12+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,gz35jpkd6g79,2026-03-12T14:00:18+00:00,2026-03-12T22:11:36+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,m9n5ygbwl962,2026-03-06T21:40:02+00:00,2026-03-07T18:08:40+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,y8pltwjvzwsl,2026-02-17T15:03:54+00:00,2026-02-17T20:00:26+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,6r7n9yyrhh7q,2026-02-06T00:34:43+00:00,2026-02-06T00:34:43+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,hvzk9m2f6y9d,2026-01-29T19:39:23+00:00,2026-02-02T01:57:54+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,m0rzwjjq49jm,2026-01-27T20:01:22+00:00,2026-01-27T23:41:20+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,ws5z74jhgmn3,2026-01-23T01:05:34+00:00,2026-01-23T17:48:16+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,7ywfg7g5vdlf,2026-01-07T18:19:24+00:00,2026-01-07T20:24:58+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,8c2c9s4w0p0k,2025-12-15T17:00:29+00:00,2025-12-15T17:30:21+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,292fckk253km,2025-11-18T14:01:25+00:00,2025-11-18T18:04:13+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,gf388g8vqg02,2025-10-20T19:55:45+00:00,2025-10-21T06:53:59+00:00,resolved,minor,2,0
+Figma,Trabajo en equipo,bkpswv5x7pyc,2025-10-01T21:43:29+00:00,2025-10-02T03:53:08+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,hcj9r8n3dmxq,2025-09-06T03:16:04+00:00,2025-09-06T04:40:57+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,148t07f9kf7d,2025-06-13T16:52:09+00:00,2025-06-13T22:22:49+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,ndhnfhhgyy3f,2025-06-12T18:57:17+00:00,2025-06-12T23:03:45+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,pdkflg59v76w,2025-06-05T20:56:29+00:00,2025-06-05T23:31:57+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,qklh3rp7sjyw,2025-04-16T12:46:03+00:00,2025-04-16T13:24:04+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,vltfrg01khqg,2025-04-11T17:53:28+00:00,2025-04-12T00:31:55+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,0l58j0l2gwrm,2025-04-07T16:47:07+00:00,2025-04-08T05:51:16+00:00,resolved,none,1,0
+Figma,Trabajo en equipo,df14rwqk4521,2025-02-14T01:30:28+00:00,2025-02-25T16:23:38+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,7yjr3b5xb9ct,2025-01-22T17:59:30+00:00,2025-01-22T21:28:01+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,8rqmk3gvpjmy,2025-01-22T06:30:00+00:00,2025-01-22T06:30:00+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,qhvkh7f2gskf,2025-01-08T21:38:49+00:00,2025-01-08T23:07:08+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,khz18xjzwg3d,2024-12-03T17:49:31+00:00,2024-12-03T19:22:19+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,rc9qyvz0kyds,2024-11-28T00:34:41+00:00,2024-11-28T03:50:50+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,qs079s80k9r5,2024-10-08T17:17:42+00:00,2024-10-08T17:28:29+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,h42nwfc7mymr,2024-09-30T16:37:41+00:00,2024-09-30T19:01:26+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,yx9dfgjyy8jd,2024-09-26T17:42:34+00:00,2024-09-26T18:25:36+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,70s0lrwdxw5m,2024-09-10T07:57:52+00:00,2024-09-10T11:24:00+00:00,resolved,major,1,0
+Figma,Trabajo en equipo,dzqjnn9bg6g9,2024-09-09T22:06:04+00:00,2024-09-09T23:25:56+00:00,resolved,minor,1,0
+Figma,Trabajo en equipo,6wdtxztlh74l,2024-09-09T12:02:28+00:00,2024-09-09T13:30:57+00:00,resolved,minor,1,0
+Figma,Trabajo en equipo,t8pdbxsjx00y,2024-07-22T13:58:30+00:00,2024-07-22T14:58:29+00:00,resolved,major,2,0
+Figma,Trabajo en equipo,9m39f8b4w5vt,2024-06-10T23:17:45+00:00,2024-06-11T00:20:45+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,9trc3brlw7kk,2024-05-10T19:27:23+00:00,2024-05-10T19:27:24+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,pvtqh9q3n2lf,2024-04-18T23:56:29+00:00,2024-04-15T23:31:00+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,46nf2pxsfr8k,2024-02-28T02:30:17+00:00,2024-02-28T01:33:00+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,6f8ktkwhqyg3,2024-02-14T15:59:04+00:00,2024-02-14T21:03:29+00:00,resolved,minor,1,0
+Figma,Trabajo en equipo,7pv5g1mprtgc,2023-12-10T04:18:25+00:00,2023-12-10T04:18:33+00:00,resolved,minor,0,0
+Figma,Trabajo en equipo,0w8vc9q9fz89,2023-11-21T00:11:16+00:00,2023-11-21T00:11:16+00:00,resolved,none,0,0
+Figma,Trabajo en equipo,6zm2kmz2gwzn,2023-11-15T20:55:20+00:00,2023-11-15T22:33:27+00:00,resolved,minor,1,0
+Figma,Trabajo en equipo,txgmhs9vcvfg,2023-11-15T02:23:57+00:00,2023-11-15T01:30:00+00:00,resolved,none,0,0
+Airtable,Trabajo en equipo,t85ps5czkjds,2026-07-08T19:17:30+00:00,2026-07-08T20:59:10+00:00,resolved,major,1,0
+Airtable,Trabajo en equipo,smm5pkv1bdfg,2026-06-29T18:33:53+00:00,2026-06-29T19:13:04+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,qhrcwbb25mqj,2026-06-08T19:44:23+00:00,2026-06-08T20:00:22+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,sk5yby378sgd,2026-04-30T09:01:38+00:00,2026-04-30T11:19:45+00:00,resolved,major,1,0
+Airtable,Trabajo en equipo,sphhmhjwdmy2,2026-04-16T18:54:04+00:00,2026-04-16T19:38:34+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,klkym21k2ngv,2026-03-13T21:11:20+00:00,2026-03-13T23:44:38+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,zq43jxjxnxwy,2026-03-11T19:01:24+00:00,2026-03-12T01:19:40+00:00,resolved,major,1,0
+Airtable,Trabajo en equipo,2n6qq3xbrsjp,2026-02-20T18:44:42+00:00,2026-02-21T01:27:45+00:00,resolved,critical,1,0
+Airtable,Trabajo en equipo,3b5b6xxwpcb5,2026-02-13T05:40:38+00:00,2026-02-13T07:49:05+00:00,resolved,major,1,0
+Airtable,Trabajo en equipo,qvpb6wtg4gp4,2026-02-12T17:29:20+00:00,2026-02-13T05:06:30+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,hbqjc22nkyw5,2026-01-21T22:36:06+00:00,2026-01-21T23:49:46+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,jm82c9bcpdh1,2025-11-20T18:26:33+00:00,2025-11-20T19:34:48+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,jnw3d5rc2w61,2025-10-30T20:48:05+00:00,2025-10-31T04:43:10+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,5fjdt23kq98k,2025-10-20T07:25:21+00:00,2025-10-21T16:51:52+00:00,resolved,major,1,0
+Airtable,Trabajo en equipo,yc1r320352wh,2025-09-25T19:09:25+00:00,2025-09-25T21:37:11+00:00,resolved,none,0,0
+Airtable,Trabajo en equipo,qpv80dhw3zfk,2025-07-31T17:01:39+00:00,2025-08-08T20:05:28+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,bnyrkl9f4qns,2025-07-30T01:26:39+00:00,2025-07-30T02:43:12+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,6kpx56qkdl47,2025-07-28T22:54:21+00:00,2025-07-29T02:13:04+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,cy3q82th21b1,2025-07-23T01:05:06+00:00,2025-07-23T01:39:57+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,rzvv32zs6y61,2025-06-26T22:25:11+00:00,2025-06-26T22:47:55+00:00,resolved,critical,1,0
+Airtable,Trabajo en equipo,5mnnqr1mcv6k,2025-06-04T20:43:28+00:00,2025-06-04T23:57:50+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,2sr2k238jr06,2025-05-16T19:48:09+00:00,2025-05-16T20:20:12+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,5yg3ydtr5s0h,2025-04-30T13:12:50+00:00,2025-04-30T17:28:25+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,zz9h6ykrmqjn,2025-04-23T03:34:33+00:00,2025-04-23T14:32:36+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,k89f7njsg1dx,2025-04-08T20:01:46+00:00,2025-04-08T22:16:10+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,v11hhzjkd988,2025-03-28T17:36:05+00:00,2025-03-28T21:27:04+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,qj0pnp56bg7s,2025-03-11T23:59:41+00:00,2025-03-13T03:18:00+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,ykw6bkz0hhrt,2025-03-11T02:59:29+00:00,2025-03-11T05:23:12+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,7g5nvn93zj52,2025-02-28T17:56:33+00:00,2025-02-28T20:42:38+00:00,resolved,none,0,0
+Airtable,Trabajo en equipo,glmz3j773gv5,2025-02-26T16:54:09+00:00,2025-02-27T01:58:57+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,hbknbt9lknpb,2025-01-21T22:35:08+00:00,2025-01-21T23:17:13+00:00,resolved,minor,0,0
+Airtable,Trabajo en equipo,b1l735bvqyx7,2025-01-08T19:13:39+00:00,2025-01-08T19:34:47+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,ptn0mrf136dm,2024-11-21T18:30:29+00:00,2024-11-21T21:14:46+00:00,resolved,minor,1,0
+Airtable,Trabajo en equipo,nfkcwvz7gv67,2024-11-11T18:16:54+00:00,2024-11-11T18:50:16+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,ws98txrv7kxp,2024-10-23T18:24:16+00:00,2024-10-23T20:31:56+00:00,resolved,none,0,0
+Airtable,Trabajo en equipo,st9psy8zp22j,2024-09-26T16:26:04+00:00,2024-09-26T18:22:42+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,0wxkkcknq9y6,2024-09-10T01:58:11+00:00,2024-09-10T04:41:30+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,0z77gjsnbqhm,2024-09-03T20:26:33+00:00,2024-09-03T20:26:33+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,rnjz5d7hf1bq,2024-09-02T15:20:07+00:00,2024-09-02T15:53:58+00:00,resolved,none,0,0
+Airtable,Trabajo en equipo,4mb1zlfxmsld,2024-08-30T15:24:02+00:00,2024-08-30T15:34:58+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,4bm2961sjly4,2024-08-16T18:23:43+00:00,2024-08-16T18:29:01+00:00,resolved,none,0,0
+Airtable,Trabajo en equipo,h21y159bwsn4,2024-08-16T02:17:52+00:00,2024-08-16T03:15:09+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,sxt6ty5mh6k3,2024-08-08T18:19:19+00:00,2024-08-08T18:30:18+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,nqnpx79vnbcd,2024-07-15T23:34:47+00:00,2024-07-16T00:49:17+00:00,resolved,major,1,0
+Airtable,Trabajo en equipo,8jl3djtxxv8n,2024-06-05T13:59:17+00:00,2024-06-05T20:14:27+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,qkw14cp82kqc,2024-05-27T15:37:53+00:00,2024-05-27T18:44:31+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,tmhz7lqvvd87,2024-03-21T16:42:18+00:00,2024-03-22T00:27:02+00:00,resolved,major,1,0
+Airtable,Trabajo en equipo,drpbjdb1g5p9,2024-03-07T15:17:16+00:00,2024-03-07T15:50:56+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,qjlkrkf9h66l,2024-03-05T20:55:34+00:00,2024-03-06T01:24:41+00:00,resolved,none,1,0
+Airtable,Trabajo en equipo,nlqtrr1pt62m,2024-02-23T19:39:34+00:00,2024-02-24T00:03:29+00:00,resolved,none,1,0
+Dropbox,Archivos,n7nms5rwjl3x,2026-11-12T22:20:40+00:00,2026-11-12T22:33:51+00:00,resolved,minor,1,0
+Dropbox,Archivos,vv8tcb8dzh16,2026-09-09T21:36:10+00:00,2026-09-09T22:35:21+00:00,resolved,major,1,0
+Dropbox,Archivos,9pw2xsg6vsr6,2026-09-03T22:13:35+00:00,2026-09-04T05:02:56+00:00,resolved,minor,1,0
+Dropbox,Archivos,t5y9w8skf214,2026-08-25T23:14:32+00:00,2026-08-26T11:01:25+00:00,resolved,minor,1,0
+Dropbox,Archivos,q9v98cvgfbms,2026-08-21T13:18:11+00:00,2026-08-21T15:12:53+00:00,resolved,minor,3,0
+Dropbox,Archivos,pczflzc6zgnh,2026-07-23T15:12:08+00:00,2026-07-23T15:36:52+00:00,resolved,minor,1,0
+Dropbox,Archivos,hdg94pq9kwgb,2026-06-08T19:43:48+00:00,2026-06-12T16:54:48+00:00,resolved,minor,1,0
+Dropbox,Archivos,0yf2tzsb2dkt,2026-05-27T20:05:40+00:00,2026-05-27T22:31:57+00:00,resolved,minor,1,0
+Dropbox,Archivos,jnnysc59s84z,2026-05-18T19:11:42+00:00,2026-05-18T17:00:00+00:00,resolved,none,0,0
+Dropbox,Archivos,c2332s4s59qc,2026-04-15T03:51:52+00:00,2026-04-15T04:16:33+00:00,resolved,major,1,0
+Dropbox,Archivos,x0pz71gj2kt2,2026-04-09T21:32:31+00:00,2026-04-10T00:54:51+00:00,resolved,minor,1,0
+Dropbox,Archivos,7sk6tmhjntkq,2026-01-22T01:30:41+00:00,2026-01-22T10:00:34+00:00,resolved,minor,1,0
+Dropbox,Archivos,dw73q8991lbx,2026-01-15T06:59:52+00:00,2026-01-15T08:19:51+00:00,resolved,minor,1,0
+Dropbox,Archivos,rv4s502gjxt6,2025-11-18T14:38:23+00:00,2025-11-18T14:53:39+00:00,resolved,major,1,0
+Dropbox,Archivos,ygpccbh12mmn,2025-11-14T20:00:04+00:00,2025-11-14T21:11:24+00:00,resolved,major,4,0
+Dropbox,Archivos,ysdnz99hhbf4,2025-10-21T14:32:54+00:00,2025-10-21T21:13:12+00:00,resolved,minor,1,0
+Dropbox,Archivos,54wwj5295j7p,2025-10-14T09:06:38+00:00,2025-10-14T12:49:33+00:00,resolved,minor,1,0
+Dropbox,Archivos,j26kng7dqvrb,2025-09-23T18:55:17+00:00,2025-09-23T19:17:29+00:00,resolved,minor,4,0
+Dropbox,Archivos,5x2hj7pd5vyl,2025-09-02T13:16:25+00:00,2025-09-02T13:48:54+00:00,resolved,minor,1,0
+Dropbox,Archivos,qw2zcbx56cg8,2025-08-29T19:17:03+00:00,2025-08-30T10:01:05+00:00,resolved,minor,1,0
+Dropbox,Archivos,rfhwycp3mdfw,2025-05-23T19:31:05+00:00,2025-05-23T20:24:54+00:00,resolved,minor,1,0
+Dropbox,Archivos,j47qrn8xzbgs,2025-05-15T16:35:16+00:00,2025-05-16T19:15:31+00:00,resolved,minor,1,0
+Dropbox,Archivos,4l8htd2016pf,2025-05-14T18:24:48+00:00,2025-05-14T19:24:00+00:00,resolved,minor,7,0
+Dropbox,Archivos,qg0zdcd545j2,2025-05-05T21:38:12+00:00,2025-05-06T03:40:08+00:00,resolved,minor,1,0
+Dropbox,Archivos,819myyd174x1,2025-05-05T18:26:57+00:00,2025-05-05T21:30:15+00:00,resolved,minor,1,0
+Dropbox,Archivos,m4vmngw5nrm5,2025-05-01T21:57:54+00:00,2025-05-02T02:07:57+00:00,resolved,minor,4,0
+Dropbox,Archivos,5pyrxmg9cwtv,2025-04-17T17:21:54+00:00,2025-04-17T17:21:54+00:00,resolved,none,0,0
+Dropbox,Archivos,qx8phd57ymk7,2025-04-09T19:58:36+00:00,2025-04-10T07:53:06+00:00,resolved,none,1,0
+Dropbox,Archivos,6lcm24ynztty,2025-03-20T20:35:18+00:00,2025-04-04T16:22:22+00:00,resolved,minor,1,0
+Dropbox,Archivos,np9rsdc10d1m,2025-01-22T15:45:43+00:00,2025-01-22T15:52:34+00:00,resolved,major,1,0
+Dropbox,Archivos,7xqwc5h408rs,2024-12-12T00:36:09+00:00,2024-12-12T00:36:09+00:00,resolved,none,1,0
+Dropbox,Archivos,wqx7s21cr4tf,2024-11-07T23:31:10+00:00,2024-11-12T23:08:46+00:00,resolved,minor,1,0
+Dropbox,Archivos,fw9gq0pm4yxr,2024-11-12T23:05:28+00:00,2024-11-12T23:05:28+00:00,resolved,none,10,0
+Dropbox,Archivos,l2m730df1t5p,2024-10-23T18:24:10+00:00,2024-10-23T18:59:51+00:00,resolved,minor,10,0
+Dropbox,Archivos,cgbskdwn7mts,2024-09-26T21:37:30+00:00,2024-09-27T00:48:56+00:00,resolved,minor,1,0
+Dropbox,Archivos,qxwy7bj9pvcv,2024-09-25T18:10:01+00:00,2024-09-26T00:01:32+00:00,resolved,minor,1,0
+Dropbox,Archivos,hxt5dbmb5tjj,2024-09-03T18:26:08+00:00,2024-09-03T19:20:49+00:00,resolved,none,0,0
+Dropbox,Archivos,fpzgmrzltwyj,2024-07-09T20:54:57+00:00,2024-07-09T21:18:29+00:00,resolved,minor,1,0
+Dropbox,Archivos,91v3cytk9zwy,2024-07-08T21:43:11+00:00,2024-07-08T21:57:52+00:00,resolved,minor,1,0
+Dropbox,Archivos,flwvpy8ybj6t,2024-06-21T18:30:29+00:00,2024-06-25T16:33:34+00:00,resolved,minor,1,0
+Dropbox,Archivos,0xzfcjfbg6qj,2024-06-22T01:47:56+00:00,2024-06-22T05:46:31+00:00,resolved,minor,1,0
+Dropbox,Archivos,qw9qy8ksfzpn,2024-06-18T14:07:21+00:00,2024-06-18T16:18:06+00:00,resolved,minor,1,0
+Dropbox,Archivos,g9p0hvdq1n1k,2024-05-24T00:41:25+00:00,2024-06-07T19:40:50+00:00,resolved,minor,1,0
+Dropbox,Archivos,cvj5nhhgxghg,2024-05-30T18:43:52+00:00,2024-05-30T20:15:30+00:00,resolved,minor,1,0
+Dropbox,Archivos,rc24b1lgtbr2,2024-05-29T15:57:14+00:00,2024-05-29T16:24:11+00:00,resolved,minor,1,0
+Dropbox,Archivos,hxfmj9qrw6qr,2024-05-28T15:46:25+00:00,2024-05-28T17:14:35+00:00,resolved,minor,3,0
+Dropbox,Archivos,p03j81xfbzjq,2024-05-23T10:43:20+00:00,2024-05-23T11:32:02+00:00,resolved,minor,2,0
+Dropbox,Archivos,p6rsv1fgxhsb,2024-05-17T16:38:59+00:00,2024-05-17T19:08:54+00:00,resolved,minor,1,0
+Dropbox,Archivos,v96m7m80zzws,2024-05-14T00:19:56+00:00,2024-05-14T00:19:56+00:00,resolved,none,1,0
+Dropbox,Archivos,plz0zpnzbfpx,2024-05-13T15:31:17+00:00,2024-05-14T00:14:10+00:00,resolved,none,1,0
+Box,Archivos,zwwv3pxkq66v,2026-11-03T21:48:44-08:00,2026-11-04T01:07:24-08:00,resolved,minor,1,0
+Box,Archivos,8mlj3j9t0xx9,2026-10-19T19:19:09-07:00,2026-10-19T20:47:59-07:00,postmortem,major,4,0
+Box,Archivos,j6l1h67d01hc,2026-10-15T01:30:38-07:00,2026-10-15T05:41:41-07:00,postmortem,major,1,0
+Box,Archivos,nby3tvjc88nf,2026-10-08T02:27:55-07:00,2026-10-08T02:33:09-07:00,postmortem,critical,23,0
+Box,Archivos,gpq20z01s4y9,2026-10-07T18:48:20-07:00,2026-10-07T20:54:12-07:00,resolved,major,2,0
+Box,Archivos,ykw1vy641q3p,2026-09-30T11:08:23-07:00,2026-10-05T07:09:08-07:00,postmortem,major,1,0
+Box,Archivos,9zt2kt0r08xy,2026-10-01T20:43:52-07:00,2026-10-01T03:00:00-07:00,postmortem,major,0,0
+Box,Archivos,nymp07yk68rh,2026-09-29T07:15:57-07:00,2026-09-29T08:30:00-07:00,postmortem,critical,0,0
+Box,Archivos,qvw8ppb72m38,2026-09-28T03:04:05-07:00,2026-09-28T03:31:51-07:00,postmortem,major,1,0
+Box,Archivos,sy0782slzd2t,2026-09-03T19:10:06-07:00,2026-09-03T20:03:26-07:00,postmortem,minor,1,0
+Box,Archivos,1yxxnk5jp1h9,2026-08-28T01:20:35-07:00,2026-08-28T03:00:41-07:00,postmortem,major,1,0
+Box,Archivos,3thgpsg9qpd6,2026-08-24T23:53:37-07:00,2026-08-25T00:37:39-07:00,postmortem,critical,5,0
+Box,Archivos,sd640nc9mkr1,2026-08-24T14:21:52-07:00,2026-08-24T15:03:07-07:00,postmortem,major,2,0
+Box,Archivos,xm3xmcl0c5hf,2026-08-24T10:30:00-07:00,2026-08-24T10:30:00-07:00,postmortem,minor,0,0
+Box,Archivos,nnsrr0wr5qpv,2026-08-19T17:31:23-07:00,2026-08-19T18:44:28-07:00,postmortem,major,2,0
+Box,Archivos,zccvq8lr58jr,2026-08-19T15:00:00-07:00,2026-08-19T15:00:00-07:00,postmortem,major,0,0
+Box,Archivos,lz8jjkn75gyg,2026-08-19T04:38:19-07:00,2026-08-19T05:03:02-07:00,resolved,minor,1,0
+Box,Archivos,lpcwd88jzdzn,2026-08-06T19:37:34-07:00,2026-08-06T22:16:57-07:00,postmortem,major,7,0
+Box,Archivos,lgpl7g7n0t84,2026-08-04T13:23:03-07:00,2026-08-04T13:44:52-07:00,postmortem,major,2,0
+Box,Archivos,4swwrrjj1y7s,2026-07-31T04:09:34-07:00,2026-07-31T04:30:17-07:00,postmortem,major,1,0
+Box,Archivos,5f0xf1cbcpvv,2026-07-27T19:58:26-07:00,2026-07-27T21:57:55-07:00,postmortem,minor,1,0
+Box,Archivos,p8jg1sgbmk4n,2026-07-23T07:14:47-07:00,2026-07-23T07:30:22-07:00,postmortem,major,1,0
+Box,Archivos,73k8gbsk6nf0,2026-07-23T02:45:51-07:00,2026-07-23T04:42:10-07:00,postmortem,major,1,0
+Box,Archivos,tq711b9h023x,2026-07-16T14:30:27-07:00,2026-07-16T14:48:30-07:00,postmortem,major,2,0
+Box,Archivos,sqlxzk5v13d0,2026-07-14T21:14:09-07:00,2026-07-14T23:43:22-07:00,postmortem,major,1,0
+Box,Archivos,40zm4w1j4fyc,2026-07-07T07:11:14-07:00,2026-07-07T09:19:34-07:00,postmortem,major,3,0
+Box,Archivos,8wq1nq6mj333,2026-06-25T12:29:04-07:00,2026-06-25T14:47:38-07:00,postmortem,major,1,0
+Box,Archivos,z2877jpczd9r,2026-06-24T05:18:40-07:00,2026-06-24T05:33:15-07:00,postmortem,minor,1,0
+Box,Archivos,0ws7h1m5npqw,2026-06-17T12:34:08-07:00,2026-06-17T13:28:10-07:00,postmortem,major,4,0
+Box,Archivos,51dltrh13zzn,2026-06-10T17:34:13-07:00,2026-06-10T19:01:00-07:00,postmortem,major,4,0
+Box,Archivos,hmldgmrlw7vw,2026-06-03T10:53:00-07:00,2026-06-03T10:53:00-07:00,postmortem,critical,0,0
+Box,Archivos,yyz4tkky4fwr,2026-05-31T17:58:40-07:00,2026-05-31T19:25:47-07:00,postmortem,major,1,0
+Box,Archivos,flg9088vj5bh,2026-05-22T01:46:15-07:00,2026-05-22T02:18:22-07:00,postmortem,major,1,0
+Box,Archivos,nz4lgqjc9kwn,2026-05-14T12:30:00-07:00,2026-05-14T12:30:00-07:00,postmortem,major,0,0
+Box,Archivos,6wq3xnxtnflt,2026-05-06T18:20:15-07:00,2026-05-06T20:07:43-07:00,postmortem,critical,3,0
+Box,Archivos,wnjtwzb7dt5h,2026-04-27T10:36:40-07:00,2026-04-27T12:11:39-07:00,resolved,major,1,0
+Box,Archivos,bblsr3byykkt,2026-04-02T21:04:31-07:00,2026-04-03T01:09:36-07:00,postmortem,critical,1,0
+Box,Archivos,tc5ktgwbm9x2,2026-03-24T22:52:05-07:00,2026-03-25T10:00:26-07:00,postmortem,critical,1,0
+Box,Archivos,2950yxqgqf2y,2026-03-25T04:44:45-07:00,2026-03-25T07:03:53-07:00,resolved,major,1,0
+Box,Archivos,z5kwthjc2c7h,2026-03-19T20:37:48-07:00,2026-03-19T22:08:54-07:00,postmortem,major,3,0
+Box,Archivos,k7hsgbs103sx,2026-03-18T11:00:00-07:00,2026-03-18T11:00:00-07:00,resolved,major,0,0
+Box,Archivos,gky2z4ck5y6p,2026-03-09T17:30:24-07:00,2026-03-09T18:14:03-07:00,postmortem,minor,1,0
+Box,Archivos,hbkyb6npjb8w,2026-02-27T12:02:45-08:00,2026-02-27T15:51:54-08:00,postmortem,major,1,0
+Box,Archivos,8fz6wqqt5csw,2026-02-25T05:00:14-08:00,2026-02-25T06:16:45-08:00,postmortem,major,1,0
+Box,Archivos,yb6gsksvbkzf,2026-02-24T15:32:12-08:00,2026-02-24T16:15:38-08:00,postmortem,critical,1,0
+Box,Archivos,wf5c7yk7rnss,2026-02-24T06:59:00-08:00,2026-02-24T08:07:33-08:00,postmortem,critical,3,0
+Box,Archivos,7ws4ydyyxgrc,2026-02-20T11:11:55-08:00,2026-02-20T12:37:30-08:00,postmortem,minor,2,0
+Box,Archivos,kxsd3vwnnn5m,2026-01-08T23:14:12-08:00,2026-01-08T22:00:00-08:00,resolved,critical,0,0
+Box,Archivos,nk46jrrlqdsr,2026-01-07T17:39:31-08:00,2026-01-07T18:37:45-08:00,postmortem,critical,17,0
+Box,Archivos,qjfrndl5bzhq,2026-01-02T16:16:11-08:00,2026-01-02T05:30:00-08:00,postmortem,major,0,0
+Factorial,Gestión,mb4m7y9cpdhm,2026-10-27T09:55:26+00:00,2026-10-27T15:39:38+00:00,resolved,major,3,0
+Factorial,Gestión,f7yvcxmj3n83,2026-06-01T08:13:36+00:00,2026-06-01T14:14:18+00:00,resolved,minor,2,0
+Factorial,Gestión,b2rwc1w1dkb2,2026-02-26T09:04:43+00:00,2026-02-26T13:12:34+00:00,resolved,minor,1,0
+Factorial,Gestión,fmzs6s9zzbpz,2026-02-23T10:47:16+00:00,2026-02-24T23:33:27+00:00,resolved,minor,2,0
+Factorial,Gestión,wcfg8bnps8m5,2026-02-20T11:57:41+00:00,2026-02-21T08:55:39+00:00,resolved,major,3,0
+Factorial,Gestión,l0t3kwsq9knd,2026-02-18T16:17:31+00:00,2026-02-19T22:16:36+00:00,resolved,major,1,0
+Factorial,Gestión,b6m3pt2fhd9k,2026-02-13T17:37:57+00:00,2026-02-13T17:44:51+00:00,resolved,critical,2,0
+Factorial,Gestión,vxxtvh26h21m,2026-02-12T13:39:03+00:00,2026-02-12T15:13:41+00:00,resolved,critical,3,0
+Factorial,Gestión,kwklq586p30l,2026-01-01T11:42:39+00:00,2026-01-04T16:00:42+00:00,resolved,major,1,0
+Factorial,Gestión,9p6vbm5d5ryx,2025-12-05T09:04:41+00:00,2025-12-05T09:23:25+00:00,resolved,critical,7,0
+Factorial,Gestión,yxpj4jpd2vpv,2025-11-12T16:15:16+00:00,2025-11-12T16:39:05+00:00,resolved,minor,2,0
+Factorial,Gestión,ybs2kp8g2ftn,2025-10-02T10:30:00+00:00,2025-10-02T10:30:00+00:00,resolved,minor,0,0
+Factorial,Gestión,g6dw5fkbpxp3,2025-09-23T07:24:44+00:00,2025-09-23T08:03:34+00:00,resolved,minor,1,0
+Factorial,Gestión,14d0dwx3jtrx,2025-06-16T16:41:02+00:00,2025-06-17T13:32:03+00:00,resolved,none,1,0
+Factorial,Gestión,2p7nyhmd38dz,2025-05-23T22:00:24+00:00,2025-05-24T02:00:14+00:00,resolved,critical,3,0
+Factorial,Gestión,3h2zqgm0h2m0,2025-05-16T05:30:45+00:00,2025-05-16T04:30:00+00:00,resolved,none,0,0
+Factorial,Gestión,q6twp667t80y,2025-04-24T14:03:22+00:00,2025-04-24T14:28:07+00:00,resolved,major,2,0
+Factorial,Gestión,ttm2c80jrqyh,2025-03-12T18:13:32+00:00,2025-03-12T18:13:32+00:00,resolved,none,0,0
+Factorial,Gestión,m0hgx1h2dkys,2025-02-07T09:23:21+00:00,2025-02-06T11:30:00+00:00,resolved,major,0,0
+Factorial,Gestión,bcrgxplwscc6,2025-02-03T13:23:13+00:00,2025-02-04T17:28:45+00:00,resolved,critical,2,0
+Factorial,Gestión,1xkxsm09fjyw,2025-01-24T11:41:42+00:00,2025-01-24T15:43:42+00:00,resolved,minor,2,0
+Factorial,Gestión,fww7mt59xs9v,2025-01-18T15:29:47+00:00,2025-01-18T16:12:55+00:00,resolved,critical,1,0
+Factorial,Gestión,y95tks8t6f4p,2025-01-13T08:36:04+00:00,2025-01-13T09:02:36+00:00,resolved,major,2,0
+Factorial,Gestión,qgwmrw976g6t,2024-11-22T20:21:04+00:00,2024-11-25T15:32:54+00:00,resolved,major,1,0
+Factorial,Gestión,zyrtg2lhfytx,2024-11-25T07:45:57+00:00,2024-11-25T06:00:00+00:00,resolved,major,0,0
+Factorial,Gestión,77hmc9676nzr,2024-11-18T15:57:44+00:00,2024-11-18T15:57:44+00:00,resolved,none,1,0
+Factorial,Gestión,z6hbckd8qkc3,2024-11-15T12:20:15+00:00,2024-11-15T12:20:15+00:00,resolved,major,1,0
+Factorial,Gestión,nk6l61jcrf7h,2024-11-08T19:55:20+00:00,2024-11-09T09:48:40+00:00,resolved,minor,2,0
+Factorial,Gestión,fhq0qwmplmlc,2024-10-23T08:39:58+00:00,2024-10-23T12:06:22+00:00,resolved,minor,1,0
+Factorial,Gestión,0dwyb9rv7hp4,2024-10-17T08:56:39+00:00,2024-10-17T12:30:54+00:00,resolved,none,2,0
+Factorial,Gestión,lvt4m538z53j,2024-10-15T10:20:35+00:00,2024-10-15T09:00:00+00:00,resolved,none,0,0
+Factorial,Gestión,y01ydtx8y7tv,2024-09-30T12:30:07+00:00,2024-09-30T15:40:57+00:00,resolved,major,2,0
+Factorial,Gestión,ggk9701r4dbk,2024-09-30T07:41:57+00:00,2024-09-30T08:51:03+00:00,resolved,minor,1,0
+Factorial,Gestión,g8cj07tp980z,2024-08-28T12:00:54+00:00,2024-08-28T13:19:57+00:00,resolved,major,1,0
+Factorial,Gestión,5t3m7jltt6f6,2024-08-26T14:34:19+00:00,2024-08-26T12:00:00+00:00,resolved,major,0,0
+Factorial,Gestión,k25mvj09h3ys,2024-07-15T11:50:40+00:00,2024-07-15T12:13:30+00:00,resolved,critical,1,0
+Factorial,Gestión,g734sz93gttq,2024-07-09T11:56:45+00:00,2024-07-09T12:09:45+00:00,resolved,minor,2,0
+Factorial,Gestión,0ybkqy3wy9b3,2024-07-01T14:58:45+00:00,2024-07-01T14:58:45+00:00,resolved,none,1,0
+Factorial,Gestión,9f2gwgfnsz4y,2024-06-05T07:00:00+00:00,2024-06-05T07:00:00+00:00,resolved,major,0,0
+Factorial,Gestión,yxz0xkk2xjs4,2023-04-03T10:56:52+00:00,2023-04-03T10:59:34+00:00,resolved,critical,1,0
+Factorial,Gestión,pmp8zzqvvtyf,2023-04-03T10:46:46+00:00,2023-04-03T10:49:39+00:00,resolved,critical,1,0
+Factorial,Gestión,d4lm91y3p8q7,2023-03-30T08:18:27+00:00,2023-03-30T09:44:34+00:00,resolved,critical,1,0
+Factorial,Gestión,mfcfr92yytts,2023-03-16T17:05:00+00:00,2023-03-16T17:05:40+00:00,resolved,critical,1,0
+Factorial,Gestión,f0f79q4fd7n0,2023-03-13T15:09:49+00:00,2023-03-13T15:17:20+00:00,resolved,critical,1,0
+Factorial,Gestión,nxxq8gd2j0h4,2023-03-04T21:50:53+00:00,2023-03-04T21:52:37+00:00,resolved,minor,1,0
+Factorial,Gestión,8j3mwc4slnk7,2020-10-01T12:00:00+00:00,2020-10-01T10:30:00+00:00,resolved,major,0,0
+Factorial,Gestión,w9h2y1rrn713,2020-09-09T14:15:52+00:00,2020-09-09T14:15:52+00:00,postmortem,major,2,0
+Factorial,Gestión,fwdjj42yh6s4,2020-06-10T14:47:43+00:00,2020-06-10T16:07:17+00:00,resolved,minor,1,0
+Factorial,Gestión,1mv876ky27g4,2020-05-19T12:30:00+00:00,2020-05-19T13:30:00+00:00,postmortem,major,0,0
+Factorial,Gestión,wcy86drvx4wd,2020-05-18T07:30:53+00:00,2020-05-18T14:14:49+00:00,resolved,critical,1,0
+Zapier,Automatización e IA,01M78NJCQV73GSP9R0S1WX3SPM,2026-11-12T20:00:46+00:00,2026-11-12T20:53:22+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M6M3Z72594QTTSZP590QMHGK,2026-11-04T20:28:23+00:00,2026-11-04T23:57:02+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M6HKJMAX17KXZTSX5VJZ1ZCP,2026-11-03T21:03:25+00:00,2026-11-03T21:40:22+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M6EZC3ZN9Z07T4JMKYGNVC6P,2026-11-02T20:31:51+00:00,2026-11-02T21:08:10+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M6470SKX5YZT3H9MKWXE244Z,2026-10-29T16:13:50+00:00,2026-10-29T18:53:48+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M5J3NSJ2BYAG62SKG4SC24EH,2026-10-22T15:29:04+00:00,2026-10-27T10:56:14+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M5M64DQSY4FAAKQFF6K8CBX1,2026-10-23T10:50:29+00:00,2026-10-26T23:02:18+00:00,resolved,major,0,0
+Zapier,Automatización e IA,01M5FGV3Q05KAE7XA8DEHFJDT6,2026-10-21T15:21:26+00:00,2026-10-22T16:22:51+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M5HYPNNVAQQPNWSF691PS7XK,2026-10-22T14:02:10+00:00,2026-10-22T14:46:25+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M5FCS7MVR5GRTXC918E6ZDYZ,2026-10-21T14:10:30+00:00,2026-10-21T20:22:28+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M52GSN41TE72S9G36GB63GRG,2026-10-16T14:10:31+00:00,2026-10-16T15:23:15+00:00,resolved,major,0,0
+Zapier,Automatización e IA,01M4WR0D6C5W96XTXS9AQBD22D,2026-10-14T08:21:05+00:00,2026-10-14T22:28:01+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M4WWJGF0FJZ2Y1MVACAK2TV7,2026-10-14T09:40:53+00:00,2026-10-14T10:29:43+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M4GT5C6JT9KR59RWQAJ1J9TX,2026-10-09T17:07:52+00:00,2026-10-12T13:04:51+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M4QM8MSF4PCMEZCWYPTBD27T,2026-10-12T08:39:29+00:00,2026-10-12T10:27:57+00:00,resolved,minor,0,0
+Zapier,Automatización e IA,01M46PNZQTBTNRCQVW1WZ8846V,2026-10-05T18:54:38+00:00,2026-10-05T19:46:06+00:00,resolved,major,0,0
+Zapier,Automatización e IA,01M3KYY2P1C1GYVSMN27VZFP7F,2026-09-28T12:13:17+00:00,2026-09-28T13:18:16+00:00,resolved,minor,0,0
+Zapier,Automatización e IA,01M329DC8THGZ7H8R65869299Z,2026-09-21T15:30:05+00:00,2026-09-21T19:27:41+00:00,resolved,minor,0,0
+Zapier,Automatización e IA,01M23MR3RRFCQ119H6VX8N9D3M,2026-09-09T17:51:43+00:00,2026-09-09T19:41:25+00:00,resolved,major,0,0
+Zapier,Automatización e IA,01M20NFAB8480D5PJP43DC2Z0F,2026-09-08T14:06:41+00:00,2026-09-08T17:08:14+00:00,resolved,minor,0,0
+Zapier,Automatización e IA,01M1EDMRY46H75PAN3HJ56DY7J,2026-09-01T12:03:31+00:00,2026-09-07T12:44:40+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M14CQXM2KJ2TNYJC813SPZ5G,2026-08-28T14:35:21+00:00,2026-08-28T15:35:58+00:00,resolved,minor,0,0
+Zapier,Automatización e IA,01M0ZFYYM9AASCQ6T6N5KPAT4K,2026-08-26T16:55:25+00:00,2026-08-26T21:41:41+00:00,resolved,minor,0,0
+Zapier,Automatización e IA,01M0HV3V4P98D60N2VTYC1MC3F,2026-08-21T09:40:58+00:00,2026-08-25T14:20:24+00:00,resolved,none,0,0
+Zapier,Automatización e IA,01M0KBKKS2ZS262BZ6EE957HCJ,2026-08-21T23:48:26+00:00,2026-08-22T02:19:23+00:00,resolved,none,0,0
+Make,Automatización e IA,9x55dhncnls5,2026-11-09T17:34:25+01:00,2026-11-10T09:19:23+01:00,resolved,major,1,0
+Make,Automatización e IA,hdqb40x49v8z,2026-11-02T14:48:30+01:00,2026-11-03T09:35:58+01:00,resolved,minor,6,0
+Make,Automatización e IA,kmfmzcvvcwpp,2026-10-12T10:23:42+02:00,2026-10-12T11:29:15+02:00,resolved,minor,6,0
+Make,Automatización e IA,pvh608m5w3xm,2026-09-23T13:29:33+02:00,2026-09-23T12:30:00+02:00,resolved,none,0,0
+Make,Automatización e IA,8dcj10wk0psk,2026-09-18T15:36:11+02:00,2026-09-18T19:32:26+02:00,resolved,major,4,0
+Make,Automatización e IA,c3xpdwdfvmbh,2026-09-09T18:11:53+02:00,2026-09-10T12:29:21+02:00,resolved,major,3,0
+Make,Automatización e IA,szgygdf8lw57,2026-09-02T16:59:08+02:00,2026-09-02T16:00:00+02:00,resolved,minor,0,0
+Make,Automatización e IA,jv7ppx5n5912,2026-08-26T11:21:19+02:00,2026-08-26T11:21:19+02:00,resolved,minor,2,0
+Make,Automatización e IA,k3vtyjd4qrdq,2026-08-24T13:36:46+02:00,2026-08-24T13:46:53+02:00,resolved,minor,2,0
+Make,Automatización e IA,q9vl12qn8wc1,2026-08-14T13:28:08+02:00,2026-08-14T14:19:03+02:00,resolved,minor,1,0
+Make,Automatización e IA,klbdpdcxl01s,2026-08-04T22:43:09+02:00,2026-08-10T17:10:17+02:00,resolved,minor,4,0
+Make,Automatización e IA,t9s44gdkfpxj,2026-07-30T09:55:24+02:00,2026-07-31T14:35:42+02:00,resolved,minor,7,0
+Make,Automatización e IA,9nwkjytn6sfb,2026-07-30T12:32:12+02:00,2026-07-31T13:51:13+02:00,resolved,minor,2,0
+Make,Automatización e IA,f5qq4xdrx54t,2026-07-29T16:23:28+02:00,2026-07-22T17:30:00+02:00,resolved,major,0,0
+Make,Automatización e IA,1z8b50x9jctr,2026-07-17T15:34:28+02:00,2026-07-22T14:07:43+02:00,resolved,major,6,0
+Make,Automatización e IA,zqlz9ybzcvp9,2026-07-19T07:58:27+02:00,2026-07-20T10:49:33+02:00,resolved,major,1,0
+Make,Automatización e IA,d8jprgy9pq5h,2026-07-17T16:22:03+02:00,2026-07-17T17:09:41+02:00,resolved,major,7,0
+Make,Automatización e IA,xj20n638z2w2,2026-07-17T12:20:45+02:00,2026-07-17T14:21:19+02:00,resolved,major,7,0
+Make,Automatización e IA,34mtspcvfnvd,2026-07-07T08:50:19+02:00,2026-07-14T15:22:58+02:00,resolved,major,6,0
+Make,Automatización e IA,07pn8l856njv,2026-06-30T11:59:26+02:00,2026-06-30T22:33:53+02:00,resolved,none,6,0
+Make,Automatización e IA,mlzpzx3tpvrt,2026-06-29T18:22:06+02:00,2026-06-29T20:10:52+02:00,resolved,major,7,0
+Make,Automatización e IA,hrdfzpr4mlv9,2026-06-21T10:22:06+02:00,2026-06-21T12:24:50+02:00,resolved,minor,3,0
+Make,Automatización e IA,ty90201wkxpc,2026-06-19T16:08:46+02:00,2026-06-19T17:11:04+02:00,resolved,major,7,0
+Make,Automatización e IA,d93nxjj6j385,2026-06-12T18:01:55+02:00,2026-06-12T15:30:00+02:00,resolved,none,0,0
+Make,Automatización e IA,zqf51yzxt5jx,2026-05-27T14:55:31+02:00,2026-05-27T14:00:00+02:00,resolved,none,0,0
+Make,Automatización e IA,lgvl7zzry7gq,2026-05-22T11:57:31+02:00,2026-05-22T14:47:39+02:00,resolved,major,7,0
+Make,Automatización e IA,27xhr1g46h79,2026-05-13T10:19:15+02:00,2026-05-14T07:59:33+02:00,resolved,minor,6,0
+Make,Automatización e IA,4h0z79c379w2,2026-05-13T12:49:33+02:00,2026-05-13T20:08:04+02:00,resolved,major,2,0
+Make,Automatización e IA,66frqpwqdy61,2026-04-20T10:52:49+02:00,2026-04-20T11:16:19+02:00,resolved,major,1,0
+Make,Automatización e IA,ml5kv9rdddq0,2026-04-17T16:35:51+02:00,2026-04-17T17:14:49+02:00,resolved,major,6,0
+Make,Automatización e IA,84t2mwsr0q3y,2026-04-15T17:19:01+02:00,2026-04-15T19:16:28+02:00,resolved,minor,1,0
+Make,Automatización e IA,n0k81p3sk4sj,2026-03-31T17:48:27+02:00,2026-03-31T23:02:29+02:00,resolved,major,1,0
+Make,Automatización e IA,8plvxd5554rk,2026-03-30T16:24:56+02:00,2026-03-30T17:31:38+02:00,resolved,minor,1,0
+Make,Automatización e IA,k6n01ff4p7xq,2026-03-29T14:28:15+02:00,2026-03-29T16:30:21+02:00,resolved,minor,2,0
+Make,Automatización e IA,lqm7rkddbzrv,2026-03-25T08:11:54+01:00,2026-03-25T09:48:35+01:00,resolved,minor,6,0
+Make,Automatización e IA,z89fj24msn83,2026-03-11T19:25:47+01:00,2026-03-12T14:49:15+01:00,resolved,major,1,0
+Make,Automatización e IA,d4rf4b977c1s,2026-03-10T14:56:51+01:00,2026-03-11T12:51:50+01:00,resolved,none,1,0
+Make,Automatización e IA,2xdw18lhyxnc,2026-02-27T20:48:47+01:00,2026-03-05T11:47:10+01:00,resolved,none,1,0
+Make,Automatización e IA,l74wt43qnwpx,2026-02-24T11:45:38+01:00,2026-02-24T12:13:50+01:00,resolved,critical,6,0
+Make,Automatización e IA,96x8l8xm116h,2026-02-11T13:44:50+01:00,2026-02-11T13:56:21+01:00,resolved,minor,7,0
+Make,Automatización e IA,rs988ll8cb9t,2026-01-27T16:46:09+01:00,2026-01-27T18:38:04+01:00,resolved,minor,1,0
+Make,Automatización e IA,974xgshcw3k7,2026-01-03T06:31:23+01:00,2026-01-03T21:51:08+01:00,resolved,major,2,0
+Make,Automatización e IA,9w7czxd765p6,2025-12-19T19:02:20+01:00,2025-12-19T20:06:30+01:00,resolved,minor,5,0
+Make,Automatización e IA,bfbl42wzr6nv,2025-12-19T01:17:53+01:00,2025-12-19T12:02:44+01:00,resolved,critical,7,0
+Make,Automatización e IA,pslctxhlm7gd,2025-12-17T19:15:56+01:00,2025-12-17T23:15:29+01:00,resolved,minor,7,0
+Make,Automatización e IA,vp9pcmqh9ymf,2025-12-05T10:18:28+01:00,2025-12-05T11:31:27+01:00,resolved,major,29,0
+Make,Automatización e IA,wy8hrfpm6k8t,2025-11-27T16:38:55+01:00,2025-11-28T11:19:07+01:00,resolved,none,1,0
+Make,Automatización e IA,h1prljrjk7y8,2025-11-21T12:18:59+01:00,2025-11-21T17:48:26+01:00,resolved,minor,1,0
+Make,Automatización e IA,bw8c4xb3fg8x,2025-11-18T13:14:08+01:00,2025-11-18T21:48:22+01:00,resolved,minor,9,0
+Make,Automatización e IA,w648wyc1mwzd,2025-11-12T17:24:49+01:00,2025-11-12T19:18:56+01:00,resolved,major,3,0
+OpenAI,Automatización e IA,01M79GYA0GA772Y6D089AH5478,2026-11-13T03:59:08+00:00,2026-11-13T05:55:44+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M78GAT3AK9P9W8Z230KHFVE8,2026-11-12T18:29:14+00:00,,investigating,minor,0,0
+OpenAI,Automatización e IA,01M77FAXVFV338GY7G9VRENRS5,2026-11-12T08:52:35+00:00,2026-11-12T09:25:12+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M76CW2D7FM7K7F8NJ4W0G08N,2026-11-11T22:50:17+00:00,2026-11-12T08:32:37+00:00,resolved,critical,0,0
+OpenAI,Automatización e IA,01M765MJQK7F85SC82RMTYN0V3,2026-11-11T20:43:51+00:00,2026-11-11T20:52:40+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M6S2FV5TZWQ753NHRB7BF5K7,2026-11-06T18:38:43+00:00,2026-11-10T16:06:18+00:00,resolved,none,0,0
+OpenAI,Automatización e IA,01M71W79MAGEXEX93QTVTBYJ4K,2026-11-10T04:42:21+00:00,2026-11-10T07:02:33+00:00,resolved,none,0,0
+OpenAI,Automatización e IA,01M7193DWYRFWQM5W6E3VZ7TM7,2026-11-09T23:08:12+00:00,2026-11-09T23:50:46+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M70RDA2GWD2WXE58ANY0WV5R,2026-11-09T18:16:30+00:00,2026-11-09T19:08:31+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M6XVDCKRT3PSB0YP8J30GTD5,2026-11-08T15:11:15+00:00,2026-11-08T17:00:42+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M6P50GPP1V98EF8MJ9SH393R,2026-11-05T15:25:03+00:00,2026-11-06T04:31:37+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M6MBCX427A7113A3T4FJ1N6Y,2026-11-04T22:38:12+00:00,2026-11-05T00:32:37+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M6FDZ89W4PKDS19K496J307G,2026-11-03T00:46:58+00:00,2026-11-03T05:39:36+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M6754SR14HCQ3E9FX426E2N7,2026-10-30T19:38:47+00:00,2026-10-30T21:14:12+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M66KSDH67V5BQ73PE8AD2W8S,2026-10-30T14:35:28+00:00,2026-10-30T18:36:55+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M5YY4A3TQETEQ53DVSK8SW10,2026-10-27T15:02:15+00:00,2026-10-27T16:20:06+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M5Y60NQGGN514EB3943V94EN,2026-10-27T08:00:50+00:00,2026-10-27T08:30:00+00:00,resolved,none,0,0
+OpenAI,Automatización e IA,01M5WPZTT0385GMEV1353ZC4AM,2026-10-26T18:19:00+00:00,2026-10-26T18:30:18+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M5NFF94XCJ6CGTD4S78A9BEB,2026-10-23T22:52:56+00:00,2026-10-23T23:43:22+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M5NAR5GZC5M7D0S7AQ6CGEEN,2026-10-23T21:30:25+00:00,2026-10-23T22:02:57+00:00,resolved,none,0,0
+OpenAI,Automatización e IA,01M5KDJ4079XQTZDSRX40NMN6H,2026-10-23T03:41:03+00:00,2026-10-23T05:58:06+00:00,resolved,none,0,0
+OpenAI,Automatización e IA,01M5JHVJVC8WAXB4WRYFMKG6HP,2026-10-22T19:36:53+00:00,2026-10-23T00:07:55+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M5JF8DR3EGQJNTXPZ24AKX2G,2026-10-22T18:51:28+00:00,2026-10-22T20:55:48+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M5GPE9C4E19HE461P8JAMYXD,2026-10-22T02:18:32+00:00,2026-10-22T08:50:43+00:00,resolved,minor,0,0
+OpenAI,Automatización e IA,01M5G9QQ9V4CYDWFRYF9BWZ5GG,2026-10-21T22:36:29+00:00,2026-10-20T17:35:00+00:00,resolved,major,0,0
+Claude,Automatización e IA,sqn3fg1l96dl,2026-11-12T17:52:44+00:00,,identified,major,2,0
+Claude,Automatización e IA,pgz8r13pk4sm,2026-11-10T21:47:48+00:00,2026-11-10T21:47:48+00:00,resolved,none,0,0
+Claude,Automatización e IA,kw2lxj1th04c,2026-11-08T08:28:32+00:00,2026-11-08T08:54:43+00:00,resolved,minor,4,0
+Claude,Automatización e IA,phg1y2yh07n2,2026-10-28T16:19:09+00:00,2026-10-28T20:05:18+00:00,resolved,minor,3,0
+Claude,Automatización e IA,9ftx658xtd5z,2026-10-28T03:59:32+00:00,2026-10-28T05:48:13+00:00,resolved,minor,3,0
+Claude,Automatización e IA,lqhknfdjrcst,2026-10-27T15:09:08+00:00,2026-10-27T15:50:17+00:00,resolved,major,4,0
+Claude,Automatización e IA,0q89dylg9vjk,2026-10-27T09:14:35+00:00,2026-10-27T09:56:46+00:00,resolved,major,4,0
+Claude,Automatización e IA,vx06kp8wfpq2,2026-10-25T08:17:08+00:00,2026-10-25T08:49:29+00:00,resolved,major,4,0
+Claude,Automatización e IA,334jvgbrc4ff,2026-10-25T06:14:18+00:00,2026-10-25T07:53:39+00:00,resolved,major,4,0
+Claude,Automatización e IA,0ns5clsk8p2x,2026-10-24T05:16:50+00:00,2026-10-24T05:53:30+00:00,resolved,major,4,0
+Claude,Automatización e IA,3cqf3pmlnr96,2026-10-24T00:31:37+00:00,2026-10-24T00:37:17+00:00,resolved,major,4,0
+Claude,Automatización e IA,h101vcmhnfky,2026-10-23T23:37:42+00:00,2026-10-24T00:11:20+00:00,resolved,critical,4,0
+Claude,Automatización e IA,wj6r4t6mxq1r,2026-10-22T03:50:12+00:00,2026-10-22T08:07:03+00:00,resolved,minor,2,0
+Claude,Automatización e IA,njk29r81v3wg,2026-10-21T19:49:06+00:00,2026-10-21T20:29:17+00:00,resolved,minor,4,0
+Claude,Automatización e IA,978mjkgw6mh7,2026-10-07T13:25:04+00:00,2026-10-13T18:00:04+00:00,resolved,major,1,0
+Claude,Automatización e IA,vmys9qn874h4,2026-10-07T21:23:29+00:00,2026-10-07T21:23:29+00:00,resolved,none,0,0
+Claude,Automatización e IA,wf2v8ms031sx,2026-10-07T01:20:26+00:00,2026-10-07T02:33:38+00:00,resolved,major,1,0
+Claude,Automatización e IA,ch27pb90bn85,2026-10-06T12:24:32+00:00,2026-10-06T12:43:02+00:00,resolved,major,4,0
+Claude,Automatización e IA,bhphxz3vr58g,2026-10-05T13:05:44+00:00,2026-10-05T13:21:37+00:00,resolved,major,4,0
+Claude,Automatización e IA,k0h22tsvnydg,2026-10-01T16:20:40+00:00,2026-10-01T22:36:22+00:00,resolved,minor,2,0
+Claude,Automatización e IA,4xvtc2gnq73l,2026-09-29T14:21:37+00:00,2026-09-29T16:27:21+00:00,resolved,major,5,0
+Claude,Automatización e IA,7g1qpkyz5gxh,2026-09-22T00:57:26+00:00,2026-09-22T02:35:23+00:00,resolved,major,4,0
+Claude,Automatización e IA,t8fpw9vcshl9,2026-09-16T16:18:10+00:00,2026-09-16T16:51:09+00:00,resolved,none,0,0
+Claude,Automatización e IA,6304r9jjhj34,2026-09-15T09:48:23+00:00,2026-09-15T11:14:44+00:00,resolved,major,4,0
+Claude,Automatización e IA,r1pqn1kb4hvk,2026-09-10T15:54:10+00:00,2026-09-14T19:14:45+00:00,resolved,major,1,0
+Claude,Automatización e IA,t33dncr5ydvl,2026-09-11T14:19:51+00:00,2026-09-11T14:37:11+00:00,resolved,major,4,0
+Claude,Automatización e IA,2pt83vlkk7x7,2026-09-10T21:43:40+00:00,2026-09-10T23:24:22+00:00,resolved,minor,2,0
+Claude,Automatización e IA,461yvfrzpwtt,2026-09-03T13:26:04+00:00,2026-09-03T16:23:12+00:00,resolved,major,4,0
+Claude,Automatización e IA,288w7p4hk1l1,2026-09-03T12:37:31+00:00,2026-09-03T12:56:26+00:00,resolved,major,4,0
+Claude,Automatización e IA,ls6bn1x81m0w,2026-09-02T21:17:58+00:00,2026-09-02T21:44:28+00:00,resolved,major,4,0
+Claude,Automatización e IA,620swtqyn24k,2026-09-01T23:26:48+00:00,2026-09-02T01:24:22+00:00,resolved,minor,1,0
+Claude,Automatización e IA,3g3d55q6vk3h,2026-09-01T17:05:11+00:00,2026-09-01T18:07:03+00:00,resolved,minor,2,0
+Claude,Automatización e IA,nr3h7bw8b3k3,2026-09-01T16:02:48+00:00,2026-09-01T16:22:19+00:00,resolved,minor,1,0
+Claude,Automatización e IA,r82kdk0m7vqh,2026-08-31T19:21:32+00:00,2026-08-31T20:36:00+00:00,resolved,minor,2,0
+Claude,Automatización e IA,9jrp5rtyzrf6,2026-08-31T17:23:06+00:00,2026-08-31T17:52:26+00:00,resolved,minor,1,0
+Claude,Automatización e IA,vr9tpk8w7zr8,2026-08-28T17:22:02+00:00,2026-08-28T20:21:18+00:00,resolved,major,2,0
+Claude,Automatización e IA,n0rlp126qf8g,2026-08-24T20:11:23+00:00,2026-08-24T20:26:21+00:00,resolved,minor,3,0
+Claude,Automatización e IA,w43j3xmngxgj,2026-08-24T17:12:42+00:00,2026-08-24T17:16:02+00:00,resolved,minor,1,0
+Claude,Automatización e IA,vgz5psbjmt1h,2026-08-24T05:06:39+00:00,2026-08-24T08:30:47+00:00,resolved,major,4,0
+Claude,Automatización e IA,c0ncxxm2wd9r,2026-08-20T19:16:24+00:00,2026-08-20T19:42:38+00:00,resolved,major,4,0
+Claude,Automatización e IA,6xskhw7rn4tf,2026-08-20T18:32:13+00:00,2026-08-20T19:01:03+00:00,resolved,minor,4,0
+Claude,Automatización e IA,hkcw95k7r0f4,2026-08-19T09:42:37+00:00,2026-08-19T11:02:18+00:00,resolved,minor,4,0
+Claude,Automatización e IA,q7txxvbsftgq,2026-08-18T16:20:22+00:00,2026-08-18T19:01:45+00:00,resolved,minor,4,0
+Claude,Automatización e IA,zhk4v3yv1lsf,2026-08-17T13:56:41+00:00,2026-08-17T15:29:25+00:00,resolved,minor,4,0
+Claude,Automatización e IA,qt14v73myyy5,2026-08-16T21:58:56+00:00,2026-08-16T22:34:39+00:00,resolved,critical,5,0
+Claude,Automatización e IA,hdynq1pc0fn8,2026-08-14T23:57:16+00:00,2026-08-15T00:27:36+00:00,resolved,major,1,0
+Claude,Automatización e IA,005ym4vzrq2w,2026-08-14T20:30:36+00:00,2026-08-14T21:58:12+00:00,resolved,major,3,0
+Claude,Automatización e IA,kmbpgrsszf72,2026-08-14T07:58:11+00:00,2026-08-14T10:53:22+00:00,resolved,none,0,0
+Claude,Automatización e IA,whnd2z49x3xf,2026-08-14T00:36:42+00:00,2026-08-14T00:51:24+00:00,resolved,minor,1,0
+Claude,Automatización e IA,j160kkjmm2n1,2026-08-13T14:33:45+00:00,2026-08-13T16:08:35+00:00,resolved,major,4,0
